@@ -24,6 +24,58 @@
       },
       "quantity": 1
     },
+    "b196dfc1-2dd8-4a3e-b0a3-afd2bbc60d66": {
+      "templateId": "PersonalVehicle:vid_hoverboard",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "73531b8b-8325-43b4-84f2-a2ef9cd62567": {
+      "templateId": "Quest:stonewoodquest_reactive_fetch_hoverboard",
+      "attributes": {
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "",
+        "xp_reward_scalar": 1,
+        "challenge_linked_quest_given": "",
+        "completion_stonewoodquest_reactive_fetch_hoverboard": 10,
+        "quest_pool": "",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2020-01-18T19:49:13.823Z",
+        "challenge_linked_quest_parent": "",
+        "max_level_bonus": 0,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "eeebe150-dfdb-439b-96d1-bd0644fbf6df": {
+      "templateId": "Quest:stonewoodquest_ability_hoverboard",
+      "attributes": {
+        "completion_stonewoodquest_ability_hoverboard": 1,
+        "level": -1,
+        "completion_complete_pve01_diff4": 1,
+        "item_seen": false,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "",
+        "xp_reward_scalar": 1,
+        "challenge_linked_quest_given": "",
+        "quest_pool": "",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2020-01-18T20:05:14.283Z",
+        "challenge_linked_quest_parent": "",
+        "max_level_bonus": 0,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
     "32b0b965-f82f-4e0c-9494-3ffghc7c2817bc": {
       "templateId": "Quest:stonewoodquest_filler_1_d3",
       "attributes": {
