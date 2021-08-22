@@ -1720,7 +1720,7 @@ express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
 		"name": "BRWeeklyStorefront",
 		"catalogEntries": [
 			{
-          "devName": "[VIRTUAL]1 x Black Knight for 2000 MtxCurrency",
+          "devName": "Tactical Spade",
           "offerId": "v2:/ed321d57ef3f2fbbabfc386f71216699468ea534e049fc467e3103762d873613",
           "fulfillmentIds": [],
           "dailyLimit": -1,
@@ -1749,7 +1749,7 @@ express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
           "requirements": [
             {
               "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaDance:eid_squishydance",
+              "requiredId": "AthenaPickaxe:Pickaxe_ID_032_Tactical",
               "minQuantity": 1
             }
           ],
@@ -1767,10 +1767,10 @@ express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
               "value": "S2 BP"
             }
           ],
-          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_eid_squishydance.DA_Featured_eid_squishydance",
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_032_Tactical.DA_Featured_Pickaxe_ID_032_Tactical",
           "itemGrants": [
             {
-              "templateId": "AthenaDance:eid_squishydance",
+              "templateId": "AthenaPickaxe:Pickaxe_ID_032_Tactical",
               "quantity": 1
             }
           ],
@@ -1779,7 +1779,7 @@ express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
           "catalogGroupPriority": 0
         },
         {
-          "devName": "[VIRTUAL]1 x Triple scoop for 800 MtxCurrency",
+          "devName": "Rider",
           "offerId": "v2:/cfb83de85501d17c2298af5880e2660806a4f9eb045dd891fec21c5d70d00c70",
           "fulfillmentIds": [],
           "dailyLimit": -1,
@@ -1808,7 +1808,7 @@ express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
           "requirements": [
             {
               "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaCharacter:cid_333_athena_commando_m_squishy",
+              "requiredId": "AthenaCharacter:CID_094_Athena_Commando_M_Rider",
               "minQuantity": 1
             }
           ],
@@ -1826,69 +1826,10 @@ express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
               "value": "New"
             }
           ],
-          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_cid_333_athena_commando_m_squishy.DA_Featured_cid_333_athena_commando_m_squishy",
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_094_Athena_Commando_M_Rider.DA_Featured_CID_094_Athena_Commando_M_Rider",
           "itemGrants": [
             {
-              "templateId": "AthenaCharacter:cid_333_athena_commando_m_squishy",
-              "quantity": 1
-            }
-          ],
-          "additionalGrants": [],
-          "sortPriority": -7,
-          "catalogGroupPriority": 0
-        },
-        {
-          "devName": "[VIRTUAL]1 x Triple scoop for 800 MtxCurrency",
-          "offerId": "v2:/cfb83de85501d17c2298af5880e2660806a4f9eb045dd891fec21c5d70d00c70",
-          "fulfillmentIds": [],
-          "dailyLimit": -1,
-          "weeklyLimit": -1,
-          "monthlyLimit": -1,
-          "categories": [
-            "Panel 1"
-          ],
-          "prices": [
-            {
-              "currencyType": "MtxCurrency",
-              "currencySubType": "",
-              "regularPrice": 500,
-              "dynamicRegularPrice": 500,
-              "finalPrice": 500,
-              "saleExpiration": "9999-12-31T23:59:59.999Z",
-              "basePrice": 500
-            }
-          ],
-          "meta": {
-            "BannerOverride": "New"
-          },
-          "matchFilter": "",
-          "filterWeight": 0,
-          "appStoreId": [],
-          "requirements": [
-            {
-              "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaGlider:glider_id_118_squishy",
-              "minQuantity": 1
-            }
-          ],
-          "offerType": "StaticPrice",
-          "giftInfo": {
-            "bIsEnabled": true,
-            "forcedGiftBoxTemplateId": "",
-            "purchaseRequirements": [],
-            "giftRecordIds": []
-          },
-          "refundable": true,
-          "metaInfo": [
-            {
-              "key": "BannerOverride",
-              "value": "New"
-            }
-          ],
-          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_glider_id_118_squishy.DA_Featured_glider_id_118_squishy",
-          "itemGrants": [
-            {
-              "templateId": "AthenaGlider:glider_id_118_squishy",
+              "templateId": "AthenaCharacter:CID_094_Athena_Commando_M_Rider",
               "quantity": 1
             }
           ],
@@ -1902,7 +1843,7 @@ express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
       "name": "BRDailyStorefront",
       "catalogEntries": [
         {
-          "devName": "[VIRTUAL]1 x Slingshot for 800 MtxCurrency",
+          "devName": "Pink Flamingo",
           "offerId": "v2:/03387229fa6038e4967b272a5e2b6b145b9e4ec1f860db051e242babd36d1700",
           "fulfillmentIds": [],
           "dailyLimit": -1,
@@ -1915,11 +1856,11 @@ express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
             {
               "currencyType": "MtxCurrency",
               "currencySubType": "",
-              "regularPrice": 2000,
-              "dynamicRegularPrice": 2000,
-              "finalPrice": 2000,
+              "regularPrice": 1500,
+              "dynamicRegularPrice": 1500,
+              "finalPrice": 1500,
               "saleExpiration": "9999-12-31T23:59:59.999Z",
-              "basePrice": 2000
+              "basePrice": 1500
             }
           ],
           "meta": {},
@@ -1929,12 +1870,7 @@ express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
           "requirements": [
             {
               "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaCharacter:cid_308_athena_commando_f_fortnitedj",
-              "minQuantity": 1
-            },
-            {
-              "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaBackpack:bid_188_fortnitedjfemale",
+              "requiredId": "AthenaPickaxe:Pickaxe_Flamingo",
               "minQuantity": 1
             }
           ],
@@ -1949,11 +1885,7 @@ express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
           "displayAssetPath": "None",
           "itemGrants": [
             {
-              "templateId": "AthenaCharacter:cid_308_athena_commando_f_fortnitedj",
-              "quantity": 1
-            },
-            {
-              "templateId": "AthenaBackpack:bid_188_fortnitedjfemale",
+              "templateId": "AthenaPickaxe:Pickaxe_Flamingo",
               "quantity": 1
             }
           ],
@@ -1961,11 +1893,8 @@ express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
           "sortPriority": 0,
           "catalogGroupPriority": 0
         },
-
-
-        
         {
-          "devName": "[VIRTUAL]1 x Vulture, 1 x Containment Pack for 1500 MtxCurrency",
+          "devName": "Brite Bomber",
           "offerId": "v2:/0eb2bfda7e087e8fb56e3e0784309e3689354efda996247ab435cd12bf7f254d",
           "fulfillmentIds": [],
           "dailyLimit": -1,
@@ -1978,11 +1907,11 @@ express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
             {
               "currencyType": "MtxCurrency",
               "currencySubType": "",
-              "regularPrice": 800,
-              "dynamicRegularPrice": 800,
-              "finalPrice": 800,
+              "regularPrice": 1200,
+              "dynamicRegularPrice": 1200,
+              "finalPrice": 1200,
               "saleExpiration": "9999-12-31T23:59:59.999Z",
-              "basePrice": 800
+              "basePrice": 1200
             }
           ],
           "meta": {},
@@ -1992,7 +1921,7 @@ express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
           "requirements": [
             {
               "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaDance:eid_dj01",
+              "requiredId": "AthenaCharacter:CID_044_Athena_Commando_F_SciPop",
               "minQuantity": 1
             }
           ],
@@ -2007,7 +1936,7 @@ express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
           "displayAssetPath": "None",
           "itemGrants": [
             {
-              "templateId": "AthenaDance:eid_dj01",
+              "templateId": "AthenaCharacter:CID_044_Athena_Commando_F_SciPop",
               "quantity": 1
             }
           ],
@@ -2018,7 +1947,7 @@ express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
 
 
         {
-          "devName": "[VIRTUAL]1 x Slingshot for 800 MtxCurrency",
+          "devName": "Zephyr",
           "offerId": "v2:/03387229fa6038e4967b272a5e2b6b145b9e4ec1f860db051e242babd36d1700",
           "fulfillmentIds": [],
           "dailyLimit": -1,
@@ -2045,7 +1974,7 @@ express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
           "requirements": [
             {
               "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaPickaxe:pickaxe_id_035_prismatic",
+              "requiredId": "AthenaPickaxe:Pickaxe_Flamingo",
               "minQuantity": 1
             }
           ],
@@ -2060,7 +1989,7 @@ express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
           "displayAssetPath": "None",
           "itemGrants": [
             {
-              "templateId": "AthenaPickaxe:pickaxe_id_035_prismatic",
+              "templateId": "AthenaPickaxe:Pickaxe_Flamingo",
               "quantity": 1
             }
           ],
@@ -2068,10 +1997,8 @@ express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
           "sortPriority": 0,
           "catalogGroupPriority": 0
         },
-
-
         {
-          "devName": "[VIRTUAL]1 x Slingshot for 800 MtxCurrency",
+          "devName": "Flapper",
           "offerId": "v2:/03387229fa6038e4967b272a5e2b6b145b9e4ec1f860db051e242babd36d1700",
           "fulfillmentIds": [],
           "dailyLimit": -1,
@@ -2098,7 +2025,7 @@ express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
           "requirements": [
             {
               "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaDance:eid_headshake",
+              "requiredId": "AthenaDance:EID_Flapper",
               "minQuantity": 1
             }
           ],
@@ -2113,7 +2040,7 @@ express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
           "displayAssetPath": "None",
           "itemGrants": [
             {
-              "templateId": "AthenaDance:eid_headshake",
+              "templateId": "AthenaDance:EID_Flapper",
               "quantity": 1
             }
           ],
@@ -2124,7 +2051,7 @@ express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
 
 
         {
-          "devName": "[VIRTUAL]1 x Slingshot for 800 MtxCurrency",
+          "devName": "Renegade",
           "offerId": "v2:/03387229fa6038e4967b272a5e2b6b145b9e4ec1f860db051e242babd36d1700",
           "fulfillmentIds": [],
           "dailyLimit": -1,
@@ -2151,7 +2078,7 @@ express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
           "requirements": [
             {
               "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaCharacter:cid_124_athena_commando_f_auroraglow",
+              "requiredId": "AthenaCharacter:CID_013_Athena_Commando_F",
               "minQuantity": 1
             }
           ],
@@ -2166,7 +2093,7 @@ express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
           "displayAssetPath": "None",
           "itemGrants": [
             {
-              "templateId": "AthenaCharacter:cid_124_athena_commando_f_auroraglow",
+              "templateId": "AthenaCharacter:CID_013_Athena_Commando_F",
               "quantity": 1
             }
           ],
@@ -2177,7 +2104,7 @@ express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
 
 
         {
-          "devName": "[VIRTUAL]1 x Slingshot for 800 MtxCurrency",
+          "devName": "Slow Clap",
           "offerId": "v2:/03387229fa6038e4967b272a5e2b6b145b9e4ec1f860db051e242babd36d1700",
           "fulfillmentIds": [],
           "dailyLimit": -1,
@@ -2190,11 +2117,11 @@ express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
             {
               "currencyType": "MtxCurrency",
               "currencySubType": "",
-              "regularPrice": 500,
-              "dynamicRegularPrice": 500,
-              "finalPrice": 500,
+              "regularPrice": 200,
+              "dynamicRegularPrice": 200,
+              "finalPrice": 200,
               "saleExpiration": "9999-12-31T23:59:59.999Z",
-              "basePrice": 500
+              "basePrice": 200
             }
           ],
           "meta": {},
@@ -2204,7 +2131,7 @@ express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
           "requirements": [
             {
               "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaGlider:glider_id_036_auroraglow",
+              "requiredId": "AthenaDance:EID_SlowClap",
               "minQuantity": 1
             }
           ],
@@ -2219,7 +2146,7 @@ express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
           "displayAssetPath": "None",
           "itemGrants": [
             {
-              "templateId": "AthenaGlider:glider_id_036_auroraglow",
+              "templateId": "AthenaDance:EID_SlowClap",
               "quantity": 1
 			}
 				],
