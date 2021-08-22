@@ -673,7 +673,7 @@ express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
                 }
             ]
         },
-        {
+        /*{
             "name": "STWRotationalEventStorefront",
             "catalogEntries": [
                 {
@@ -1715,7 +1715,7 @@ express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
                     "catalogGroupPriority": 0
                 }
             ]
-        },
+        },*/
         {
             "name": "FoundersPack",
             "catalogEntries": [
