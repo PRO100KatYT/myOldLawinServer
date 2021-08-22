@@ -2004,7 +2004,46 @@
       },
       "quantity": 1
     },
-    "ad0e53a8-b8ec-4bed-aaf3-ca414c42d929": {
+    "Dowodca": {
+      "templateId": "Hero:HID_Constructor_HammerTank_R_T04",
+      "attributes": {
+        "equipped_cosmetics": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "czytodziala",
+        "max_level_bonus": 0,
+        "squad_id": "squad_combat_adventuresquadone",
+        "mode_loadouts": [
+          {
+            "loadoutName": "Default",
+            "selectedGadgets": [
+              "Schematic:sid_assault_auto_sr_crystal_t06",
+              "Gadget:g_commando_goincommando",
+              "Gadget:g_commando_fraggrenade",
+              "Gadget:gadget_generic_turret"
+            ]
+          }
+        ],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "Wsparcie1": {
       "templateId": "Hero:hid_constructor_rushbase_sr_t04",
       "attributes": {
         "equipped_cosmetics": [
@@ -2018,7 +2057,7 @@
           ""
         ],
         "gender": 0,
-        "level": 40,
+        "level": 50,
         "item_seen": true,
         "squad_slot_idx": 1,
         "portrait": "",
@@ -2035,6 +2074,42 @@
           }
         ],
         "squad_id": "squad_combat_adventuresquadone",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "Wsparcie2": {
+      "templateId": "Hero:hid_commando_cinematic_test_r_t03",
+      "attributes": {
+        "equipped_cosmetics": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 2,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "squad_combat_adventuresquadone",
+        "mode_loadouts": [
+          {
+            "loadoutName": "Default",
+            "selectedGadgets": [
+              "Gadget:g_commando_goincommando"
+            ]
+          }
+        ],
         "xp": 0,
         "slotted_building_id": "",
         "building_slot_used": -1,
@@ -2127,81 +2202,6 @@
       "templateId": "HomebaseNode:T1_Main_243215D30",
       "attributes": {
         "item_seen": false
-      },
-      "quantity": 1
-    },
-    "Dowodca": {
-      "templateId": "Hero:HID_Constructor_HammerTank_R_T04",
-      "attributes": {
-        "equipped_cosmetics": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "gender": 0,
-        "level": 50,
-        "item_seen": true,
-        "squad_slot_idx": 0,
-        "portrait": "",
-        "hero_name": "DefaultHeroName",
-        "max_level_bonus": 0,
-        "squad_id": "squad_combat_adventuresquadone",
-        "mode_loadouts": [
-          {
-            "loadoutName": "Default",
-            "selectedGadgets": [
-              "Schematic:sid_assault_auto_sr_crystal_t06",
-              "Gadget:g_commando_goincommando",
-              "Gadget:g_commando_fraggrenade",
-              "Gadget:gadget_generic_turret"
-            ]
-          }
-        ],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "903888ggfg3-a2b1-43c4-8ec7-49d1e40e8e98": {
-      "templateId": "Hero:hid_commando_cinematic_test_r_t03",
-      "attributes": {
-        "equipped_cosmetics": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "gender": 0,
-        "level": 30,
-        "item_seen": true,
-        "squad_slot_idx": 2,
-        "portrait": "",
-        "hero_name": "DefaultHeroName",
-        "max_level_bonus": 0,
-        "squad_id": "squad_combat_adventuresquadone",
-        "mode_loadouts": [
-          {
-            "loadoutName": "Default",
-            "selectedGadgets": [
-              "Gadget:g_commando_goincommando"
-            ]
-          }
-        ],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
-        "favorite": false
       },
       "quantity": 1
     },
