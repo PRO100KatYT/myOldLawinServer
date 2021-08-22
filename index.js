@@ -20,40 +20,6 @@ express.get("/", async (req, res) => {
 
 express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
 	res.json(
-		{
-			"refreshIntervalHrs": 24,
-			"dailyPurchaseHrs": 24,
-			"expiration": "2021-12-12T01:12:00Z",
-			"storefronts": [
-			  {
-				"name": "BRDailyStorefront",
-				"catalogEntries": []
-			  },
-			  {
-				"name": "BRWeeklyStorefront",
-				"catalogEntries": []
-			  }
-			]
-		}
-	);
-	res.status(200);
-	res.end();
-});
-
-express.get("/purchase", async (req, res) => {
-	res.json({});
-	res.status(200);
-	res.end();
-})
-
-express.post("/fortnite/api/feedback/Bug", async (req, res) => {
-	res.json({});
-	res.status(200);
-	res.end();
-})
-
-express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
-	res.json(
 {
     "refreshIntervalHrs": 1,
     "dailyPurchaseHrs": 24,
@@ -2683,6 +2649,34 @@ express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
 	res.status(200);
 	res.end();
 });
+
+express.get("/purchase", async (req, res) => {
+	res.json({});
+	res.status(200);
+	res.end();
+})
+
+express.post("/fortnite/api/feedback/Bug", async (req, res) => {
+	res.json({});
+	res.status(200);
+	res.end();
+})
+
+express.get("/launcher/api/public/distributionpoints/", async (req, res) => {
+	res.json(
+		{
+			"distributions": [
+				"https://download.epicgames.com/",
+				"https://download2.epicgames.com/",
+				"https://download3.epicgames.com/",
+				"https://download4.epicgames.com/",
+				"https://epicgames-download1.akamaized.net/"
+			]
+		}
+		);
+		res.status(200);
+		res.end();
+})
 
 express.post("/fortnite/api/game/v2/tryPlayOnPlatform/account/*", async (req, res) => {
 	res.setHeader("Content-Type", "text/plain");
