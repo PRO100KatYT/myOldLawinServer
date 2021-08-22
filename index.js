@@ -1716,6 +1716,519 @@ express.get("/fortnite/api/storefront/v2/catalog", async (req, res) => {
                 }
             ]
         },*/
+		{
+		"name": "BRWeeklyStorefront",
+		"catalogEntries": [
+			{
+          "devName": "[VIRTUAL]1 x Black Knight for 2000 MtxCurrency",
+          "offerId": "v2:/ed321d57ef3f2fbbabfc386f71216699468ea534e049fc467e3103762d873613",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [
+            "Panel 2"
+          ],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 500,
+              "dynamicRegularPrice": 500,
+              "finalPrice": 500,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 500
+            }
+          ],
+          "meta": {
+            "BannerOverride": "New"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaDance:eid_squishydance",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "BannerOverride",
+              "value": "S2 BP"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_eid_squishydance.DA_Featured_eid_squishydance",
+          "itemGrants": [
+            {
+              "templateId": "AthenaDance:eid_squishydance",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": -6,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Triple scoop for 800 MtxCurrency",
+          "offerId": "v2:/cfb83de85501d17c2298af5880e2660806a4f9eb045dd891fec21c5d70d00c70",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [
+            "Panel 1"
+          ],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 1500,
+              "dynamicRegularPrice": 1500,
+              "finalPrice": 1500,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 1500
+            }
+          ],
+          "meta": {
+            "BannerOverride": "New"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:cid_333_athena_commando_m_squishy",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "BannerOverride",
+              "value": "New"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_cid_333_athena_commando_m_squishy.DA_Featured_cid_333_athena_commando_m_squishy",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:cid_333_athena_commando_m_squishy",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": -7,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Triple scoop for 800 MtxCurrency",
+          "offerId": "v2:/cfb83de85501d17c2298af5880e2660806a4f9eb045dd891fec21c5d70d00c70",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [
+            "Panel 1"
+          ],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 500,
+              "dynamicRegularPrice": 500,
+              "finalPrice": 500,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 500
+            }
+          ],
+          "meta": {
+            "BannerOverride": "New"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaGlider:glider_id_118_squishy",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "BannerOverride",
+              "value": "New"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_glider_id_118_squishy.DA_Featured_glider_id_118_squishy",
+          "itemGrants": [
+            {
+              "templateId": "AthenaGlider:glider_id_118_squishy",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": -7,
+          "catalogGroupPriority": 0
+        }
+      ]
+    },
+    {
+      "name": "BRDailyStorefront",
+      "catalogEntries": [
+        {
+          "devName": "[VIRTUAL]1 x Slingshot for 800 MtxCurrency",
+          "offerId": "v2:/03387229fa6038e4967b272a5e2b6b145b9e4ec1f860db051e242babd36d1700",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [
+            "Daily 1"
+          ],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 2000,
+              "dynamicRegularPrice": 2000,
+              "finalPrice": 2000,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 2000
+            }
+          ],
+          "meta": {},
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:cid_308_athena_commando_f_fortnitedj",
+              "minQuantity": 1
+            },
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaBackpack:bid_188_fortnitedjfemale",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "displayAssetPath": "None",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:cid_308_athena_commando_f_fortnitedj",
+              "quantity": 1
+            },
+            {
+              "templateId": "AthenaBackpack:bid_188_fortnitedjfemale",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+
+
+        
+        {
+          "devName": "[VIRTUAL]1 x Vulture, 1 x Containment Pack for 1500 MtxCurrency",
+          "offerId": "v2:/0eb2bfda7e087e8fb56e3e0784309e3689354efda996247ab435cd12bf7f254d",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [
+            "Daily 2"
+          ],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 800,
+              "dynamicRegularPrice": 800,
+              "finalPrice": 800,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 800
+            }
+          ],
+          "meta": {},
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaDance:eid_dj01",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "displayAssetPath": "None",
+          "itemGrants": [
+            {
+              "templateId": "AthenaDance:eid_dj01",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+
+
+        {
+          "devName": "[VIRTUAL]1 x Slingshot for 800 MtxCurrency",
+          "offerId": "v2:/03387229fa6038e4967b272a5e2b6b145b9e4ec1f860db051e242babd36d1700",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [
+            "Daily 3"
+          ],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 800,
+              "dynamicRegularPrice": 800,
+              "finalPrice": 800,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 800
+            }
+          ],
+          "meta": {},
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaPickaxe:pickaxe_id_035_prismatic",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "displayAssetPath": "None",
+          "itemGrants": [
+            {
+              "templateId": "AthenaPickaxe:pickaxe_id_035_prismatic",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+
+
+        {
+          "devName": "[VIRTUAL]1 x Slingshot for 800 MtxCurrency",
+          "offerId": "v2:/03387229fa6038e4967b272a5e2b6b145b9e4ec1f860db051e242babd36d1700",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [
+            "Daily 4"
+          ],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 500,
+              "dynamicRegularPrice": 500,
+              "finalPrice": 500,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 500
+            }
+          ],
+          "meta": {},
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaDance:eid_headshake",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "displayAssetPath": "None",
+          "itemGrants": [
+            {
+              "templateId": "AthenaDance:eid_headshake",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+
+
+        {
+          "devName": "[VIRTUAL]1 x Slingshot for 800 MtxCurrency",
+          "offerId": "v2:/03387229fa6038e4967b272a5e2b6b145b9e4ec1f860db051e242babd36d1700",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [
+            "Daily 5"
+          ],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 800,
+              "dynamicRegularPrice": 800,
+              "finalPrice": 800,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 800
+            }
+          ],
+          "meta": {},
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:cid_124_athena_commando_f_auroraglow",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "displayAssetPath": "None",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:cid_124_athena_commando_f_auroraglow",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+
+
+        {
+          "devName": "[VIRTUAL]1 x Slingshot for 800 MtxCurrency",
+          "offerId": "v2:/03387229fa6038e4967b272a5e2b6b145b9e4ec1f860db051e242babd36d1700",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [
+            "Daily 6"
+          ],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 500,
+              "dynamicRegularPrice": 500,
+              "finalPrice": 500,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 500
+            }
+          ],
+          "meta": {},
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaGlider:glider_id_036_auroraglow",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "displayAssetPath": "None",
+          "itemGrants": [
+            {
+              "templateId": "AthenaGlider:glider_id_036_auroraglow",
+              "quantity": 1
+			}
+				],
+					"additionalGrants": [],
+					"sortPriority": 0,
+					"catalogGroupPriority": 0
+				}
+			]
+		},
         {
             "name": "FoundersPack",
             "catalogEntries": [
