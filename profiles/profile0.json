@@ -2022,7 +2022,7 @@
         "item_seen": true,
         "squad_slot_idx": 0,
         "portrait": "",
-        "hero_name": "czytodziala",
+        "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "squad_combat_adventuresquadone",
         "mode_loadouts": [
@@ -2039,12 +2039,12 @@
         "xp": 0,
         "slotted_building_id": "",
         "building_slot_used": -1,
-        "favorite": false
+        "favorite": true
       },
       "quantity": 1
     },
     "Wsparcie1": {
-      "templateId": "Hero:hid_constructor_rushbase_sr_t04",
+      "templateId": "Hero:hid_constructor_rushbase_sr_t05",
       "attributes": {
         "equipped_cosmetics": [
           "",
@@ -2077,7 +2077,7 @@
         "xp": 0,
         "slotted_building_id": "",
         "building_slot_used": -1,
-        "favorite": false
+        "favorite": true
       },
       "quantity": 1
     },
@@ -2110,6 +2110,26 @@
             ]
           }
         ],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": true
+      },
+      "quantity": 1
+    },
+    "Hero1": {
+      "templateId": "Hero:HID_Constructor_007HW_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
         "xp": 0,
         "slotted_building_id": "",
         "building_slot_used": -1,
