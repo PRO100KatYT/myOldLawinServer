@@ -2266,8 +2266,8 @@
       },
       "quantity": 1
     },
-    "90388843-a2b1-43c4-8ec7-49d1e40e8e98": {
-      "templateId": "Hero:HID_Commando_GrenadeGun_UC_T01",
+    "Dowodca": {
+      "templateId": "Hero:HID_Constructor_HammerTank_R_T04",
       "attributes": {
         "equipped_cosmetics": [
           "",
