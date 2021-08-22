@@ -142,35 +142,6 @@
       },
       "quantity": 2730
     },
-    "0f003ec1-4185-4bf8-9b44-ade02e9826ba": {
-      "templateId": "Hero:hid_ninja_007_uc_t01",
-      "attributes": {
-        "equipped_cosmetics": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "gender": 0,
-        "level": 1,
-        "item_seen": false,
-        "squad_slot_idx": -1,
-        "portrait": "",
-        "hero_name": "DefaultHeroName",
-        "max_level_bonus": 0,
-        "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
-        "favorite": false
-      },
-      "quantity": 1
-    },
     "a5c968fc-501d-43fc-8d3f-62bc1419fb1f": {
       "templateId": "HomebaseBannerColor:defaultcolor12",
       "attributes": {
@@ -1561,35 +1532,6 @@
       },
       "quantity": 1
     },
-    "d1f90b14-611f-42d0-b4bf-1d30caeaebd2": {
-      "templateId": "Hero:hid_outlander_007_uc_t01",
-      "attributes": {
-        "equipped_cosmetics": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "gender": 0,
-        "level": 1,
-        "item_seen": true,
-        "squad_slot_idx": -1,
-        "portrait": "",
-        "hero_name": "DefaultHeroName",
-        "max_level_bonus": 0,
-        "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
-        "favorite": false
-      },
-      "quantity": 1
-    },
     "410d8f37-8216-4466-b987-af3a7303f217": {
       "templateId": "HomebaseBannerIcon:standardbanner29",
       "attributes": {
@@ -2093,84 +2035,6 @@
           }
         ],
         "squad_id": "squad_combat_adventuresquadone",
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "ad0e53a8-b8ec-4bed-aaf3-ca414sdgdgdgd2d929": {
-      "templateId": "Hero:hid_constructor_rushbase_sr_t05",
-      "attributes": {
-        "equipped_cosmetics": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "gender": 1,
-        "level": 50,
-        "item_seen": true,
-        "squad_slot_idx": 0,
-        "portrait": "",
-        "hero_name": "DefaultHeroName",
-        "max_level_bonus": 0,
-        "mode_loadouts": [
-          {
-            "loadoutName": "Default",
-            "selectedGadgets": [
-              "Gadget:g_constructor_bullrush",
-              "",
-              ""
-            ]
-          }
-        ],
-        "squad_id": "squad_combat_adventuresquadone",
-        "personality": "Homebase.Worker.Personality.IsCooperative",
-        "managerSynergy": "Homebase.Manager.IsEngineer",
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "agfgfgfg-b8ec-4bed-aaf3-ssdfdfddfd929": {
-      "templateId": "Hero:hid_commando_athena_menu",
-      "attributes": {
-        "equipped_cosmetics": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "gender": 0,
-        "level": 1,
-        "item_seen": true,
-        "squad_slot_idx": 0,
-        "portrait": "",
-        "hero_name": "DefaultHeroName",
-        "max_level_bonus": 0,
-        "mode_loadouts": [
-          {
-            "loadoutName": "Default",
-            "selectedGadgets": [
-              "",
-              "",
-              ""
-            ]
-          }
-        ],
-        "squad_id": "",
         "xp": 0,
         "slotted_building_id": "",
         "building_slot_used": -1,
