@@ -1,7 +1,7 @@
 {
   "refreshIntervalHrs": 1,
   "dailyPurchaseHrs": 24,
-  "expiration": "2018-03-09T23:59:59.999Z",
+  "expiration": "2022-04-03T00:00:00.000Z",
   "storefronts": [
     {
       "name": "BRWeeklyStorefront",
@@ -23,7 +23,7 @@
               "regularPrice": 500,
               "dynamicRegularPrice": 500,
               "finalPrice": 500,
-              "saleExpiration": "2018-03-09T23:59:59.999Z",
+              "saleExpiration": "2022-04-03T00:00:00.000Z",
               "basePrice": 500
             }
           ],
