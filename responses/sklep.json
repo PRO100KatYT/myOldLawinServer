@@ -19,6 +19,8 @@
           "prices": [
             {
               "currencyType": "MtxCurrency",
+              "currencyType": "MtxCurrency",
+              "currencyType": "MtxCurrency",
               "currencySubType": "",
               "regularPrice": 1500,
               "dynamicRegularPrice": 1500,
