@@ -1,13 +1,13 @@
 {
   "refreshIntervalHrs": 1,
   "dailyPurchaseHrs": 24,
-  "expiration": "",
+  "expiration": "2021-08-23T07:00:00.000Z",
   "storefronts": [
     {
       "name": "BRWeeklyStorefront",
       "catalogEntries": [
         {
-          "devName": "[VIRTUAL]1 x Black Knight for 2000 MtxCurrency",
+          "devName": "Rockmanka",
           "offerId": "v2:/ed321d57ef3f2fbbabfc386f71216699468ea534e049fc467e3103762d873613",
           "fulfillmentIds": [],
           "dailyLimit": -1,
@@ -20,11 +20,11 @@
             {
               "currencyType": "MtxCurrency",
               "currencySubType": "",
-              "regularPrice": 500,
-              "dynamicRegularPrice": 500,
-              "finalPrice": 500,
-              "saleExpiration": "",
-              "basePrice": 500
+              "regularPrice": 1500,
+              "dynamicRegularPrice": 1500,
+              "finalPrice": 1500,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 1500
             }
           ],
           "meta": {
@@ -57,7 +57,7 @@
             }
           ],
           "additionalGrants": [],
-          "sortPriority": -6,
+          "sortPriority": 0,
           "catalogGroupPriority": 0
         }
       ]
