@@ -8,6 +8,4119 @@
   "profileId": "profile0",
   "version": "grant_collectionbook_lvl_100_reward_change_dec_2017",
   "items": {
+    "Dowodca": {
+      "templateId": "Hero:HID_Constructor_HammerTank_R_T04",
+      "attributes": {
+        "equipped_cosmetics": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "squad_combat_adventuresquadone",
+        "mode_loadouts": [
+          {
+            "loadoutName": "Default",
+            "selectedGadgets": [
+              "Schematic:sid_assault_auto_sr_crystal_t06",
+              "Gadget:g_commando_goincommando",
+              "Gadget:g_commando_fraggrenade",
+              "Gadget:gadget_generic_turret"
+            ]
+          }
+        ],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": true
+      },
+      "quantity": 1
+    },
+    "Wsparcie1": {
+      "templateId": "Hero:hid_constructor_rushbase_sr_t05",
+      "attributes": {
+        "equipped_cosmetics": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "mode_loadouts": [
+          {
+            "loadoutName": "Default",
+            "selectedGadgets": [
+              "Gadget:g_constructor_bullrush",
+              "",
+              ""
+            ]
+          }
+        ],
+        "squad_id": "squad_combat_adventuresquadone",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": true
+      },
+      "quantity": 1
+    },
+    "Wsparcie2": {
+      "templateId": "Hero:hid_commando_cinematic_test_r_t03",
+      "attributes": {
+        "equipped_cosmetics": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 2,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "squad_combat_adventuresquadone",
+        "mode_loadouts": [
+          {
+            "loadoutName": "Default",
+            "selectedGadgets": [
+              "Gadget:g_commando_goincommando"
+            ]
+          }
+        ],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": true
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz1": {
+      "templateId": "Hero:HID_Commando_007HW_SR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz2": {
+      "templateId": "Hero:HID_Commando_007HW_SR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz3": {
+      "templateId": "Hero:HID_Commando_007HW_SR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz4": {
+      "templateId": "Hero:HID_Commando_007HW_SR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz5": {
+      "templateId": "Hero:HID_Commando_007HW_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz6": {
+      "templateId": "Hero:HID_Commando_007HW_VR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz7": {
+      "templateId": "Hero:HID_Commando_007HW_VR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz8": {
+      "templateId": "Hero:HID_Commando_007HW_VR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz9": {
+      "templateId": "Hero:HID_Commando_007HW_VR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz10": {
+      "templateId": "Hero:HID_Commando_007HW_VR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz11": {
+      "templateId": "Hero:HID_Commando_007_R_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz12": {
+      "templateId": "Hero:HID_Commando_007_R_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz13": {
+      "templateId": "Hero:HID_Commando_007_R_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz14": {
+      "templateId": "Hero:HID_Commando_007_R_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz15": {
+      "templateId": "Hero:HID_Commando_007_SR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz16": {
+      "templateId": "Hero:HID_Commando_007_SR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz17": {
+      "templateId": "Hero:HID_Commando_007_SR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz18": {
+      "templateId": "Hero:HID_Commando_007_SR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz19": {
+      "templateId": "Hero:HID_Commando_007_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz20": {
+      "templateId": "Hero:HID_Commando_007_UC_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz21": {
+      "templateId": "Hero:HID_Commando_007_UC_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz22": {
+      "templateId": "Hero:HID_Commando_007_UC_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz23": {
+      "templateId": "Hero:HID_Commando_007_VR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz24": {
+      "templateId": "Hero:HID_Commando_007_VR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz25": {
+      "templateId": "Hero:HID_Commando_007_VR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz26": {
+      "templateId": "Hero:HID_Commando_007_VR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz27": {
+      "templateId": "Hero:HID_Commando_007_VR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz28": {
+      "templateId": "Hero:HID_Commando_008_FoundersF_SR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz29": {
+      "templateId": "Hero:HID_Commando_008_FoundersF_SR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz30": {
+      "templateId": "Hero:HID_Commando_008_FoundersF_SR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz31": {
+      "templateId": "Hero:HID_Commando_008_FoundersF_SR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz32": {
+      "templateId": "Hero:HID_Commando_008_FoundersF_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz33": {
+      "templateId": "Hero:HID_Commando_008_FoundersM_SR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz34": {
+      "templateId": "Hero:HID_Commando_008_FoundersM_SR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz35": {
+      "templateId": "Hero:HID_Commando_008_FoundersM_SR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz36": {
+      "templateId": "Hero:HID_Commando_008_FoundersM_SR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz37": {
+      "templateId": "Hero:HID_Commando_008_FoundersM_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz38": {
+      "templateId": "Hero:HID_Commando_008_R_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz39": {
+      "templateId": "Hero:HID_Commando_008_R_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz40": {
+      "templateId": "Hero:HID_Commando_008_R_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz41": {
+      "templateId": "Hero:HID_Commando_008_R_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz42": {
+      "templateId": "Hero:HID_Commando_008_SR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz43": {
+      "templateId": "Hero:HID_Commando_008_SR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz44": {
+      "templateId": "Hero:HID_Commando_008_SR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz45": {
+      "templateId": "Hero:HID_Commando_008_SR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz46": {
+      "templateId": "Hero:HID_Commando_008_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz47": {
+      "templateId": "Hero:HID_Commando_008_VR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz48": {
+      "templateId": "Hero:HID_Commando_008_VR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz49": {
+      "templateId": "Hero:HID_Commando_008_VR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz50": {
+      "templateId": "Hero:HID_Commando_008_VR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz51": {
+      "templateId": "Hero:HID_Commando_008_VR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz52": {
+      "templateId": "Hero:HID_Commando_009_M_R_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz53": {
+      "templateId": "Hero:HID_Commando_009_M_R_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz54": {
+      "templateId": "Hero:HID_Commando_009_M_R_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz55": {
+      "templateId": "Hero:HID_Commando_009_M_R_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz56": {
+      "templateId": "Hero:HID_Commando_009_M_SR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz57": {
+      "templateId": "Hero:HID_Commando_009_M_SR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz58": {
+      "templateId": "Hero:HID_Commando_009_M_SR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz59": {
+      "templateId": "Hero:HID_Commando_009_M_SR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz60": {
+      "templateId": "Hero:HID_Commando_009_M_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz61": {
+      "templateId": "Hero:HID_Commando_009_M_VR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz62": {
+      "templateId": "Hero:HID_Commando_009_M_VR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz63": {
+      "templateId": "Hero:HID_Commando_009_M_VR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz64": {
+      "templateId": "Hero:HID_Commando_009_M_VR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz65": {
+      "templateId": "Hero:HID_Commando_009_M_VR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz66": {
+      "templateId": "Hero:HID_Commando_009_R_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz67": {
+      "templateId": "Hero:HID_Commando_009_R_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz68": {
+      "templateId": "Hero:HID_Commando_009_R_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz69": {
+      "templateId": "Hero:HID_Commando_009_R_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz70": {
+      "templateId": "Hero:HID_Commando_009_SR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz71": {
+      "templateId": "Hero:HID_Commando_009_SR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz72": {
+      "templateId": "Hero:HID_Commando_009_SR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz73": {
+      "templateId": "Hero:HID_Commando_009_SR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz74": {
+      "templateId": "Hero:HID_Commando_009_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz75": {
+      "templateId": "Hero:HID_Commando_009_VR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz76": {
+      "templateId": "Hero:HID_Commando_009_VR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz77": {
+      "templateId": "Hero:HID_Commando_009_VR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz78": {
+      "templateId": "Hero:HID_Commando_009_VR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz79": {
+      "templateId": "Hero:HID_Commando_009_VR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz80": {
+      "templateId": "Hero:HID_Commando_010_SR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz81": {
+      "templateId": "Hero:HID_Commando_010_SR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz82": {
+      "templateId": "Hero:HID_Commando_010_SR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz83": {
+      "templateId": "Hero:HID_Commando_010_SR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz84": {
+      "templateId": "Hero:HID_Commando_010_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz85": {
+      "templateId": "Hero:HID_Commando_010_VR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz86": {
+      "templateId": "Hero:HID_Commando_010_VR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz87": {
+      "templateId": "Hero:HID_Commando_010_VR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz88": {
+      "templateId": "Hero:HID_Commando_010_VR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz89": {
+      "templateId": "Hero:HID_Commando_010_VR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz90": {
+      "templateId": "Hero:HID_Commando_011_M_SR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz91": {
+      "templateId": "Hero:HID_Commando_011_M_SR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz92": {
+      "templateId": "Hero:HID_Commando_011_M_SR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz93": {
+      "templateId": "Hero:HID_Commando_011_M_SR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz94": {
+      "templateId": "Hero:HID_Commando_011_M_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz95": {
+      "templateId": "Hero:HID_Commando_011_R_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz96": {
+      "templateId": "Hero:HID_Commando_011_R_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz97": {
+      "templateId": "Hero:HID_Commando_011_R_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz98": {
+      "templateId": "Hero:HID_Commando_011_R_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz99": {
+      "templateId": "Hero:HID_Commando_011_SR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz100": {
+      "templateId": "Hero:HID_Commando_011_SR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz101": {
+      "templateId": "Hero:HID_Commando_011_SR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz102": {
+      "templateId": "Hero:HID_Commando_011_SR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz103": {
+      "templateId": "Hero:HID_Commando_011_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz104": {
+      "templateId": "Hero:HID_Commando_011_UC_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz105": {
+      "templateId": "Hero:HID_Commando_011_UC_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz106": {
+      "templateId": "Hero:HID_Commando_011_UC_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz107": {
+      "templateId": "Hero:HID_Commando_011_VR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz108": {
+      "templateId": "Hero:HID_Commando_011_VR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz109": {
+      "templateId": "Hero:HID_Commando_011_VR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz110": {
+      "templateId": "Hero:HID_Commando_011_VR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz111": {
+      "templateId": "Hero:HID_Commando_011_VR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz112": {
+      "templateId": "Hero:HID_Commando_012_SR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz113": {
+      "templateId": "Hero:HID_Commando_012_SR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz114": {
+      "templateId": "Hero:HID_Commando_012_SR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz115": {
+      "templateId": "Hero:HID_Commando_012_SR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz116": {
+      "templateId": "Hero:HID_Commando_012_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz117": {
+      "templateId": "Hero:HID_Commando_013_R_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz118": {
+      "templateId": "Hero:HID_Commando_013_R_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz119": {
+      "templateId": "Hero:HID_Commando_013_R_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz120": {
+      "templateId": "Hero:HID_Commando_013_R_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz121": {
+      "templateId": "Hero:HID_Commando_013_SR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz122": {
+      "templateId": "Hero:HID_Commando_013_SR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz123": {
+      "templateId": "Hero:HID_Commando_013_SR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz124": {
+      "templateId": "Hero:HID_Commando_013_SR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz125": {
+      "templateId": "Hero:HID_Commando_013_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz126": {
+      "templateId": "Hero:HID_Commando_013_StPatricks_F_V1_SR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz127": {
+      "templateId": "Hero:HID_Commando_013_StPatricks_F_V1_SR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz128": {
+      "templateId": "Hero:HID_Commando_013_StPatricks_F_V1_SR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz129": {
+      "templateId": "Hero:HID_Commando_013_StPatricks_F_V1_SR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz130": {
+      "templateId": "Hero:HID_Commando_013_StPatricks_F_V1_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz131": {
+      "templateId": "Hero:HID_Commando_013_StPatricks_F_V2_SR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz132": {
+      "templateId": "Hero:HID_Commando_013_StPatricks_F_V2_SR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz133": {
+      "templateId": "Hero:HID_Commando_013_StPatricks_F_V2_SR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz134": {
+      "templateId": "Hero:HID_Commando_013_StPatricks_F_V2_SR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz135": {
+      "templateId": "Hero:HID_Commando_013_StPatricks_F_V2_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz136": {
+      "templateId": "Hero:HID_Commando_013_StPatricks_M_SR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz137": {
+      "templateId": "Hero:HID_Commando_013_StPatricks_M_SR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz138": {
+      "templateId": "Hero:HID_Commando_013_StPatricks_M_SR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz139": {
+      "templateId": "Hero:HID_Commando_013_StPatricks_M_SR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz140": {
+      "templateId": "Hero:HID_Commando_013_StPatricks_M_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz141": {
+      "templateId": "Hero:HID_Commando_013_VR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz142": {
+      "templateId": "Hero:HID_Commando_013_VR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz143": {
+      "templateId": "Hero:HID_Commando_013_VR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz144": {
+      "templateId": "Hero:HID_Commando_013_VR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz145": {
+      "templateId": "Hero:HID_Commando_013_VR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz146": {
+      "templateId": "Hero:HID_Commando_014_M_SR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz147": {
+      "templateId": "Hero:HID_Commando_014_M_SR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz148": {
+      "templateId": "Hero:HID_Commando_014_M_SR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz149": {
+      "templateId": "Hero:HID_Commando_014_M_SR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz150": {
+      "templateId": "Hero:HID_Commando_014_M_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz151": {
+      "templateId": "Hero:HID_Commando_014_R_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz152": {
+      "templateId": "Hero:HID_Commando_014_R_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz153": {
+      "templateId": "Hero:HID_Commando_014_R_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz154": {
+      "templateId": "Hero:HID_Commando_014_R_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz155": {
+      "templateId": "Hero:HID_Commando_014_SR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz156": {
+      "templateId": "Hero:HID_Commando_014_SR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz157": {
+      "templateId": "Hero:HID_Commando_014_SR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz158": {
+      "templateId": "Hero:HID_Commando_014_SR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz159": {
+      "templateId": "Hero:HID_Commando_014_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz160": {
+      "templateId": "Hero:HID_Commando_014_VR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz161": {
+      "templateId": "Hero:HID_Commando_014_VR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz162": {
+      "templateId": "Hero:HID_Commando_014_VR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz163": {
+      "templateId": "Hero:HID_Commando_014_VR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz164": {
+      "templateId": "Hero:HID_Commando_014_VR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz165": {
+      "templateId": "Hero:HID_Commando_014_Wukong_SR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz166": {
+      "templateId": "Hero:HID_Commando_014_Wukong_SR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz167": {
+      "templateId": "Hero:HID_Commando_014_Wukong_SR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz168": {
+      "templateId": "Hero:HID_Commando_014_Wukong_SR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz169": {
+      "templateId": "Hero:HID_Commando_014_Wukong_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz170": {
+      "templateId": "Hero:HID_Commando_GCGrenade_R_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz171": {
+      "templateId": "Hero:HID_Commando_GCGrenade_R_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz172": {
+      "templateId": "Hero:HID_Commando_GCGrenade_R_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz173": {
+      "templateId": "Hero:HID_Commando_GCGrenade_R_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz174": {
+      "templateId": "Hero:HID_Commando_GCGrenade_SR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz175": {
+      "templateId": "Hero:HID_Commando_GCGrenade_SR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz176": {
+      "templateId": "Hero:HID_Commando_GCGrenade_SR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz177": {
+      "templateId": "Hero:HID_Commando_GCGrenade_SR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz178": {
+      "templateId": "Hero:HID_Commando_GCGrenade_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz179": {
+      "templateId": "Hero:HID_Commando_GCGrenade_T_SR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz180": {
+      "templateId": "Hero:HID_Commando_GCGrenade_T_SR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz181": {
+      "templateId": "Hero:HID_Commando_GCGrenade_T_SR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz182": {
+      "templateId": "Hero:HID_Commando_GCGrenade_T_SR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz183": {
+      "templateId": "Hero:HID_Commando_GCGrenade_T_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz184": {
+      "templateId": "Hero:HID_Commando_GCGrenade_T_VR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz185": {
+      "templateId": "Hero:HID_Commando_GCGrenade_T_VR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz186": {
+      "templateId": "Hero:HID_Commando_GCGrenade_T_VR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz187": {
+      "templateId": "Hero:HID_Commando_GCGrenade_T_VR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz188": {
+      "templateId": "Hero:HID_Commando_GCGrenade_T_VR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz189": {
+      "templateId": "Hero:HID_Commando_GCGrenade_VR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz190": {
+      "templateId": "Hero:HID_Commando_GCGrenade_VR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz191": {
+      "templateId": "Hero:HID_Commando_GCGrenade_VR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz192": {
+      "templateId": "Hero:HID_Commando_GCGrenade_VR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz193": {
+      "templateId": "Hero:HID_Commando_GCGrenade_VR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz194": {
+      "templateId": "Hero:HID_Commando_GrenadeGun_M_T_SR_T01",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz195": {
+      "templateId": "Hero:HID_Commando_GrenadeGun_M_T_SR_T02",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 20,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz196": {
+      "templateId": "Hero:HID_Commando_GrenadeGun_M_T_SR_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz197": {
+      "templateId": "Hero:HID_Commando_GrenadeGun_M_T_SR_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz198": {
+      "templateId": "Hero:HID_Commando_GrenadeGun_M_T_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz199": {
+      "templateId": "Hero:",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterZolnierz200": {
+      "templateId": "Hero:",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
     "32b0b965-f82f-4e0c-9494-357c7c2817bc": {
       "templateId": "Quest:stonewoodquest_filler_1_d2",
       "attributes": {
@@ -2000,139 +6113,6 @@
         "item_seen": false,
         "xp": 0,
         "sent_new_notification": true,
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "Dowodca": {
-      "templateId": "Hero:HID_Constructor_HammerTank_R_T04",
-      "attributes": {
-        "equipped_cosmetics": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "gender": 0,
-        "level": 50,
-        "item_seen": true,
-        "squad_slot_idx": 0,
-        "portrait": "",
-        "hero_name": "DefaultHeroName",
-        "max_level_bonus": 0,
-        "squad_id": "squad_combat_adventuresquadone",
-        "mode_loadouts": [
-          {
-            "loadoutName": "Default",
-            "selectedGadgets": [
-              "Schematic:sid_assault_auto_sr_crystal_t06",
-              "Gadget:g_commando_goincommando",
-              "Gadget:g_commando_fraggrenade",
-              "Gadget:gadget_generic_turret"
-            ]
-          }
-        ],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
-        "favorite": true
-      },
-      "quantity": 1
-    },
-    "Wsparcie1": {
-      "templateId": "Hero:hid_constructor_rushbase_sr_t05",
-      "attributes": {
-        "equipped_cosmetics": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "gender": 0,
-        "level": 50,
-        "item_seen": true,
-        "squad_slot_idx": 1,
-        "portrait": "",
-        "hero_name": "DefaultHeroName",
-        "max_level_bonus": 0,
-        "mode_loadouts": [
-          {
-            "loadoutName": "Default",
-            "selectedGadgets": [
-              "Gadget:g_constructor_bullrush",
-              "",
-              ""
-            ]
-          }
-        ],
-        "squad_id": "squad_combat_adventuresquadone",
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
-        "favorite": true
-      },
-      "quantity": 1
-    },
-    "Wsparcie2": {
-      "templateId": "Hero:hid_commando_cinematic_test_r_t03",
-      "attributes": {
-        "equipped_cosmetics": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "gender": 0,
-        "level": 50,
-        "item_seen": true,
-        "squad_slot_idx": 2,
-        "portrait": "",
-        "hero_name": "DefaultHeroName",
-        "max_level_bonus": 0,
-        "squad_id": "squad_combat_adventuresquadone",
-        "mode_loadouts": [
-          {
-            "loadoutName": "Default",
-            "selectedGadgets": [
-              "Gadget:g_commando_goincommando"
-            ]
-          }
-        ],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
-        "favorite": true
-      },
-      "quantity": 1
-    },
-    "Hero1": {
-      "templateId": "Hero:HID_Constructor_007HW_SR_T05",
-      "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
-        "level": 50,
-        "item_seen": true,
-        "squad_slot_idx": 0,
-        "portrait": "",
-        "hero_name": "DefaultHeroName",
-        "max_level_bonus": 0,
-        "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
