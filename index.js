@@ -13,7 +13,7 @@ express.use(bodyparser.urlencoded({extended:true}));
 express.use(Express.static('public'));
 
 const port = process.env.PORT || 5595;
-express.listen(port, console.log("Started listening on port", port));
+express.listen(port, console.log("Serwer uruchomiony na porcie", port));
 
 express.get("/", async (req, res) => {
 	res.sendFile('index.html');
@@ -850,12 +850,6 @@ express.put("/fortnite/api/cloudstorage/user/*/*", async (req, res) => {
 
 express.get("/fortnite/api/game/v2/world/info", async (req, res) => {
 	res.json(worldstw)
-	res.status(200);
-	res.end();
-})
-
-express.get("/fortnite/api/storefront/v2/keychain", async (req, res) => {
-	res.json(Keychain)
 	res.status(200);
 	res.end();
 })
