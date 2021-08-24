@@ -2,7 +2,7 @@
   "_id": "faefefcfdaad4eae8aed65c3139376f8",
   "created": "2017-08-29T20:38:59.824Z",
   "updated": "2017-12-25T02:08:43.518Z",
-  "rvn": 882,
+  "rvn": 1153,
   "wipeNumber": 9,
   "accountId": "b810c129520946d6801a58bb9d5859fc",
   "profileId": "profile0",
@@ -16420,6 +16420,1903 @@
         "item_seen": true
       },
       "quantity": 1
+    },
+    "clive-3vl0-i5qqzy-4k9x": {
+      "templateId": "HomebaseNode:T1_Research_7C7638680",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "2rug8-te45-yg0svr-29aw": {
+      "templateId": "HomebaseNode:T2_Research_EA43FDB41",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "86cf9-q843-egatya-ws26": {
+      "templateId": "HomebaseNode:T2_Research_45306C490",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "qksrx-79ft-cux2ie-it4d": {
+      "templateId": "HomebaseNode:T2_Research_794309E80",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "dvvhk-ez47-ducc4d-quq5": {
+      "templateId": "HomebaseNode:T2_Research_8D3A925A1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "9r24y-86wy-prxnqg-gu9o": {
+      "templateId": "HomebaseNode:T2_Research_DE7035662",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "hnzeo-wh2b-ypgcvc-dbdh": {
+      "templateId": "HomebaseNode:T2_Research_BC4833EE0",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "svqmx-d4vx-k0zfob-inxs": {
+      "templateId": "HomebaseNode:T2_Research_CDC67FA60",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "kfqvi-szlf-sf1f5v-1zaw": {
+      "templateId": "HomebaseNode:T2_Research_C90F99E71",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "p9lvx-zxd2-s3mvgc-yk8p": {
+      "templateId": "HomebaseNode:T2_Research_EC48272D2",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "gvorf-4yyn-hem8gr-wb7s": {
+      "templateId": "HomebaseNode:T2_Research_EB75BBD01",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "7g0as-flqq-ciqi5h-yqs4": {
+      "templateId": "HomebaseNode:T2_Research_49280C800",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "m54qg-sq8s-47b5z1-nvyw": {
+      "templateId": "HomebaseNode:T2_Research_BA7B225B0",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "74k7c-m1i5-txtgpk-gtv8": {
+      "templateId": "HomebaseNode:T2_Research_5F21793E0",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "g8wir-pkxd-me8hxq-5lo8": {
+      "templateId": "HomebaseNode:T2_Research_861D8EE12",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "8kzsx-303f-cqp89r-ekxc": {
+      "templateId": "HomebaseNode:T2_Research_4384865E3",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "tyrcb-i6ev-774so0-vb3c": {
+      "templateId": "HomebaseNode:T2_Research_69D354CA3",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "50zl2-fnqc-w6i6xv-i44z": {
+      "templateId": "HomebaseNode:T2_Research_E31381504",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "o5a12-uva8-yhu9r0-zyim": {
+      "templateId": "HomebaseNode:T2_Research_F583EED84",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "x8tbr-rl8q-vlh64r-phvm": {
+      "templateId": "HomebaseNode:T2_Research_676EA9075",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "odtng-0mo9-r1ekfb-yidl": {
+      "templateId": "HomebaseNode:T2_Research_EE4D092F5",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "g12cx-yikv-up1e6e-izd2": {
+      "templateId": "HomebaseNode:T2_Research_E29CC2D33",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "4m58i-e9t0-xalhsq-d4se": {
+      "templateId": "HomebaseNode:T2_Research_8C57445F1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "340a9-dgh4-4qtc3x-pzmu": {
+      "templateId": "HomebaseNode:T2_Research_1986CE6E1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "fidyt-97ch-r097c5-s0l7": {
+      "templateId": "HomebaseNode:T2_Research_DC6F1EE52",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "mp4fy-ngef-qf7m23-s5nk": {
+      "templateId": "HomebaseNode:T2_Research_371F90623",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "41epp-7xeg-zhbmu7-hgl6": {
+      "templateId": "HomebaseNode:T2_Research_816377AF1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "wtx25-sdsa-qco09b-0u0f": {
+      "templateId": "HomebaseNode:T2_Research_04F33FDD2",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "9o8sa-wqvp-ldek2w-3t1m": {
+      "templateId": "HomebaseNode:T2_Research_C4DCB3993",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "sctvc-py7g-tcwyvs-g40z": {
+      "templateId": "HomebaseNode:T2_Research_ACF00FD11",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "rkdzx-r9e3-1ws82y-0x2o": {
+      "templateId": "HomebaseNode:T2_Research_D71CC3522",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "swzs2-zxre-g760mt-bows": {
+      "templateId": "HomebaseNode:T2_Research_15F1DC0B3",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "bs267-n4u2-it3m37-6gof": {
+      "templateId": "HomebaseNode:T2_Research_6C56AEA04",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "02uhb-7emr-k9h9ei-x5pu": {
+      "templateId": "HomebaseNode:T2_Research_00E5B7763",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "h9ff3-9bz9-5ryl7b-5e6i": {
+      "templateId": "HomebaseNode:T2_Research_11FC257C5",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "3gx4x-mgo1-svvb2y-gptx": {
+      "templateId": "HomebaseNode:T2_Research_6C377C7B6",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "p58cv-xepo-e9q52b-94pc": {
+      "templateId": "HomebaseNode:T2_Research_941ABAAC5",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "xibbk-zmm6-m6de31-ism1": {
+      "templateId": "HomebaseNode:T2_Research_A0AF3E194",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "vfilp-opqg-y18xsq-l39i": {
+      "templateId": "HomebaseNode:T2_Research_3AFD81BA3",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "1t22w-59z0-8x59sd-gy9n": {
+      "templateId": "HomebaseNode:T2_Research_5FB50D871",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "akdm8-pf2u-qed21w-veku": {
+      "templateId": "HomebaseNode:T2_Research_B3F93C620",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "vf39r-h6po-s2gz8o-7cid": {
+      "templateId": "HomebaseNode:T2_Research_5D47FE190",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "mkh8g-0rlc-xtsmbl-auq6": {
+      "templateId": "HomebaseNode:T2_Research_F8BDEEBB0",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "l7o1k-fxk9-1877m0-anso": {
+      "templateId": "HomebaseNode:T2_Research_C682FDD51",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "mxr7a-7w8n-knpdgi-4706": {
+      "templateId": "HomebaseNode:T2_Research_81C6B0432",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "69erh-tef4-1t9lbi-080g": {
+      "templateId": "HomebaseNode:T2_Research_D74CAB422",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "946ov-56o9-awou2q-pauk": {
+      "templateId": "HomebaseNode:T2_Research_163260621",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "116p5-2qp7-gfuemq-xefr": {
+      "templateId": "HomebaseNode:T2_Research_72F6C6DE0",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "u4z4m-emuh-ofpf29-nzxv": {
+      "templateId": "HomebaseNode:T2_Research_EB4AF8030",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "dhwbi-locq-cyihnt-8cmc": {
+      "templateId": "HomebaseNode:TRTrunk_2_1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "uou44-xk9n-efw7da-6yf4": {
+      "templateId": "HomebaseNode:TRTrunk_3_0",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "54746-llpo-y7i9dw-kf8b": {
+      "templateId": "HomebaseNode:T3_Research_66AD113A1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "rkswt-kx4o-7zwq8a-b89m": {
+      "templateId": "HomebaseNode:T3_Research_FE0BC1210",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "94czi-0x8q-fv2tfh-4o9a": {
+      "templateId": "HomebaseNode:T3_Research_AA1DA8210",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "rbpra-8ngi-4illls-dkrv": {
+      "templateId": "HomebaseNode:T3_Research_A39241861",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "r3lb1-yi18-x8ucbi-wd8d": {
+      "templateId": "HomebaseNode:T3_Research_BF9440313",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "u1q4t-ou2g-f14n1h-80dt": {
+      "templateId": "HomebaseNode:T3_Research_B43852611",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "vgt1h-1dgo-wqn0h8-umd2": {
+      "templateId": "HomebaseNode:T3_Research_2A7F438C2",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "wo01w-38q3-fsu6tz-h607": {
+      "templateId": "HomebaseNode:T3_Research_E8CB49191",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "p3xra-u64t-y63eqx-cwv2": {
+      "templateId": "HomebaseNode:T3_Research_AEB9B0780",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "00l1d-fusb-lxdlqu-01bm": {
+      "templateId": "HomebaseNode:T3_Research_296889EA0",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "grhl2-q9ss-fles03-vmab": {
+      "templateId": "HomebaseNode:T3_Research_C82820E21",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "eg1cp-p0zz-u6p6no-h22l": {
+      "templateId": "HomebaseNode:T3_Research_5D0CB6CF0",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "147fg-szks-zpk86c-scvv": {
+      "templateId": "HomebaseNode:T3_Research_87634D530",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "7wcri-l66m-1kbvwa-6vbn": {
+      "templateId": "HomebaseNode:T3_Research_9DAC24CC1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "qna1g-m1sy-m9d6v5-95ol": {
+      "templateId": "HomebaseNode:T3_Research_9A55874D0",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "9ddaz-laqy-focout-00bh": {
+      "templateId": "HomebaseNode:T3_Research_A1E8D6A12",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "wud6g-dw14-3yca5z-y9at": {
+      "templateId": "HomebaseNode:T3_Research_62E106C43",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "7dhbi-cb3a-0oh95u-guig": {
+      "templateId": "HomebaseNode:T3_Research_F48DE6842",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "lpnxp-ptnw-psy029-t30m": {
+      "templateId": "HomebaseNode:T3_Research_3A1909AB4",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "3koy4-ib32-7s7wog-vcfe": {
+      "templateId": "HomebaseNode:T3_Research_CB48078A1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "y3kxs-ymun-2sor7e-nu67": {
+      "templateId": "HomebaseNode:T3_Research_6F0EF6CA5",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "li09p-1id5-y9svgf-5p0a": {
+      "templateId": "HomebaseNode:T3_Research_57056E764",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "k47dg-iwqu-3o9x08-68yz": {
+      "templateId": "HomebaseNode:T3_Research_9B20CC2A3",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "8ri3g-ne5m-ras0o7-3d8g": {
+      "templateId": "HomebaseNode:T3_Research_A7D38AEA4",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "9kcyr-0pek-0uvdzr-3b3y": {
+      "templateId": "HomebaseNode:T3_Research_8BCCB9037",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "s1p6f-7249-7n6p0g-lqu9": {
+      "templateId": "HomebaseNode:T3_Research_4ED9F84A6",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "owgur-xd0o-rh2hd7-i26q": {
+      "templateId": "HomebaseNode:T3_Research_202D50112",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "kx813-1b5s-3dbwq9-ab6p": {
+      "templateId": "HomebaseNode:T3_Research_0095DC2C3",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "69he0-9fex-p4n1u2-kd4w": {
+      "templateId": "HomebaseNode:T3_Research_BA83CA3A3",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "61qk8-0cn8-mmuduy-lni2": {
+      "templateId": "HomebaseNode:T3_Research_60B83C472",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "4246a-oen3-4tqxde-40gt": {
+      "templateId": "HomebaseNode:T3_Research_CEBB3B219",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "9h76u-503h-znwy90-pswn": {
+      "templateId": "HomebaseNode:T3_Research_EC3512538",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "ms9zm-2mw1-vckr0f-imnl": {
+      "templateId": "HomebaseNode:T3_Research_DB4C9CF95",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "xlbm6-i5ua-uereid-32hl": {
+      "templateId": "HomebaseNode:T3_Research_9DBEF7D52",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "zhqyo-opno-oq5dtf-q2p5": {
+      "templateId": "HomebaseNode:T3_Research_72A6A9015",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "dr6k7-z5mr-wv02vb-6xgy": {
+      "templateId": "HomebaseNode:T3_Research_A78DD3873",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "vwst9-s3qq-6icalr-w4f3": {
+      "templateId": "HomebaseNode:T3_Research_4877E8553",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "b1fi8-24t3-zh7q8g-3ucz": {
+      "templateId": "HomebaseNode:T3_Research_E920B5567",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "tuw79-a8t9-8v583q-9tmm": {
+      "templateId": "HomebaseNode:T3_Research_0AC5CCFD6",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "cqcem-ixyz-3s1795-kx87": {
+      "templateId": "HomebaseNode:T3_Research_97EE240B1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "kxgdy-lto5-8gikxi-7k55": {
+      "templateId": "HomebaseNode:T3_Research_4898C79D3",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "woyx7-w1qk-fh09pd-2o6b": {
+      "templateId": "HomebaseNode:T3_Research_DDCAA1041",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "eul2t-21i4-0klyqf-izmp": {
+      "templateId": "HomebaseNode:T3_Research_A3701B970",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "xk3ne-fkky-cidfvw-ldnd": {
+      "templateId": "HomebaseNode:T3_Research_EF9604C70",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "b9czy-9fw0-pdmy1h-5f50": {
+      "templateId": "HomebaseNode:T3_Research_868B67A00",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "dynvm-i1pe-kb5652-nqua": {
+      "templateId": "HomebaseNode:T3_Research_2E0654DB1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "yimv7-797k-fyd7hy-zmvi": {
+      "templateId": "HomebaseNode:T3_Research_3BBA74012",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "u9xr0-eczp-e5wh8y-lls5": {
+      "templateId": "HomebaseNode:T3_Research_244E0BAE1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "wsc0l-nz9o-f1rp1i-yyzn": {
+      "templateId": "HomebaseNode:T3_Research_E63953BC2",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "nak49-hxmr-iqc908-id7p": {
+      "templateId": "HomebaseNode:T3_Research_CF78A5F20",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "g1gc5-1qzu-yeeh6g-sw99": {
+      "templateId": "HomebaseNode:T3_Research_2989E24E1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "q9mo8-olku-aubv0m-ueri": {
+      "templateId": "HomebaseNode:T3_Research_99D650340",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "h7ixv-i6zi-morqdw-g5qh": {
+      "templateId": "HomebaseNode:T3_Research_877423D00",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "3e0gb-gt1c-nrw952-9uoa": {
+      "templateId": "HomebaseNode:T3_Research_9B544A970",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "q8lyw-3dc4-q2avkf-vno5": {
+      "templateId": "HomebaseNode:T3_Research_E558C1F41",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "9bkrz-ipqw-6x7mmy-hc9f": {
+      "templateId": "HomebaseNode:T3_Research_CF908A9F2",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "n6fdf-xnr4-c7b0o1-1in7": {
+      "templateId": "HomebaseNode:T3_Research_86C896DF3",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "bq536-ywxu-i4sr1b-ppbt": {
+      "templateId": "HomebaseNode:T3_Research_24CDE2F34",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "zgmln-f2ok-2yrzz5-2sf8": {
+      "templateId": "HomebaseNode:T3_Research_40DCA0BC1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "vih3m-kdwz-s537wl-xd5h": {
+      "templateId": "HomebaseNode:T3_Research_88DDAFB05",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "hg1f6-dq54-8a3z5x-z2wz": {
+      "templateId": "HomebaseNode:T3_Research_B708B4253",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "fz7ms-9bog-lhwlhm-8ipq": {
+      "templateId": "HomebaseNode:T3_Research_AF4DC7FB4",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "4ov4s-bez2-8qf2eu-fgdl": {
+      "templateId": "HomebaseNode:T3_Research_C60271AF5",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "87636-6q7n-29sh3a-2882": {
+      "templateId": "HomebaseNode:T3_Research_BEB49E403",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "78gry-swl3-xghh75-qf5r": {
+      "templateId": "HomebaseNode:T3_Research_2066C9CE7",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "em5xu-v7sg-qhia9l-t2c3": {
+      "templateId": "HomebaseNode:T3_Research_E1A249502",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "oghep-dpa9-56lbb4-ttzu": {
+      "templateId": "HomebaseNode:T3_Research_1EF0F9B86",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "a2tii-o4de-cigd55-biwk": {
+      "templateId": "HomebaseNode:T3_Research_18366F893",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "3c99e-2kkn-pdopvn-d8gb": {
+      "templateId": "HomebaseNode:T3_Research_0356C8B05",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "q1z1a-axh5-i6hfas-ypok": {
+      "templateId": "HomebaseNode:T3_Research_8E5BF50B8",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "o6oq4-5lc9-7sk5q1-5x97": {
+      "templateId": "HomebaseNode:T3_Research_A2C489547",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "unglz-7r8d-ts4fvc-v5q9": {
+      "templateId": "HomebaseNode:T3_Research_6EF8FB684",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "ukqp2-zh9d-5yh40a-wmp0": {
+      "templateId": "HomebaseNode:T3_Research_330E09826",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "pzqix-word-lvt9t3-zq5h": {
+      "templateId": "HomebaseNode:T3_Research_F49975212",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "dauyt-yg0f-1kx9gp-qbo6": {
+      "templateId": "HomebaseNode:T3_Research_EB7B4E453",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "wtcbf-8u44-3c6g4g-hfa6": {
+      "templateId": "HomebaseNode:T3_Research_D3CC6C383",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "n1foq-y826-1woo1v-9p1x": {
+      "templateId": "HomebaseNode:T3_Research_9CDE36052",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "4fcd2-iacq-on1lq8-lgkw": {
+      "templateId": "HomebaseNode:T3_Research_FCCD6F5F9",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "gsev0-y7q5-z5td63-n3ku": {
+      "templateId": "HomebaseNode:TRTrunk_3_1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "i3efy-v4ze-yz9llv-87q3": {
+      "templateId": "HomebaseNode:TRTrunk_4_0",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "z6c79-oygc-5qqyah-589p": {
+      "templateId": "HomebaseNode:T4_Research_5D5DA3875",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "dhy9m-e7gf-9oceuh-zu8s": {
+      "templateId": "HomebaseNode:T4_Research_3465FE4C4",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "z0g02-rzb4-wqo2k1-4r3n": {
+      "templateId": "HomebaseNode:T4_Research_0DA1313B4",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "yiuhy-3t5r-lmd0vt-fcbw": {
+      "templateId": "HomebaseNode:T4_Research_F6FA2A943",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "g075q-gmcv-3i0ilo-8psp": {
+      "templateId": "HomebaseNode:T4_Research_2C5E6CA32",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "h3rt9-3sgw-wyxzit-iec8": {
+      "templateId": "HomebaseNode:T4_Research_05F0E3251",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "4ei7s-uzis-y0rovb-w6o7": {
+      "templateId": "HomebaseNode:T4_Research_4ED905580",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "47f1f-wibs-a8uio0-19v8": {
+      "templateId": "HomebaseNode:T4_Research_806A452A0",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "bm1on-chke-a7qzhc-k6uf": {
+      "templateId": "HomebaseNode:T4_Research_990FA7030",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "6vodn-r8yi-hqb7dk-bnzh": {
+      "templateId": "HomebaseNode:T4_Research_FD6399601",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "nd67g-blyz-tugy8b-5u4a": {
+      "templateId": "HomebaseNode:T4_Research_BEDE637C1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "d6mz3-a5qp-q653tf-wnf0": {
+      "templateId": "HomebaseNode:T4_Research_6085AB582",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "s1bn5-7pvw-e1htnv-0xdq": {
+      "templateId": "HomebaseNode:T4_Research_1782F61F2",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "94ku6-mxul-qyi5b5-2ofr": {
+      "templateId": "HomebaseNode:T4_Research_87BC668A3",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "7so7h-5g3r-s5logd-dllu": {
+      "templateId": "HomebaseNode:T4_Research_7C66E51A3",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "092sr-f82m-rv18rv-y67i": {
+      "templateId": "HomebaseNode:T4_Research_0AF63DBB1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "r4l9z-s50z-01upzb-oqui": {
+      "templateId": "HomebaseNode:T4_Research_7A19BC553",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "1um3a-pthq-hpo42t-oroc": {
+      "templateId": "HomebaseNode:T4_Research_D8DF26F42",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "6v37o-ot7y-3ui9qz-v55n": {
+      "templateId": "HomebaseNode:T4_Research_DF4C1EB61",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "z40eh-nsp8-7gn2ia-xxyh": {
+      "templateId": "HomebaseNode:T4_Research_1F3130D74",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "qnvp1-vdv5-q33deq-i2uu": {
+      "templateId": "HomebaseNode:T4_Research_24ECB6ED0",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "mh3qn-s9bc-whwdyq-g4ff": {
+      "templateId": "HomebaseNode:T4_Research_6970CA911",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "9iruz-vl3y-lh212w-06cp": {
+      "templateId": "HomebaseNode:T4_Research_6950520A0",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "ng35z-kf35-2f257m-7uwg": {
+      "templateId": "HomebaseNode:T4_Research_0002FFCE0",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "ihp15-bzq1-0fvcmr-cpe8": {
+      "templateId": "HomebaseNode:T4_Research_ADE43EB42",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "lgtn3-xyf8-boznxt-hw79": {
+      "templateId": "HomebaseNode:T4_Research_CF5201C53",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "9fnla-e5tu-rpkxv5-ms38": {
+      "templateId": "HomebaseNode:T4_Research_A442E02E5",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "b8i5u-lnhz-f34mcu-8vct": {
+      "templateId": "HomebaseNode:T4_Research_C498D7916",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "m2n7o-s0qa-q9pwv7-io9z": {
+      "templateId": "HomebaseNode:T4_Research_949685757",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "qapra-m8ym-bamh2w-dnq2": {
+      "templateId": "HomebaseNode:T4_Research_5B2432E08",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "pmt1z-zk1m-l4ucs9-3ihx": {
+      "templateId": "HomebaseNode:T4_Research_C03156729",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "wd726-5nlr-fk25dk-z9kx": {
+      "templateId": "HomebaseNode:T4_Research_86EA19CB10",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "zx9mn-urcx-blheml-navy": {
+      "templateId": "HomebaseNode:T4_Research_8A5CB4BD4",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "p3uo6-2acs-uh11ls-q3bw": {
+      "templateId": "HomebaseNode:T4_Research_2AC5DFFE2",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "8sbi7-91xi-sh65bi-39xq": {
+      "templateId": "HomebaseNode:T4_Research_96FCF31F4",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "81yiq-s9n3-cq07ot-6ppv": {
+      "templateId": "HomebaseNode:T4_Research_62F4D4C75",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "xkm9y-xvok-tlnrmu-qpbw": {
+      "templateId": "HomebaseNode:T4_Research_E4F5B7D33",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "4zoi0-t6b5-yhwel5-fdro": {
+      "templateId": "HomebaseNode:T4_Research_6E74626D6",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "k66ys-xbte-mtwmlp-ux3r": {
+      "templateId": "HomebaseNode:T4_Research_EE28E1455",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "dxusm-rcvm-3cyk48-rzkn": {
+      "templateId": "HomebaseNode:T4_Research_D9B9ACC97",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "nktpn-m3s8-yxbxv0-gd9l": {
+      "templateId": "HomebaseNode:T4_Research_85834F016",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "v9ibo-4vci-f1gzct-ez1n": {
+      "templateId": "HomebaseNode:T4_Research_2D3408466",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "ronzt-0vib-9l4efw-eufa": {
+      "templateId": "HomebaseNode:T4_Research_D39889354",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "bc7vp-wv3i-wgx9yi-8kyg": {
+      "templateId": "HomebaseNode:T4_Research_CB52ED2E6",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "x4563-kcu3-bwc7xv-r73u": {
+      "templateId": "HomebaseNode:T4_Research_B794A99C7",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "o2rho-oq7y-g8kfef-w9qz": {
+      "templateId": "HomebaseNode:T4_Research_E68B273F8",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "cgw3b-ndct-whttob-zdif": {
+      "templateId": "HomebaseNode:T4_Research_E122D94B8",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "f1ai8-zdta-3u9d7d-h0uk": {
+      "templateId": "HomebaseNode:T4_Research_92602BB17",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "5etki-zp7u-u91p24-6kk4": {
+      "templateId": "HomebaseNode:T4_Research_D59F481A7",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "pzp2l-620k-atxfan-sw2d": {
+      "templateId": "HomebaseNode:T4_Research_08E6699F8",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "sav9u-wcm7-1whruo-dl2s": {
+      "templateId": "HomebaseNode:T4_Research_57F9B1498",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "t4ias-35ks-nxbdf5-svyd": {
+      "templateId": "HomebaseNode:T4_Research_866E34969",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "eem4p-edu7-iq65vn-5fp9": {
+      "templateId": "HomebaseNode:T4_Research_FBC54B5110",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "uogpd-tebu-910xxs-4e9x": {
+      "templateId": "HomebaseNode:T4_Research_C2263DD311",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "ibaro-gly9-4eartn-do9v": {
+      "templateId": "HomebaseNode:T4_Research_85880B7A9",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "l0n07-aqpt-wo2p4b-f5nt": {
+      "templateId": "HomebaseNode:T4_Research_29AB3FAD9",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "77g0q-gapp-3p2fl0-6gmv": {
+      "templateId": "HomebaseNode:T4_Research_C510196D5",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "3kzcx-yzfx-l4nbab-3dbo": {
+      "templateId": "HomebaseNode:T4_Research_77B7B7E021",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "9159y-wcz7-kvybad-w9wl": {
+      "templateId": "HomebaseNode:T4_Research_FBD13E0B20",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "31v8p-l35d-vrb2yk-80w2": {
+      "templateId": "HomebaseNode:T4_Research_8C4FF2FF9",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "4bxvr-u3t1-dvlsic-n978": {
+      "templateId": "HomebaseNode:T4_Research_9041558119",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "co0bw-p2i4-gt7ioa-fdmm": {
+      "templateId": "HomebaseNode:T4_Research_50AD3C3A18",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "sf959-7t5e-kev2nb-rm3x": {
+      "templateId": "HomebaseNode:T4_Research_BD65896217",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "rl6c0-wfzn-3myuey-6twr": {
+      "templateId": "HomebaseNode:T4_Research_6DE82BE116",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "dmbie-f3fo-8u76as-2hrr": {
+      "templateId": "HomebaseNode:T4_Research_1A3360F815",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "am5ml-mzs6-dyqmp3-qg4c": {
+      "templateId": "HomebaseNode:T4_Research_5B05F0CD14",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "g2lpm-zqcf-qoe0b8-q74m": {
+      "templateId": "HomebaseNode:T4_Research_143D055A13",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "ntx70-406h-nb657i-ii91": {
+      "templateId": "HomebaseNode:T4_Research_4B2B314212",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "n4669-w7ka-qauyko-g9yw": {
+      "templateId": "HomebaseNode:T4_Research_60BECF5C11",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "qghw4-bilg-nzhqlk-p2zu": {
+      "templateId": "HomebaseNode:T4_Research_FFBEB25A5",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "7u5as-ay06-w6d886-t353": {
+      "templateId": "HomebaseNode:T4_Research_9F67DB025",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "kd9oz-rid1-ldky8v-p6mg": {
+      "templateId": "HomebaseNode:T4_Research_DCF7D2104",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "hga4r-ky0d-ufy4th-e8qv": {
+      "templateId": "HomebaseNode:T4_Research_D469F49D4",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "2oybe-0uym-vtvtao-1czc": {
+      "templateId": "HomebaseNode:T4_Research_0B4E2EB53",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "bsf0w-uxcr-mtvsyd-apz7": {
+      "templateId": "HomebaseNode:T4_Research_B0CBC67F2",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "k5mxg-oc2l-mgif8p-yzyl": {
+      "templateId": "HomebaseNode:T4_Research_297CF12B1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "9nc1i-0cwx-n3frpn-u2mh": {
+      "templateId": "HomebaseNode:T4_Research_D178232F0",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "a9avo-md0y-fwc1sw-1qr0": {
+      "templateId": "HomebaseNode:T4_Research_143A1B010",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "5a2g0-5g2q-o9ffkf-63cl": {
+      "templateId": "HomebaseNode:T4_Research_4CB258320",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "lx0ut-6vly-dk4d1o-0smy": {
+      "templateId": "HomebaseNode:T4_Research_4D72E54C1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "gea56-xs4q-zl3lhi-upfz": {
+      "templateId": "HomebaseNode:T4_Research_6D8F7DAB2",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "64q3z-hm55-cqthd7-c1z8": {
+      "templateId": "HomebaseNode:T4_Research_800C36E52",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "ibnef-m4qq-1mo8a1-08u4": {
+      "templateId": "HomebaseNode:T4_Research_7DE649371",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "vnas6-k6kz-h6k9bv-ftwa": {
+      "templateId": "HomebaseNode:T4_Research_6C012B1E3",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "m7cfr-5piw-nk7i6d-ifli": {
+      "templateId": "HomebaseNode:T4_Research_66A77BD23",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "vgfuc-shn1-h3akd4-pw1z": {
+      "templateId": "HomebaseNode:T4_Research_42B6496F1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "821ha-g1ky-taoe0h-9law": {
+      "templateId": "HomebaseNode:T4_Research_F1D475263",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "onw7y-u2ka-405kyo-35k3": {
+      "templateId": "HomebaseNode:T4_Research_A901DFFE2",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "h2q36-hdvm-7kdmlb-38p0": {
+      "templateId": "HomebaseNode:T4_Research_37206D211",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "lzgxu-mv55-czo4b8-e86q": {
+      "templateId": "HomebaseNode:T4_Research_478935174",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "2asii-i3fr-54scpa-5is9": {
+      "templateId": "HomebaseNode:T4_Research_FD9A30F10",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "o93gh-fhra-9apnpn-r1yg": {
+      "templateId": "HomebaseNode:T4_Research_B01AE71C0",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "ir5w7-thak-srxfp8-qqkg": {
+      "templateId": "HomebaseNode:T4_Research_8C0D8B320",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "f13fz-lftm-ohatu1-r9c2": {
+      "templateId": "HomebaseNode:T4_Research_5D2134621",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "dxchd-mwsb-3u429p-69xn": {
+      "templateId": "HomebaseNode:T4_Research_7C9260F62",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "derik-y6ex-ehcm6r-lgli": {
+      "templateId": "HomebaseNode:T4_Research_424AF64A3",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "uav52-ilz9-bd3502-bl8e": {
+      "templateId": "HomebaseNode:T4_Research_7ADDBB805",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "r55ha-3e8c-smch3f-ff8m": {
+      "templateId": "HomebaseNode:T4_Research_FBBD71C96",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "moyop-fosv-c696tu-9025": {
+      "templateId": "HomebaseNode:T4_Research_30C626C17",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "v2pbg-b2br-qfmdlu-t6s0": {
+      "templateId": "HomebaseNode:T4_Research_6421FCAF8",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "uudcl-yxll-580rni-9ot2": {
+      "templateId": "HomebaseNode:T4_Research_E5101A759",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "1twyx-cp8b-5yvrvy-4tdp": {
+      "templateId": "HomebaseNode:T4_Research_41ED22CE10",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "0hsw6-i62h-v3kaku-8bt1": {
+      "templateId": "HomebaseNode:T4_Research_4C1080774",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "wcp41-8q0l-g7hg83-tl9d": {
+      "templateId": "HomebaseNode:T4_Research_108DCEC92",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "x8taa-fv3t-1i7ufb-bzkg": {
+      "templateId": "HomebaseNode:T4_Research_F31044D14",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "8wqut-0vs7-2bq5df-e4vt": {
+      "templateId": "HomebaseNode:T4_Research_C858E35A5",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "zsehb-5hy0-59a8tn-a2qr": {
+      "templateId": "HomebaseNode:T4_Research_468E857A6",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "2tkd9-7uxh-vuvefi-x6y0": {
+      "templateId": "HomebaseNode:T4_Research_0BEE01B35",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "1ucl0-6cww-is3cwa-m85m": {
+      "templateId": "HomebaseNode:T4_Research_040079B07",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "3x9un-e3au-8wi3lb-4aat": {
+      "templateId": "HomebaseNode:T4_Research_1ACFC7918",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "kbxff-5yym-pgmryo-opdz": {
+      "templateId": "HomebaseNode:T4_Research_8EBF80409",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "4xcgg-lbsw-46v083-9568": {
+      "templateId": "HomebaseNode:T4_Research_303E53CC10",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "d9167-wxnn-xzuuqt-eyp1": {
+      "templateId": "HomebaseNode:T4_Research_BDE783F111",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "s1wx6-oqpu-stcsve-yxg5": {
+      "templateId": "HomebaseNode:T4_Research_36CF54759",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "k4u5x-1t6e-p859in-1aia": {
+      "templateId": "HomebaseNode:T4_Research_E4CA598F8",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "w8upv-ne1r-pa1hns-l0i3": {
+      "templateId": "HomebaseNode:T4_Research_34B078C57",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "ne5w6-mx52-pt4d22-dnf6": {
+      "templateId": "HomebaseNode:T4_Research_EA348B7E6",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "dpfx8-caf6-m9sryo-xw7r": {
+      "templateId": "HomebaseNode:T4_Research_4857FFC06",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "hqf03-z1d8-6ukopt-b9lh": {
+      "templateId": "HomebaseNode:T4_Research_8006526C4",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "n6x7w-4k6m-19bi46-9and": {
+      "templateId": "HomebaseNode:T4_Research_9509CDBC7",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "nhoel-yce5-3ucnh7-nmrd": {
+      "templateId": "HomebaseNode:T4_Research_CED5C91E8",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "2tb57-obmz-0hpewm-p2o0": {
+      "templateId": "HomebaseNode:T4_Research_7A4057E95",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "i920v-tdhu-cm2nug-m7rc": {
+      "templateId": "HomebaseNode:T4_Research_E5B708AC9",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "h5ans-ehe7-grv8q9-1po4": {
+      "templateId": "HomebaseNode:T4_Research_A22C720C9",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "yf351-9762-uxiiwl-1st9": {
+      "templateId": "HomebaseNode:T4_Research_B406B19221",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "bzmda-cz3g-nevisl-1i99": {
+      "templateId": "HomebaseNode:T4_Research_93FB640920",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "o17ey-t4wu-m3rg40-eg5d": {
+      "templateId": "HomebaseNode:T4_Research_C6AC6DCD19",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "i2gao-ltvh-de80st-qwzp": {
+      "templateId": "HomebaseNode:T4_Research_BD62253618",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "liu84-mci5-tub8nv-uvr7": {
+      "templateId": "HomebaseNode:T4_Research_4F0BF50F17",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "mmocw-79qq-1ik958-izqp": {
+      "templateId": "HomebaseNode:T4_Research_E5F6B93D8",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "8muc2-ym4b-syn85d-930n": {
+      "templateId": "HomebaseNode:T4_Research_51BA89697",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "cthsl-12gd-ygc9nh-46ip": {
+      "templateId": "HomebaseNode:T4_Research_7BE60D1F6",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "9bncx-olpv-wx3hc2-94uk": {
+      "templateId": "HomebaseNode:T4_Research_E05201F55",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "gnr7r-mh46-h0qr86-s2i2": {
+      "templateId": "HomebaseNode:T4_Research_67582B143",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "0a20t-4eu1-fcazfi-07un": {
+      "templateId": "HomebaseNode:T4_Research_EC61C87B11",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "dfivx-01ri-4m9h2o-dk6s": {
+      "templateId": "HomebaseNode:T4_Research_A10A422F12",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "xah4p-rcwx-0yciok-nxup": {
+      "templateId": "HomebaseNode:T4_Research_F956124D13",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "s1key-irlr-ubdtex-odmb": {
+      "templateId": "HomebaseNode:T4_Research_4E145E6814",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "du7b8-dof9-wuzb8r-z455": {
+      "templateId": "HomebaseNode:T4_Research_0E591BA215",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "hm7o8-za5p-23tbbr-d70v": {
+      "templateId": "HomebaseNode:T4_Research_822B8CA716",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
     }
   },
   "stats": {
@@ -16655,5 +18552,5 @@
       "packs_granted": 13
     }
   },
-  "commandRevision": 665
+  "commandRevision": 936
 }
