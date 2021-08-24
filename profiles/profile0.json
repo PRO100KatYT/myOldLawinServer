@@ -8,6 +8,119 @@
   "profileId": "profile0",
   "version": "grant_collectionbook_lvl_100_reward_change_dec_2017",
   "items": {
+    "Dowodca": {
+      "templateId": "Hero:HID_Commando_GrenadeGun_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "squad_combat_adventuresquadone",
+        "mode_loadouts": [
+          {
+            "loadoutName": "Default",
+            "selectedGadgets": [
+              "Schematic:sid_assault_auto_sr_crystal_t06",
+              "Gadget:g_commando_goincommando",
+              "Gadget:g_commando_fraggrenade",
+              "Gadget:gadget_generic_turret"
+            ]
+          }
+        ],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": true
+      },
+      "quantity": 1
+    },
+    "Wsparcie1": {
+      "templateId": "Hero:HID_Commando_GunHeadshotHW_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "mode_loadouts": [
+          {
+            "loadoutName": "Default",
+            "selectedGadgets": [
+              "Gadget:g_constructor_bullrush",
+              "",
+              ""
+            ]
+          }
+        ],
+        "squad_id": "squad_combat_adventuresquadone",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": true
+      },
+      "quantity": 1
+    },
+    "Wsparcie2": {
+      "templateId": "Hero:HID_Commando_GrenadeMaster_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 2,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "squad_combat_adventuresquadone",
+        "mode_loadouts": [
+          {
+            "loadoutName": "Default",
+            "selectedGadgets": [
+              "Gadget:g_commando_goincommando"
+            ]
+          }
+        ],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": true
+      },
+      "quantity": 1
+    },
     "QuestSiodmaBurzowkaKamiennyLas": {
       "templateId": "Quest:OutpostQuest_T1_L7",
       "attributes": {
