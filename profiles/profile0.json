@@ -2,48 +2,93 @@
   "_id": "faefefcfdaad4eae8aed65c3139376f8",
   "created": "2017-08-29T20:38:59.824Z",
   "updated": "2017-12-25T02:08:43.518Z",
-  "rvn": 1153,
+  "rvn": 1157,
   "wipeNumber": 9,
   "accountId": "b810c129520946d6801a58bb9d5859fc",
   "profileId": "profile0",
   "version": "grant_collectionbook_lvl_100_reward_change_dec_2017",
   "items": {
-    "Dowodca": {
-      "templateId": "Hero:HID_Constructor_HammerTank_R_T04",
+    "QuestSiodmaBurzowkaKamiennyLas": {
+      "templateId": "Quest:OutpostQuest_T1_L7",
       "attributes": {
-        "equipped_cosmetics": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "gender": 0,
-        "level": 50,
-        "item_seen": true,
-        "squad_slot_idx": 0,
-        "portrait": "",
-        "hero_name": "DefaultHeroName",
+        "level": -1,
+        "item_seen": false,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "",
+        "xp_reward_scalar": 1,
+        "challenge_linked_quest_given": "",
+        "quest_pool": "",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2020-01-17T12:16:44.924Z",
+        "challenge_linked_quest_parent": "",
+        "completion_questcomplete_plankertonquest_launchrocket_d5": 1,
         "max_level_bonus": 0,
-        "squad_id": "squad_combat_adventuresquadone",
-        "mode_loadouts": [
-          {
-            "loadoutName": "Default",
-            "selectedGadgets": [
-              "Schematic:sid_assault_auto_sr_crystal_t06",
-              "Gadget:g_commando_goincommando",
-              "Gadget:g_commando_fraggrenade",
-              "Gadget:gadget_generic_turret"
-            ]
-          }
-        ],
+        "selection": -1,
         "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
-        "favorite": true
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestSiodmaBurzowkaDeskogrod": {
+      "templateId": "Quest:OutpostQuest_T2_L7",
+      "attributes": {
+        "level": -1,
+        "item_seen": false,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "",
+        "xp_reward_scalar": 1,
+        "challenge_linked_quest_given": "",
+        "quest_pool": "",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2020-01-17T12:16:44.924Z",
+        "challenge_linked_quest_parent": "",
+        "completion_questcomplete_plankertonquest_launchrocket_d5": 1,
+        "max_level_bonus": 0,
+        "selection": -1,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestSiodmaBurzowkaDolinaSamowitosci": {
+      "templateId": "Quest:OutpostQuest_T3_L7",
+      "attributes": {
+        "level": -1,
+        "item_seen": false,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "",
+        "xp_reward_scalar": 1,
+        "challenge_linked_quest_given": "",
+        "quest_pool": "",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2020-01-17T12:16:44.924Z",
+        "challenge_linked_quest_parent": "",
+        "completion_questcomplete_plankertonquest_launchrocket_d5": 1,
+        "max_level_bonus": 0,
+        "selection": -1,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestSiodmaBurzowkaTwinePeaks": {
+      "templateId": "Quest:OutpostQuest_T4_L7",
+      "attributes": {
+        "level": -1,
+        "item_seen": false,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "",
+        "xp_reward_scalar": 1,
+        "challenge_linked_quest_given": "",
+        "quest_pool": "",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2020-01-17T12:16:44.924Z",
+        "challenge_linked_quest_parent": "",
+        "completion_questcomplete_plankertonquest_launchrocket_d5": 1,
+        "max_level_bonus": 0,
+        "selection": -1,
+        "xp": 0,
+        "favorite": false
       },
       "quantity": 1
     },
@@ -128,80 +173,6 @@
         "selection": -1,
         "xp": 0,
         "favorite": false
-      },
-      "quantity": 1
-    },
-    "Wsparcie1": {
-      "templateId": "Hero:hid_constructor_rushbase_sr_t05",
-      "attributes": {
-        "equipped_cosmetics": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "gender": 0,
-        "level": 50,
-        "item_seen": true,
-        "squad_slot_idx": 1,
-        "portrait": "",
-        "hero_name": "DefaultHeroName",
-        "max_level_bonus": 0,
-        "mode_loadouts": [
-          {
-            "loadoutName": "Default",
-            "selectedGadgets": [
-              "Gadget:g_constructor_bullrush",
-              "",
-              ""
-            ]
-          }
-        ],
-        "squad_id": "squad_combat_adventuresquadone",
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
-        "favorite": true
-      },
-      "quantity": 1
-    },
-    "Wsparcie2": {
-      "templateId": "Hero:hid_commando_cinematic_test_r_t03",
-      "attributes": {
-        "equipped_cosmetics": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "gender": 0,
-        "level": 50,
-        "item_seen": true,
-        "squad_slot_idx": 2,
-        "portrait": "",
-        "hero_name": "DefaultHeroName",
-        "max_level_bonus": 0,
-        "squad_id": "squad_combat_adventuresquadone",
-        "mode_loadouts": [
-          {
-            "loadoutName": "Default",
-            "selectedGadgets": [
-              "Gadget:g_commando_goincommando"
-            ]
-          }
-        ],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
-        "favorite": true
       },
       "quantity": 1
     },
@@ -18317,6 +18288,34 @@
         "item_seen": true
       },
       "quantity": 1
+    },
+    "2hmyv-t3gz-iiblxc-lkfs": {
+      "templateId": "HomebaseNode:T1_Main_6E6F74400",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "os0bg-l9yn-r07wt5-1d28": {
+      "templateId": "HomebaseNode:T2_Main_E1D78B190",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "hk2u0-8o60-2vvk8k-797d": {
+      "templateId": "HomebaseNode:T3_Main_3E101B6A5",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "c8lwe-ca9m-qg9i4u-cb00": {
+      "templateId": "HomebaseNode:T4_Main_64CEDC561",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
     }
   },
   "stats": {
@@ -18552,5 +18551,5 @@
       "packs_granted": 13
     }
   },
-  "commandRevision": 936
+  "commandRevision": 940
 }
