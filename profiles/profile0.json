@@ -48,7 +48,7 @@
       "quantity": 1
     },
     "Wsparcie1": {
-      "templateId": "Hero:HID_Commando_GunHeadshotHW_SR_T05",
+      "templateId": "Hero:HID_Commando_GrenadeMaster_SR_T05",
       "attributes": {
         "equipped_cosmetics": [
           "",
@@ -86,7 +86,7 @@
       "quantity": 1
     },
     "Wsparcie2": {
-      "templateId": "Hero:HID_Commando_GrenadeMaster_SR_T05",
+      "templateId": "Hero:HID_Commando_013_StPatricks_F_V1_SR_T05",
       "attributes": {
         "equipped_cosmetics": [
           "",
