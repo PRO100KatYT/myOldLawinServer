@@ -23,7 +23,7 @@
               "regularPrice": 1500,
               "dynamicRegularPrice": 1500,
               "finalPrice": 1500,
-              "saleExpiration": "",
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
               "basePrice": 1500
             }
           ],
