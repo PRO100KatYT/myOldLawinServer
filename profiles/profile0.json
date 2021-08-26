@@ -2,7 +2,7 @@
   "_id": "faefefcfdaad4eae8aed65c3139376f8",
   "created": "2017-08-29T20:38:59.824Z",
   "updated": "2017-12-25T02:08:43.518Z",
-  "rvn": 1158,
+  "rvn": 1159,
   "wipeNumber": 9,
   "accountId": "b810c129520946d6801a58bb9d5859fc",
   "profileId": "profile0",
@@ -18686,5 +18686,5 @@
       "packs_granted": 13
     }
   },
-  "commandRevision": 941
+  "commandRevision": 942
 }
