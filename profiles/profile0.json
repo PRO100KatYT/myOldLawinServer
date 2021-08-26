@@ -11585,6 +11585,17 @@
       },
       "quantity": 1
     },
+    "b196dfc1-2dd8-4a3e-b0a3-afd2bbc60d66": {
+      "templateId": "PersonalVehicle:vid_hoverboard",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
     "73531b8b-8325-43b4-84f2-a2ef9cd62567": {
       "templateId": "Quest:stonewoodquest_reactive_fetch_hoverboard",
       "attributes": {
@@ -11617,7 +11628,7 @@
         "xp_reward_scalar": 1,
         "challenge_linked_quest_given": "",
         "quest_pool": "",
-        "quest_state": "Claimed",
+        "quest_state": "Active",
         "last_state_change_time": "2020-01-18T20:05:14.283Z",
         "challenge_linked_quest_parent": "",
         "max_level_bonus": 0,
