@@ -2,7 +2,7 @@
   "_id": "faefefcfdaad4eae8aed65c3139376f8",
   "created": "2017-08-29T20:38:59.824Z",
   "updated": "2017-12-25T02:08:43.518Z",
-  "rvn": 1160,
+  "rvn": 1159,
   "wipeNumber": 9,
   "accountId": "b810c129520946d6801a58bb9d5859fc",
   "profileId": "profile0",
@@ -14461,8 +14461,15 @@
       },
       "quantity": 1
     },
-    "64z9k-o4rw-hkvu0d-w1f1s": {
+    "T1Defender2": {
       "templateId": "HomebaseNode:T1_Main_2051EFB31",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "T1Defender3": {
+      "templateId": "HomebaseNode:T1_Main_6E6F74400",
       "attributes": {
         "item_seen": true
       },
@@ -18408,13 +18415,6 @@
         "item_seen": true
       },
       "quantity": 1
-    },
-    "1nti8-fvw4-vu2kck-wbwy": {
-      "templateId": "HomebaseNode:T1_Main_6E6F74400",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
     }
   },
   "stats": {
@@ -18672,5 +18672,5 @@
       "packs_granted": 13
     }
   },
-  "commandRevision": 943
+  "commandRevision": 942
 }
