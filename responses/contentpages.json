@@ -40,8 +40,8 @@
           "hidden": false,
           "messagetype": "normal",
           "_type": "CommonUI Simple Message Base",
-          "title": "The Premium Experience",
-          "body": "Uncooperative PvE storm-fighting adventure! Only the finest premium experience delivered by Epic.",
+          "title": "Ratowanie Świata",
+          "body": "Kooperacyjne zmagania z burzą i pustakami!",
           "spotlight": false
         }
       },
@@ -53,8 +53,8 @@
           "hidden": false,
           "messagetype": "normal",
           "_type": "CommonUI Simple Message Base",
-          "title": "Cash Cow",
-          "body": "microtransactions galore",
+          "title": "Tryb PvP dla 100 graczy",
+          "body": "Battle Royale, tryb PvP na 100 graczy.\n\nPostępy w kampanii nie dotyczą Battle Royale.",
           "spotlight": false
         }
       },
@@ -91,7 +91,7 @@
         "_type": "Battle Royale News",
         "messages": [
           {
-            "image": "https://miro.medium.com/max/1200/1*of9OCSRWoAoS3_lNVKqM2g.png",
+            "image": "",
             "hidden": false,
             "_type": "CommonUI Simple Message Base",
             "adspace": "DISCORD!",
@@ -100,7 +100,7 @@
             "spotlight": false
           },
           {
-            "image": "https://yt3.ggpht.com/a/AGF-l79CQOPeiM3Ve_skW5DrQ2B_uFzEJ54pFBdvoQ=s900-c-k-c0xffffffff-no-rj-mo",
+            "image": "",
             "hidden": false,
             "_type": "CommonUI Simple Message Base",
             "adspace": "ENJOY!",
