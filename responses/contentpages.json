@@ -5753,7 +5753,7 @@
         "_type": "Battle Royale News",
         "messages": [
           {
-            "image": "https://miro.medium.com/max/1200/1*of9OCSRWoAoS3_lNVKqM2g.png",
+            "image": "",
             "hidden": false,
             "_type": "CommonUI Simple Message Base",
             "adspace": "DISCORD!",
@@ -5762,7 +5762,7 @@
             "spotlight": false
           },
           {
-            "image": "https://yt3.ggpht.com/a/AGF-l79CQOPeiM3Ve_skW5DrQ2B_uFzEJ54pFBdvoQ=s900-c-k-c0xffffffff-no-rj-mo",
+            "image": "",
             "hidden": false,
             "_type": "CommonUI Simple Message Base",
             "adspace": "ENJOY!",
