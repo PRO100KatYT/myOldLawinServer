@@ -121,6 +121,17 @@
       },
       "quantity": 1
     },
+    "FoundersFriendCode": {
+      "templateId": "ConsumableAccountItem:FoundersFriendCode",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 3
+    },
     "QuestSiodmaBurzowkaKamiennyLas": {
       "templateId": "Quest:OutpostQuest_T1_L7",
       "attributes": {
