@@ -136,7 +136,7 @@
       "templateId": "Quest:OutpostQuest_T1_L7",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -157,7 +157,7 @@
       "templateId": "Quest:OutpostQuest_T2_L7",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -178,7 +178,7 @@
       "templateId": "Quest:OutpostQuest_T3_L7",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -199,7 +199,7 @@
       "templateId": "Quest:OutpostQuest_T4_L7",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -220,7 +220,7 @@
       "templateId": "Quest:StonewoodQuest_LaunchRocket_D5",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -241,7 +241,7 @@
       "templateId": "Quest:PlankertonQuest_LaunchRocket_D5",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -262,7 +262,7 @@
       "templateId": "Quest:CannyValleyQuest_LaunchRocket_D5",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -283,7 +283,7 @@
       "templateId": "Quest:TwinePeaksQuest_LaunchRocket_D5",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -11601,7 +11601,7 @@
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "favorite": false
       },
@@ -11633,7 +11633,7 @@
         "completion_stonewoodquest_ability_hoverboard": 0,
         "level": -1,
         "completion_complete_pve01_diff4": 1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -11728,7 +11728,7 @@
         "last_state_change_time": "2017-08-31T13:50:01.896Z",
         "max_level_bonus": 0,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "completion_unlock_skill_tree_researchfortitude": 0,
         "sent_new_notification": true,
@@ -11743,7 +11743,7 @@
         "last_state_change_time": "2017-08-29T21:05:57.089Z",
         "max_level_bonus": 0,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "sent_new_notification": true,
         "completion_kill_husk_smasher": 0,
@@ -11805,7 +11805,7 @@
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "favorite": false
       },
@@ -11818,7 +11818,7 @@
         "max_level_bonus": 0,
         "level": 1,
         "units_per_minute_recharge": 1921,
-        "item_seen": false,
+        "item_seen": true,
         "recharge_delay_minutes": 360,
         "xp": 0,
         "last_mod_time": "2017-12-25T02:04:39.790Z",
@@ -11830,7 +11830,7 @@
     "da82bdcc-3f4d-426b-91a8-13e6f60f3e56": {
       "templateId": "HomebaseBannerIcon:standardbanner21",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
@@ -11886,7 +11886,7 @@
         "completion_hbonboarding_namehomebase": 1,
         "level": -1,
         "completion_hbonboarding_completezone": 1,
-        "item_seen": false,
+        "item_seen": true,
         "completion_hbonboarding_watchsatellitecine": 1,
         "xp": 0,
         "sent_new_notification": true,
@@ -11901,7 +11901,7 @@
         "last_state_change_time": "2017-08-29T21:05:57.087Z",
         "max_level_bonus": 0,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "sent_new_notification": true,
         "favorite": false
@@ -11914,7 +11914,7 @@
         "last_state_change_time": "2017-08-29T21:05:57.087Z",
         "max_level_bonus": 0,
         "level": 50,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "sent_new_notification": true,
         "favorite": false
@@ -11927,7 +11927,7 @@
         "last_state_change_time": "2017-08-29T21:05:57.087Z",
         "max_level_bonus": 0,
         "level": 50,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "sent_new_notification": true,
         "favorite": false
@@ -11941,7 +11941,7 @@
         "last_state_change_time": "2017-08-29T21:05:57.087Z",
         "max_level_bonus": 0,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "sent_new_notification": true,
         "favorite": false
@@ -11955,7 +11955,7 @@
         "last_state_change_time": "2017-08-29T21:05:57.087Z",
         "max_level_bonus": 0,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "sent_new_notification": true,
         "favorite": false
@@ -12005,7 +12005,7 @@
         ],
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "alterations": [],
         "xp": 0,
         "favorite": false
@@ -12015,7 +12015,7 @@
     "b6af432f-5326-4b39-bbff-94c790abaa35": {
       "templateId": "HomebaseBannerIcon:standardbanner20",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
@@ -12034,7 +12034,7 @@
         ],
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "alterations": [
           "Alteration:aid_att_ranged_durabilitydecay",
           "Alteration:aid_att_weapon_afflicted_dmgbonus",
@@ -12060,7 +12060,7 @@
         ],
         "max_level_bonus": 0,
         "level": 60,
-        "item_seen": false,
+        "item_seen": true,
         "alterations": [
           "Alteration:aid_att_ranged_durabilitydecay",
           "Alteration:aid_att_weapon_afflicted_dmgbonus",
@@ -12076,7 +12076,7 @@
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "favorite": false
       },
@@ -12087,7 +12087,7 @@
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "favorite": false
       },
@@ -12098,7 +12098,7 @@
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "favorite": false
       },
@@ -12109,7 +12109,7 @@
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "favorite": false
       },
@@ -12120,7 +12120,7 @@
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "favorite": false
       },
@@ -12131,7 +12131,7 @@
       "attributes": {
         "max_level_bonus": 0,
         "level": 20,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "favorite": false
       },
@@ -12140,7 +12140,7 @@
     "dc8bf72e-af1c-44ca-88cb-5ffe6a11e42d": {
       "templateId": "HomebaseBannerIcon:standardbanner26",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
@@ -12149,7 +12149,7 @@
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "favorite": false
       },
@@ -12160,7 +12160,7 @@
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "favorite": false
       },
@@ -12171,7 +12171,7 @@
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "favorite": false
       },
@@ -12182,7 +12182,7 @@
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "favorite": false
       },
@@ -12193,7 +12193,7 @@
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "favorite": false
       },
@@ -12204,7 +12204,7 @@
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "favorite": false
       },
@@ -12215,7 +12215,7 @@
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "favorite": false
       },
@@ -12226,7 +12226,7 @@
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "favorite": false
       },
@@ -12266,7 +12266,7 @@
     "75538f27-26f3-4c54-9eda-764fa5a5e839": {
       "templateId": "HomebaseNode:t1_main_ba01a2361",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
@@ -12333,14 +12333,14 @@
     "d9e17bb4-3b0b-426b-9ec7-6b504af1c006": {
       "templateId": "HomebaseBannerColor:defaultcolor6",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
     "091395e7-5d85-49d7-915f-6e4f4329593c": {
       "templateId": "HomebaseBannerColor:defaultcolor9",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
@@ -12410,7 +12410,7 @@
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "favorite": false
       },
@@ -12486,7 +12486,7 @@
     "90f1579a-64fa-4b9d-8bf8-1a4d2a0ca61b": {
       "templateId": "HomebaseBannerIcon:standardbanner27",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
@@ -12500,14 +12500,14 @@
     "4e36c4a4-0b76-4ca4-90d0-14bce4012274": {
       "templateId": "HomebaseBannerIcon:standardbanner14",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
     "d471c3ba-1bec-4875-9ef9-2ccf3d8e82e9": {
       "templateId": "HomebaseBannerIcon:standardbanner25",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
@@ -12521,7 +12521,7 @@
     "8d05faef-1abf-4d5b-9716-8bf9ee04e35d": {
       "templateId": "HomebaseBannerColor:defaultcolor18",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
@@ -12567,70 +12567,70 @@
     "7cc171a1-eed0-411c-994d-0e61aa345206": {
       "templateId": "HomebaseNode:t1_main_38e8a5bf4",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
     "7efc171a1-eed0-411c-994d-0e61aa345206": {
       "templateId": "HomebaseNode:T1_Main_AD1499E010",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
     "7ef1b71a1-eed0-411c-994d-0e61aa345206": {
       "templateId": "HomebaseNode:T1_Main_27C02FC60",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
     "7egsac171a1-eed0-411c-994d-0e61aa345206": {
       "templateId": "HomebaseNode:T1_Main_0011CCD10",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
     "7egnnb71a1-eed0-411c-994d-0e61aa345206": {
       "templateId": "HomebaseNode:T1_Main_904080840",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
     "7eghaab171a1-eed0-411c-994d-0e61aa345206": {
       "templateId": "HomebaseNode:T1_Main_609C8A9A8",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
     "7agnhghaab171a1-eed0-411c-994d-0e61aa345206": {
       "templateId": "HomebaseNode:T1_Main_9FDB916E6",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
     "barghgnhghaab171a1-eed0-411c-994d-asdgtaa35532": {
       "templateId": "HomebaseNode:T1_Main_3FFC8E9D7",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
     "6668e671-11e2-4029-84d6-133d4dd83e47": {
       "templateId": "HomebaseBannerIcon:standardbanner9",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
     "49a505fb-1d2f-4d3f-ab34-51b5c4a9c743": {
       "templateId": "HomebaseBannerColor:defaultcolor7",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
@@ -12641,7 +12641,7 @@
         "last_state_change_time": "2017-08-29T21:05:57.089Z",
         "max_level_bonus": 0,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "completion_questcollect_survivoritemdata": 9,
         "xp": 0,
         "sent_new_notification": true,
@@ -12698,7 +12698,7 @@
     "d48a09b8-9a07-4a56-a447-f9211d964f5c": {
       "templateId": "HomebaseBannerColor:defaultcolor17",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
@@ -12722,7 +12722,7 @@
     "e2d6cc1e-dbe3-436a-8dd3-fba8523f7456": {
       "templateId": "HomebaseBannerIcon:foundertier1banner4",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
@@ -12746,7 +12746,7 @@
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "favorite": false
       },
@@ -12764,7 +12764,7 @@
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "favorite": false
       },
@@ -12777,7 +12777,7 @@
         "last_state_change_time": "2017-08-29T21:04:55.773Z",
         "max_level_bonus": 0,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "completion_custom_protectthesurvivors": 1,
         "sent_new_notification": true,
@@ -12788,7 +12788,7 @@
     "80d4a192-9206-4bb3-9a34-a4e0139f16b3": {
       "templateId": "HomebaseBannerColor:defaultcolor15",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
@@ -12887,7 +12887,7 @@
         ],
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "alterations": [],
         "xp": 0,
         "favorite": false
@@ -12923,7 +12923,7 @@
     "93263e0d-eb6d-42bb-8459-7a288122cdde": {
       "templateId": "HomebaseBannerIcon:standardbanner31",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
@@ -12942,7 +12942,7 @@
         ],
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "alterations": [
           "Alteration:aid_att_melee_damage",
           "Alteration:aid_att_weapon_slowed_dmgbonus_alt1",
@@ -12960,7 +12960,7 @@
         "last_state_change_time": "2017-08-29T21:05:57.089Z",
         "max_level_bonus": 0,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "completion_destroy_gnome": 2,
         "sent_new_notification": true,
@@ -12976,7 +12976,7 @@
         "max_level_bonus": 0,
         "level": -1,
         "completion_unlock_skill_tree_ninja_leadership": 0,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "sent_new_notification": true,
         "favorite": false
@@ -12986,7 +12986,7 @@
     "c437b5b9-b0a6-4c0b-ba70-b660cdf20fe9": {
       "templateId": "HomebaseNode:t1_main_8d2c3c4d0",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
@@ -12998,7 +12998,7 @@
         "completion_unlock_skill_tree_research": 0,
         "max_level_bonus": 0,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "sent_new_notification": true,
         "favorite": false
@@ -13015,7 +13015,7 @@
     "d9977644-d196-4e9f-93b9-126523ae5ae3": {
       "templateId": "HomebaseBannerColor:defaultcolor14",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
@@ -13050,7 +13050,7 @@
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "favorite": false
       },
@@ -13064,7 +13064,7 @@
         "max_level_bonus": 0,
         "level": -1,
         "completion_unlock_skill_tree_expeditions": 0,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "sent_new_notification": true,
         "favorite": false
@@ -13093,7 +13093,7 @@
         "last_state_change_time": "2017-08-29T21:05:57.089Z",
         "max_level_bonus": 0,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "completion_unlock_skill_tree_outlander_leadership": 0,
         "sent_new_notification": true,
@@ -13116,7 +13116,7 @@
         ],
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "alterations": [],
         "xp": 0,
         "favorite": false
@@ -13155,14 +13155,14 @@
     "b79c7228-2bdc-4f4d-8a9e-9b6eda23095d": {
       "templateId": "HomebaseBannerColor:defaultcolor19",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
     "59d78745-96f2-4bbc-9501-0030ad03365c": {
       "templateId": "HomebaseBannerIcon:standardbanner2",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
@@ -13174,7 +13174,7 @@
         "last_state_change_time": "2017-08-29T21:05:57.089Z",
         "max_level_bonus": 0,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "sent_new_notification": true,
         "favorite": false
@@ -13191,7 +13191,7 @@
     "110c9ba5-3b17-4625-b74e-a581f0ed823e": {
       "templateId": "HomebaseBannerIcon:foundertier1banner3",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
@@ -13203,7 +13203,7 @@
         "max_level_bonus": 0,
         "completion_questcomplete_homebaseonboardingafteroutpost": 1,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "sent_new_notification": true,
         "favorite": false
@@ -13217,7 +13217,7 @@
         "last_state_change_time": "2017-08-29T21:05:57.089Z",
         "max_level_bonus": 0,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "completion_quick_complete": 0,
         "xp": 0,
         "sent_new_notification": true,
@@ -13228,7 +13228,7 @@
     "8c67473e-3f3a-4cb7-bf9c-1637d285cdaa": {
       "templateId": "HomebaseBannerIcon:foundertier1banner2",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
@@ -13264,7 +13264,7 @@
         "last_state_change_time": "2017-08-29T21:18:00.437Z",
         "max_level_bonus": 0,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "completion_questcomplete_outpostquest_t1_l1": 1,
         "sent_new_notification": true,
@@ -13374,7 +13374,7 @@
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "favorite": false
       },
@@ -13385,7 +13385,7 @@
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "favorite": false
       },
@@ -13413,7 +13413,7 @@
         ],
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "alterations": [
           "Alteration:aid_att_melee_damage"
         ],
@@ -13425,7 +13425,7 @@
     "a91c7a09-0462-40ce-aaa9-fa27e1b35d07": {
       "templateId": "HomebaseNode:trtrunk_1_0",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
@@ -13434,7 +13434,7 @@
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "favorite": false
       },
@@ -13540,21 +13540,21 @@
     "903efe28-0319-4ef0-9cc0-23df20ff39c1": {
       "templateId": "HomebaseBannerIcon:standardbanner8",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
     "fac3f7bb-08e7-46ef-b369-44d0469ababe": {
       "templateId": "HomebaseBannerColor:defaultcolor8",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
     "f7877f09-0826-45e2-8224-c833443d9c56": {
       "templateId": "HomebaseBannerIcon:foundertier1banner1",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
@@ -13588,7 +13588,7 @@
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "favorite": false
       },
@@ -13609,7 +13609,7 @@
         "max_level_bonus": 0,
         "completion_questcomplete_homebaseonboardingafteroutpost": 1,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "sent_new_notification": true,
         "favorite": false
@@ -13631,7 +13631,7 @@
         "last_state_change_time": "2017-08-29T21:05:57.089Z",
         "max_level_bonus": 0,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "sent_new_notification": true,
         "favorite": false
@@ -13646,7 +13646,7 @@
         "max_level_bonus": 0,
         "completion_quest_reactive_copperore": 1,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "sent_new_notification": true,
         "favorite": false
@@ -13667,77 +13667,77 @@
     "5036da7c-c2be-4974-9895-4127ecb2ae23": {
       "templateId": "HomebaseNode:t1_main_fabc7c290",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
     "5036gayc-c2be-4974-9895-4127ecb2ae23": {
       "templateId": "HomebaseNode:T1_Main_B1AEF23D10",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
     "5036flipflopc-c2be-4974-9895-4127ecb2ae23": {
       "templateId": "HomebaseNode:T1_Main_498AB88F0",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
     "5036da7c-faggfgfg-4974-9895-4127ecb2ae23": {
       "templateId": "HomebaseNode:T1_Main_E05F04D75",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
     "5036da7c-faggfgfdfgdfgfdgdffdg74-9895-4127ecb2ae23": {
       "templateId": "HomebaseNode:T1_Main_849930D55",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
     "5036da7c-faggfgfdfgddgdffdg74-9895-4127ecb2ae23": {
       "templateId": "HomebaseNode:T1_Main_B1A3A3771",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
     "sdfdsfsdsdaiwa387r87a8fgfdfgddgdffdg74-9895-4127ecb2ae23": {
       "templateId": "HomebaseNode:T1_Main_77F7B7826",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
     "sdfdsfsdsdaiwa387r87a8fgfdfgdgsdeeetfdg74-98v5-4127ecb2ae23": {
       "templateId": "HomebaseNode:T1_Main_0336AC827",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
     "sdfdsfsdsdaiwa387r87a8fgfdfgddgdfggbaaag-98v5-4127ecb2ae23": {
       "templateId": "HomebaseNode:T1_Main_0ABACB4E2",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
     "sdfdsfaaiwa387r87a8fgfdfgddgdfggbaaag-98v5-4127ecb2ae23": {
       "templateId": "HomebaseNode:T1_Main_702F364C0",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
     "sdfdsfaaiwa387r87a8fgfdfgddgdfggbaaag-9gg-4127ecb2ae23": {
       "templateId": "HomebaseNode:T1_Main_243215D30",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
@@ -13815,7 +13815,7 @@
         ],
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "alterations": [],
         "xp": 0,
         "favorite": false
@@ -13830,7 +13830,7 @@
         "completion_custom_craftfirstweapon": 1,
         "max_level_bonus": 0,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "sent_new_notification": true,
         "favorite": false
@@ -13889,7 +13889,7 @@
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "favorite": false
       },
@@ -13925,7 +13925,7 @@
         "completion_build_any_structure": 246,
         "max_level_bonus": 0,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "sent_new_notification": true,
         "favorite": false
@@ -13935,7 +13935,7 @@
     "86f45fb2-9124-4882-9514-c789f8511e02": {
       "templateId": "HomebaseBannerIcon:standardbanner30",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
@@ -13949,7 +13949,7 @@
     "6aad6572-1812-41d5-8bbd-17e548d27e03": {
       "templateId": "HomebaseBannerIcon:newsletterbanner",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
@@ -13974,7 +13974,7 @@
         "last_state_change_time": "2017-12-25T02:06:00.508Z",
         "max_level_bonus": 0,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "xp": 0,
         "sent_new_notification": true,
         "favorite": false,
@@ -13985,7 +13985,7 @@
     "5e1a3e10-fd40-4418-8e75-05f328223d52": {
       "templateId": "HomebaseBannerColor:defaultcolor5",
       "attributes": {
-        "item_seen": false
+        "item_seen": true
       },
       "quantity": 1
     },
@@ -18758,7 +18758,7 @@
       "monthly_purchases": {},
       "xp": 955528,
       "homebase": {
-        "townName": "PROKATUROWNIA PRO100Kąta\ndziala newline?\n\n\n\n\n\n\n\n\n\nniezle xd",
+        "townName": "PRO100KatYT",
         "bannerIconId": "SurvivalBannerStonewoodComplete",
         "bannerColorId": "DefaultColor15",
         "flagPattern": -1,
