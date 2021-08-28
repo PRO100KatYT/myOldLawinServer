@@ -12155,6 +12155,83 @@
       },
       "quantity": 25
     },
+    "CTF_Dom_Key": {
+      "templateId": "Token:CTF_Dom_Key",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "ElderUnlock": {
+      "templateId": "Token:ElderUnlock",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "FounderChatUnlock": {
+      "templateId": "Token:FounderChatUnlock",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "FoundersPackDailyRewardToken": {
+      "templateId": "Token:FoundersPackDailyRewardToken",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "FriendCodeTokenPlaceholder": {
+      "templateId": "Token:FriendCodeTokenPlaceholder",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "MSFT_FriendCode_Redeemer_Token": {
+      "templateId": "Token:MSFT_FriendCode_Redeemer_Token",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "NeighborhoodCurrency": {
+      "templateId": "Token:NeighborhoodCurrency",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 118
+    },
     "19fecccd-2cd9-4673-826b-a790e78843ec": {
       "templateId": "HomebaseBannerIcon:standardbanner18",
       "attributes": {
