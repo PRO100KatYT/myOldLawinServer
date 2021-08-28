@@ -18503,7 +18503,14 @@
         "item_seen": true
       },
       "quantity": 1
-    }
+    },
+    "BannerSurvivalStonewood": {
+      "templateId": "HomebaseBannerIcon:SurvivalBannerStonewoodComplete",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
   },
   "stats": {
     "templateId": "profile_v2",
@@ -18752,7 +18759,7 @@
       "xp": 955528,
       "homebase": {
         "townName": "PROKATUROWNIA PRO100Kąta",
-        "bannerIconId": "StandardBanner29",
+        "bannerIconId": "SurvivalBannerStonewoodComplete",
         "bannerColorId": "DefaultColor21",
         "flagPattern": -1,
         "flagColor": -1
