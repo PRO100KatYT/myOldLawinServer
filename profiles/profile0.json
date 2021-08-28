@@ -18758,9 +18758,9 @@
       "monthly_purchases": {},
       "xp": 955528,
       "homebase": {
-        "townName": "PROKATUROWNIA PRO100Kąta",
+        "townName": "PROKATUROWNIA PRO100Kąta\ndziala newline?",
         "bannerIconId": "SurvivalBannerStonewoodComplete",
-        "bannerColorId": "DefaultColor21",
+        "bannerColorId": "DefaultColor15",
         "flagPattern": -1,
         "flagColor": -1
       },
