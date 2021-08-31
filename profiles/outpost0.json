@@ -7,7 +7,19 @@
     "accountId": "PRO100KatYT",
     "profileId": "outpost0",
     "version": "no_version",
-    "items": {},
+    "items": {
+      "BurzowaTwine": {
+        "templateId": "Outpost:OutpostCore_PvE_04",
+        "attributes": {
+          "max_level_bonus": 0,
+          "level": 5,
+          "item_seen": true,
+          "xp": 0,
+          "favorite": false
+        },
+        "quantity": 1
+      }
+    },
     "stats": {
       "attributes": {
         "inventory_limit_bonus": 0
