@@ -766,6 +766,9 @@ express.get("/fortnite/api/calendar/v1/timeline", async (req, res) => {
                      
 						  ],
 						  "dailyStoreEnd":"2021-09-05T13:08:20Z",
+						  "weeklyStoreEnd": "2021-09-05T13:08:20Z",
+						  "stwEventStoreEnd": "2021-09-05T13:08:20Z",
+						  "stwWeeklyStoreEnd": "2021-09-05T13:08:20Z",
 						  "eventNamedWeights":{
                      
 						  },
