@@ -21,7 +21,7 @@
                             "regularPrice": 1000,
                             "dynamicRegularPrice": 1000,
                             "finalPrice": 1000,
-                            "saleExpiration": "9999-12-31T23:59:59.999Z",
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
                             "basePrice": 1000
                         }
                     ],
@@ -43,6 +43,522 @@
                     "catalogGroupPriority": 0
                 },
                 {
+                    "devName": "[VIRTUAL]200 x RE-PERK! for 100 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/9b91076467e61cf01a3c16e39a18331d2e23d754cdafc860aac0fdd7155615ae",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": 10,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 100,
+                            "dynamicRegularPrice": 100,
+                            "finalPrice": 100,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 100
+                        }
+                    ],
+                    "meta": {},
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "itemGrants": [
+                        {
+                            "templateId": "AccountResource:reagent_alteration_generic",
+                            "quantity": 200
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 0,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]10 x Pure Drop of Rain for 50 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/83ac0269acedb2d5634a031f55b643b852272903e74d9fa1bb49256a0c06abef",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": 8,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 50,
+                            "dynamicRegularPrice": 50,
+                            "finalPrice": 50,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 50
+                        }
+                    ],
+                    "meta": {},
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "itemGrants": [
+                        {
+                            "templateId": "AccountResource:reagent_c_t01",
+                            "quantity": 10
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 0,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]10 x Lightning in a Bottle for 100 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/aacc97a394a9feaa106ad275caad4e4f22b987d8ceb42d64991024bf6d8a5404",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": 4,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 100,
+                            "dynamicRegularPrice": 100,
+                            "finalPrice": 100,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 100
+                        }
+                    ],
+                    "meta": {},
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "itemGrants": [
+                        {
+                            "templateId": "AccountResource:reagent_c_t02",
+                            "quantity": 10
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 0,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]1 x Copper Smasher Basher for 600 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/cbb7b1eb042cb87002d6a688e25dcabdb08a7de29bea0ced23aca176cd5c174a",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": 1,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 600,
+                            "dynamicRegularPrice": 600,
+                            "finalPrice": 600,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 600
+                        }
+                    ],
+                    "meta": {},
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "itemGrants": [
+                        {
+                            "templateId": "Schematic:sid_blunt_hammer_medieval_vr_ore_t01",
+                            "quantity": 1
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 20,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]1 x did_defendershotgun_basic_f_sr_t01 for 1680 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/3e03cd9c32d3b2c809b523aac846762ef0401c701e383451e88a0594318522fa",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": 1,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 1680,
+                            "dynamicRegularPrice": 1680,
+                            "finalPrice": 1680,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 1680
+                        }
+                    ],
+                    "meta": {},
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "itemGrants": [
+                        {
+                            "templateId": "Defender:did_defendershotgun_basic_f_sr_t01",
+                            "quantity": 1,
+                            "attributes": {
+                                "Alteration": {
+                                    "LootTierGroup": "AlterationTG.Defender.Shotgun.SR",
+                                    "Tier": 0
+                                }
+                            }
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 0,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]90 x Rare PERK-UP! for 200 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/4f1c82dc8fb66fef5a0046fb2163344069b65b6ba64e496939d2fc8e8f779157",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": 5,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 200,
+                            "dynamicRegularPrice": 200,
+                            "finalPrice": 200,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 200
+                        }
+                    ],
+                    "meta": {},
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "itemGrants": [
+                        {
+                            "templateId": "AccountResource:reagent_alteration_upgrade_r",
+                            "quantity": 90
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 0,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]10 x Rare Flux for 30 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/d9fe40e917bf98babee1c239153990efe3e1a568dd0e985c663dbba228eef03f",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": 20,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 30,
+                            "dynamicRegularPrice": 30,
+                            "finalPrice": 30,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 30
+                        }
+                    ],
+                    "meta": {},
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "itemGrants": [
+                        {
+                            "templateId": "AccountResource:reagent_evolverarity_r",
+                            "quantity": 10
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 0,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]150 x Epic PERK-UP! for 450 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/aa170dfa45a1180f378907e7215c64d6a4445929da11519eafd576245b79844f",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": 5,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 450,
+                            "dynamicRegularPrice": 450,
+                            "finalPrice": 450,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 450
+                        }
+                    ],
+                    "meta": {},
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "itemGrants": [
+                        {
+                            "templateId": "AccountResource:reagent_alteration_upgrade_vr",
+                            "quantity": 150
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 0,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]1 x workerbasic_vr_t01 for 250 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/fd2b5edc1839496be18a0cb1ef1bc74c07f391b4448de53d07bb63f695f1763b",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": 2,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 250,
+                            "dynamicRegularPrice": 250,
+                            "finalPrice": 250,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 250
+                        }
+                    ],
+                    "meta": {},
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "itemGrants": [
+                        {
+                            "templateId": "Worker:workerbasic_vr_t01",
+                            "quantity": 1
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 0,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]10 x Epic Flux for 75 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/bfd337ddb7380a663929ae0ad03f6cdbff5b562d1639c8c813cb8316b37f83bb",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": 10,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 75,
+                            "dynamicRegularPrice": 75,
+                            "finalPrice": 75,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 75
+                        }
+                    ],
+                    "meta": {},
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "itemGrants": [
+                        {
+                            "templateId": "AccountResource:reagent_evolverarity_vr",
+                            "quantity": 10
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 0,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]60 x Uncommon PERK-UP! for 125 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/d8c8f59ca26294a0192676567f75ee6c3631f96eea201fd14f8cac0c47acfb5c",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": 5,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 125,
+                            "dynamicRegularPrice": 125,
+                            "finalPrice": 125,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 125
+                        }
+                    ],
+                    "meta": {},
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "itemGrants": [
+                        {
+                            "templateId": "AccountResource:reagent_alteration_upgrade_uc",
+                            "quantity": 60
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 0,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]1 x Copper Old Smokey for 600 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/b7357c0fe2439d46403b570cc95df7fe734d6032905a9854a1189c9ccee9ee0e",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": 1,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 600,
+                            "dynamicRegularPrice": 600,
+                            "finalPrice": 600,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 600
+                        }
+                    ],
+                    "meta": {},
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "itemGrants": [
+                        {
+                            "templateId": "Schematic:sid_shotgun_break_scavenger_vr_ore_t01",
+                            "quantity": 1,
+                            "attributes": {
+                                "Alteration": {
+                                    "LootTierGroup": "AlterationTG.Ranged.VR",
+                                    "Tier": 0
+                                }
+                            }
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 0,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]10 x Storm Shard for 200 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/cb671813542b9346ea26bfb3a53624fee2b73c4d2280c21b37c0bb0759c67574",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": 1,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 200,
+                            "dynamicRegularPrice": 200,
+                            "finalPrice": 200,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 200
+                        }
+                    ],
+                    "meta": {},
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "itemGrants": [
+                        {
+                            "templateId": "AccountResource:reagent_c_t04",
+                            "quantity": 10
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 0,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]5 x Legendary Flux for 75 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/9af32d7a9a16f864eae99d17542ec08763d118f3ce9c72ad05d5fc5f44586dc1",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": 10,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 75,
+                            "dynamicRegularPrice": 75,
+                            "finalPrice": 75,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 75
+                        }
+                    ],
+                    "meta": {},
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "itemGrants": [
+                        {
+                            "templateId": "AccountResource:reagent_evolverarity_sr",
+                            "quantity": 5
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 0,
+                    "catalogGroupPriority": 0
+                },
+                {
                     "devName": "[VIRTUAL]10 x Eye of the Storm for 150 GameItem : AccountResource:eventcurrency_scaling",
                     "offerId": "v2:/8ab132beb750c221f51a79c6b29d10abf9cf7e6a82868226d98abea8add01ac5",
                     "fulfillmentIds": [],
@@ -57,7 +573,7 @@
                             "regularPrice": 150,
                             "dynamicRegularPrice": 150,
                             "finalPrice": 150,
-                            "saleExpiration": "9999-12-31T23:59:59.999Z",
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
                             "basePrice": 150
                         }
                     ],
@@ -84,6 +600,355 @@
             "name": "STWSpecialEventStorefront",
             "catalogEntries": [
                 {
+                    "devName": "[VIRTUAL]1 x Copper Hot Mix for 1680 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/26fc4846239f4c072f64417135c714d239c891606aa33c6209a2ed3d9d9f990a",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": -1,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 1680,
+                            "dynamicRegularPrice": 1680,
+                            "finalPrice": 1680,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 1680
+                        }
+                    ],
+                    "meta": {
+                        "PurchaseLimitingEventId": "579g4dbtrkvt9mhpuia0l4v388[0]1",
+                        "EventLimit": "1"
+                    },
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "metaInfo": [
+                        {
+                            "key": "PurchaseLimitingEventId",
+                            "value": "579g4dbtrkvt9mhpuia0l4v388[0]1"
+                        },
+                        {
+                            "key": "EventLimit",
+                            "value": "1"
+                        }
+                    ],
+                    "itemGrants": [
+                        {
+                            "templateId": "Schematic:sid_pistol_boombox_sr_ore_t01",
+                            "quantity": 1
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 34,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]1 x workerbasic_sr_t01 for 700 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/222374fc7ea9f6ef8eb0b3c20f3a5d7f64f612e9f3435c74e3d51d785739bf9f",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": -1,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 700,
+                            "dynamicRegularPrice": 700,
+                            "finalPrice": 700,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 700
+                        }
+                    ],
+                    "meta": {
+                        "PurchaseLimitingEventId": "69coo7hcgmsfptsm7j5pd2r92p[0]1",
+                        "EventLimit": "1"
+                    },
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "metaInfo": [
+                        {
+                            "key": "PurchaseLimitingEventId",
+                            "value": "69coo7hcgmsfptsm7j5pd2r92p[0]1"
+                        },
+                        {
+                            "key": "EventLimit",
+                            "value": "1"
+                        }
+                    ],
+                    "itemGrants": [
+                        {
+                            "templateId": "Worker:workerbasic_sr_t01",
+                            "quantity": 1
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 12,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]1 x Archaeolo-Jess for 2800 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/ea4a908fb0cdb2c0a7cd0adbf8a771ce29891dba748df5efdbf23dbecc8787f6",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": -1,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 2800,
+                            "dynamicRegularPrice": 2800,
+                            "finalPrice": 2800,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 2800
+                        }
+                    ],
+                    "meta": {
+                        "PurchaseLimitingEventId": "32b0qb9v3ggq0vgs1lm1g1lk9g[0]1",
+                        "EventLimit": "1"
+                    },
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "metaInfo": [
+                        {
+                            "key": "PurchaseLimitingEventId",
+                            "value": "32b0qb9v3ggq0vgs1lm1g1lk9g[0]1"
+                        },
+                        {
+                            "key": "EventLimit",
+                            "value": "1"
+                        }
+                    ],
+                    "itemGrants": [
+                        {
+                            "templateId": "Hero:hid_outlander_zoneharvest_blockbuster_sr_t01",
+                            "quantity": 1
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 29,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]1 x Copper Razorblade    for 1680 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/fb8b96167461673432cd25f473e6c4a2644d4afacd1fcad76e3c4933aa07d07c",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": -1,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 1680,
+                            "dynamicRegularPrice": 1680,
+                            "finalPrice": 1680,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 1680
+                        }
+                    ],
+                    "meta": {
+                        "PurchaseLimitingEventId": "69coo7hcgmsfptsm7j5pd2r92p[0]1",
+                        "EventLimit": "1"
+                    },
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "metaInfo": [
+                        {
+                            "key": "PurchaseLimitingEventId",
+                            "value": "69coo7hcgmsfptsm7j5pd2r92p[0]1"
+                        },
+                        {
+                            "key": "EventLimit",
+                            "value": "1"
+                        }
+                    ],
+                    "itemGrants": [
+                        {
+                            "templateId": "Schematic:sid_assault_burst_sr_ore_t01",
+                            "quantity": 1,
+                            "attributes": {
+                                "Alteration": {
+                                    "LootTierGroup": "AlterationTG.Ranged.SR",
+                                    "Tier": 0
+                                }
+                            }
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 15,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]1 x Stars and Stripes Jonesy for 2800 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/03085880d1433d98fe3a670c981e8c4be25428387481a453ba4d01c10cc9dc31",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": -1,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 2800,
+                            "dynamicRegularPrice": 2800,
+                            "finalPrice": 2800,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 2800
+                        }
+                    ],
+                    "meta": {
+                        "PurchaseLimitingEventId": "0gthht2hla6vt3menml0p1ci07[0]0",
+                        "EventLimit": "1"
+                    },
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "metaInfo": [
+                        {
+                            "key": "PurchaseLimitingEventId",
+                            "value": "0gthht2hla6vt3menml0p1ci07[0]0"
+                        },
+                        {
+                            "key": "EventLimit",
+                            "value": "1"
+                        }
+                    ],
+                    "itemGrants": [
+                        {
+                            "templateId": "Hero:hid_commando_guntough_m_4thjuly_sr_t01",
+                            "quantity": 1
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 22,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]1 x Prehistoric Izza for 2800 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/093b86366bb36a043a3c72a8ab8f3d64bbd139a6a7c83bad6ac12fe13d7ab17a",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": -1,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 2800,
+                            "dynamicRegularPrice": 2800,
+                            "finalPrice": 2800,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 2800
+                        }
+                    ],
+                    "meta": {
+                        "PurchaseLimitingEventId": "34km5tnhtc5sr2p058m1qp594f[0]1",
+                        "EventLimit": "1"
+                    },
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "metaInfo": [
+                        {
+                            "key": "PurchaseLimitingEventId",
+                            "value": "34km5tnhtc5sr2p058m1qp594f[0]1"
+                        },
+                        {
+                            "key": "EventLimit",
+                            "value": "1"
+                        }
+                    ],
+                    "itemGrants": [
+                        {
+                            "templateId": "Hero:hid_constructor_027_dinoconstructor_sr_t01",
+                            "quantity": 1
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 26,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]1 x Copper Vacuum Tube Revolver for 1680 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/b096b2ebdd907e45c56daa93d3bdaf84abce84cb40600b3e4197aa6369431efd",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": -1,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 1680,
+                            "dynamicRegularPrice": 1680,
+                            "finalPrice": 1680,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 1680
+                        }
+                    ],
+                    "meta": {
+                        "PurchaseLimitingEventId": "69coo7hcgmsfptsm7j5pd2r92p[0]1",
+                        "EventLimit": "1"
+                    },
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "metaInfo": [
+                        {
+                            "key": "PurchaseLimitingEventId",
+                            "value": "69coo7hcgmsfptsm7j5pd2r92p[0]1"
+                        },
+                        {
+                            "key": "EventLimit",
+                            "value": "1"
+                        }
+                    ],
+                    "itemGrants": [
+                        {
+                            "templateId": "Schematic:sid_pistol_vacuumtube_revolver_sr_ore_t01",
+                            "quantity": 1
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 16,
+                    "catalogGroupPriority": 0
+                },
+                {
                     "devName": "[VIRTUAL]1 x Rare Schematic for 400 GameItem : AccountResource:eventcurrency_scaling",
                     "offerId": "v2:/570ff3bed6fc8a1f7006610dbb6ce9e4bcd244a32caa435a60392460da356c88",
                     "fulfillmentIds": [],
@@ -98,7 +963,7 @@
                             "regularPrice": 400,
                             "dynamicRegularPrice": 400,
                             "finalPrice": 400,
-                            "saleExpiration": "9999-12-31T23:59:59.999Z",
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
                             "basePrice": 400
                         }
                     ],
@@ -142,7 +1007,7 @@
                             "regularPrice": 1000,
                             "dynamicRegularPrice": 1000,
                             "finalPrice": 1000,
-                            "saleExpiration": "9999-12-31T23:59:59.999Z",
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
                             "basePrice": 1000
                         }
                     ],
@@ -169,6 +1034,594 @@
                     ],
                     "additionalGrants": [],
                     "sortPriority": 9,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]1 x Redline Ramirez for 2800 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/97d7d840cea31d45a4025e135988990182e02dace345045edd93efcbcbc0e2b7",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": -1,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 2800,
+                            "dynamicRegularPrice": 2800,
+                            "finalPrice": 2800,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 2800
+                        }
+                    ],
+                    "meta": {
+                        "PurchaseLimitingEventId": "0vf61bjvdvlm9o8p5jg7od2irk[0]1",
+                        "EventLimit": "1"
+                    },
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "metaInfo": [
+                        {
+                            "key": "PurchaseLimitingEventId",
+                            "value": "0vf61bjvdvlm9o8p5jg7od2irk[0]1"
+                        },
+                        {
+                            "key": "EventLimit",
+                            "value": "1"
+                        }
+                    ],
+                    "itemGrants": [
+                        {
+                            "templateId": "Hero:hid_commando_011_f_v1_roadtrip_sr_t01",
+                            "quantity": 1
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 32,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]1 x Star-Spangled Headhunter for 2800 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/fc5bd894cf5567f8cb90c7fba7a42018cf98d6a1a73b6d268bd95034af95cd45",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": -1,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 2800,
+                            "dynamicRegularPrice": 2800,
+                            "finalPrice": 2800,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 2800
+                        }
+                    ],
+                    "meta": {
+                        "PurchaseLimitingEventId": "4el7t7gg7ef083th6210ilof7i[0]1",
+                        "EventLimit": "1"
+                    },
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "metaInfo": [
+                        {
+                            "key": "PurchaseLimitingEventId",
+                            "value": "4el7t7gg7ef083th6210ilof7i[0]1"
+                        },
+                        {
+                            "key": "EventLimit",
+                            "value": "1"
+                        }
+                    ],
+                    "itemGrants": [
+                        {
+                            "templateId": "Hero:hid_commando_guntough_f_4thjuly_sr_t01",
+                            "quantity": 1
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 25,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]1 x Copper Surround Pound for 1680 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/a03be69149400edecb8c122aa80097b9d6ec354e65bbe2a43197374a11a60c9e",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": -1,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 1680,
+                            "dynamicRegularPrice": 1680,
+                            "finalPrice": 1680,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 1680
+                        }
+                    ],
+                    "meta": {
+                        "PurchaseLimitingEventId": "75k7nvbfd2bs9i9j0dur3acgep[0]1",
+                        "EventLimit": "1"
+                    },
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "metaInfo": [
+                        {
+                            "key": "PurchaseLimitingEventId",
+                            "value": "75k7nvbfd2bs9i9j0dur3acgep[0]1"
+                        },
+                        {
+                            "key": "EventLimit",
+                            "value": "1"
+                        }
+                    ],
+                    "itemGrants": [
+                        {
+                            "templateId": "Schematic:sid_blunt_hammer_boombox_sr_ore_t01",
+                            "quantity": 1
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 30,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]1 x Old Glory A.C. for 2800 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/c45019c82b0209332255ecb49c521abe4640ddcf4661104703b05aead3566c11",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": -1,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 2800,
+                            "dynamicRegularPrice": 2800,
+                            "finalPrice": 2800,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 2800
+                        }
+                    ],
+                    "meta": {
+                        "PurchaseLimitingEventId": "2588f6cppkof883u3djij641li[0]0",
+                        "EventLimit": "1"
+                    },
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "metaInfo": [
+                        {
+                            "key": "PurchaseLimitingEventId",
+                            "value": "2588f6cppkof883u3djij641li[0]0"
+                        },
+                        {
+                            "key": "EventLimit",
+                            "value": "1"
+                        }
+                    ],
+                    "itemGrants": [
+                        {
+                            "templateId": "Hero:hid_outlander_010_m_4thjuly_sr_t01",
+                            "quantity": 1
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 23,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]1 x Copper Walloper for 1680 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/85b7ed13625f1d6642d8ec3410d2a1c6751b75bd886b56e0db5ce93ebb8be3bf",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": -1,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 1680,
+                            "dynamicRegularPrice": 1680,
+                            "finalPrice": 1680,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 1680
+                        }
+                    ],
+                    "meta": {
+                        "PurchaseLimitingEventId": "1ppf77sv91utv9racavk6fivmk[0]1",
+                        "EventLimit": "1"
+                    },
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "metaInfo": [
+                        {
+                            "key": "PurchaseLimitingEventId",
+                            "value": "1ppf77sv91utv9racavk6fivmk[0]1"
+                        },
+                        {
+                            "key": "EventLimit",
+                            "value": "1"
+                        }
+                    ],
+                    "itemGrants": [
+                        {
+                            "templateId": "Schematic:sid_blunt_hammer_flintlock_sr_ore_t01",
+                            "quantity": 1
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 20,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]1 x Tactical Assault Sledgehammer for 2800 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/f6618ffbe377929e9d35f24b940e15ab132447707831667ff9fdc42a97a8c5be",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": -1,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 2800,
+                            "dynamicRegularPrice": 2800,
+                            "finalPrice": 2800,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 2800
+                        }
+                    ],
+                    "meta": {
+                        "PurchaseLimitingEventId": "65brrcmmbk125a9ro4e31gv6mj[0]1",
+                        "EventLimit": "1"
+                    },
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "metaInfo": [
+                        {
+                            "key": "PurchaseLimitingEventId",
+                            "value": "65brrcmmbk125a9ro4e31gv6mj[0]1"
+                        },
+                        {
+                            "key": "EventLimit",
+                            "value": "1"
+                        }
+                    ],
+                    "itemGrants": [
+                        {
+                            "templateId": "Hero:hid_commando_gunheadshot_m_v1_roadtrip_sr_t01",
+                            "quantity": 1
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 33,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]1 x Tricera Ops Ramirez for 2800 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/787e7c8f6cb62c7d1c3c7d2b7002ff90f79e8af787155d2119e5d82fbc487227",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": -1,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 2800,
+                            "dynamicRegularPrice": 2800,
+                            "finalPrice": 2800,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 2800
+                        }
+                    ],
+                    "meta": {
+                        "PurchaseLimitingEventId": "3mq660sv0e90s1trqbls49ni7e[0]0",
+                        "EventLimit": "1"
+                    },
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "metaInfo": [
+                        {
+                            "key": "PurchaseLimitingEventId",
+                            "value": "3mq660sv0e90s1trqbls49ni7e[0]0"
+                        },
+                        {
+                            "key": "EventLimit",
+                            "value": "1"
+                        }
+                    ],
+                    "itemGrants": [
+                        {
+                            "templateId": "Hero:hid_commando_039_pajama_party_sr_t01",
+                            "quantity": 1
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 21,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]1 x Jurassic Ken for 2800 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/4dbf37c5aa742ba98ea11bdd28485464e380a5a69f8bd5e6e1faf415e21f8249",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": -1,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 2800,
+                            "dynamicRegularPrice": 2800,
+                            "finalPrice": 2800,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 2800
+                        }
+                    ],
+                    "meta": {
+                        "PurchaseLimitingEventId": "4hji576h0gnls6h1u2ehmd0ac0[0]1",
+                        "EventLimit": "1"
+                    },
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "metaInfo": [
+                        {
+                            "key": "PurchaseLimitingEventId",
+                            "value": "4hji576h0gnls6h1u2ehmd0ac0[0]1"
+                        },
+                        {
+                            "key": "EventLimit",
+                            "value": "1"
+                        }
+                    ],
+                    "itemGrants": [
+                        {
+                            "templateId": "Hero:hid_ninja_039_dino_ninja_sr_t01",
+                            "quantity": 1
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 27,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]1 x Dennis Jr. for 3200 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/63830be39275b75b1dfb1a946e953709c10ce1c5abdaa8a585dc6817c4e23179",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": -1,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 3200,
+                            "dynamicRegularPrice": 3200,
+                            "finalPrice": 3200,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 3200
+                        }
+                    ],
+                    "meta": {
+                        "PurchaseLimitingEventId": "179lf4ej3ekvve3ln8c1rudv07[0]0",
+                        "EventLimit": "1"
+                    },
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "metaInfo": [
+                        {
+                            "key": "PurchaseLimitingEventId",
+                            "value": "179lf4ej3ekvve3ln8c1rudv07[0]0"
+                        },
+                        {
+                            "key": "EventLimit",
+                            "value": "1"
+                        }
+                    ],
+                    "itemGrants": [
+                        {
+                            "templateId": "Hero:hid_constructor_029_radstoryconstructor_sr_t01",
+                            "quantity": 1
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 31,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]1 x Armory Slot for 25 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/83c2c7dd1240222394ed9c7415fbce183d8504842eebc30039ce96c929d365e6",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": -1,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 25,
+                            "dynamicRegularPrice": 25,
+                            "finalPrice": 25,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 25
+                        }
+                    ],
+                    "meta": {
+                        "PurchaseLimitingEventId": "69coo7hcgmsfptsm7j5pd2r92p[1]1",
+                        "EventLimit": "100"
+                    },
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "metaInfo": [
+                        {
+                            "key": "PurchaseLimitingEventId",
+                            "value": "69coo7hcgmsfptsm7j5pd2r92p[1]1"
+                        },
+                        {
+                            "key": "EventLimit",
+                            "value": "100"
+                        }
+                    ],
+                    "itemGrants": [
+                        {
+                            "templateId": "Token:accountinventorybonus",
+                            "quantity": 1
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 19,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]1 x Recon Scout Eagle Eye for 2800 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/449cfff41ca9817f18454193b1f1082b4381007becb51dcf4f6bd6eb6649e0b0",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": -1,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 2800,
+                            "dynamicRegularPrice": 2800,
+                            "finalPrice": 2800,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 2800
+                        }
+                    ],
+                    "meta": {
+                        "PurchaseLimitingEventId": "69coo7hcgmsfptsm7j5pd2r92p[0]1",
+                        "EventLimit": "1"
+                    },
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "metaInfo": [
+                        {
+                            "key": "PurchaseLimitingEventId",
+                            "value": "69coo7hcgmsfptsm7j5pd2r92p[0]1"
+                        },
+                        {
+                            "key": "EventLimit",
+                            "value": "1"
+                        }
+                    ],
+                    "itemGrants": [
+                        {
+                            "templateId": "Hero:hid_outlander_008_sr_t01",
+                            "quantity": 1
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 14,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]1 x Patriot Penny for 2800 GameItem : AccountResource:eventcurrency_scaling",
+                    "offerId": "v2:/54665a53166b1b90a5b7434eae2b5dd82a4fd33b21ea273b833a3870099d80f9",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": -1,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "GameItem",
+                            "currencySubType": "AccountResource:eventcurrency_scaling",
+                            "regularPrice": 2800,
+                            "dynamicRegularPrice": 2800,
+                            "finalPrice": 2800,
+                            "saleExpiration": "2021-09-04T13:00:00.000Z",
+                            "basePrice": 2800
+                        }
+                    ],
+                    "meta": {
+                        "PurchaseLimitingEventId": "1010jrhl6slub29i12in5girp0[0]0",
+                        "EventLimit": "1"
+                    },
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [],
+                    "offerType": "StaticPrice",
+                    "refundable": false,
+                    "metaInfo": [
+                        {
+                            "key": "PurchaseLimitingEventId",
+                            "value": "1010jrhl6slub29i12in5girp0[0]0"
+                        },
+                        {
+                            "key": "EventLimit",
+                            "value": "1"
+                        }
+                    ],
+                    "itemGrants": [
+                        {
+                            "templateId": "Hero:hid_constructor_hammerplasma_4thjuly_sr_t01",
+                            "quantity": 1
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": 24,
                     "catalogGroupPriority": 0
                 }
             ]
