@@ -2177,6 +2177,79 @@
                ]
             },
             {
+               "offerId":"8E57D0587C9C4C6D915AB622B60556BB",
+               "devName":"Event.Event.2018.Anniversary.01",
+               "offerType":"StaticPrice",
+               "prices":[
+                  {
+                     "currencyType":"GameItem",
+                     "currencySubType":"AccountResource:eventcurrency_roadtrip",
+                     "regularPrice":1000,
+                     "finalPrice":1000,
+                     "saleExpiration":"2021-09-10T13:08:20Z",
+                     "basePrice":1000
+                  }
+               ],
+               "categories":[
+                  
+               ],
+               "dailyLimit":-1,
+               "weeklyLimit":-1,
+               "monthlyLimit":-1,
+               "appStoreId":[
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+               ],
+               "requirements":[
+                  
+               ],
+               "metaInfo":[
+                  
+               ],
+               "metaAssetInfo":{
+                  "structName":"FortCatalogMeta",
+                  "payload":{
+                     "chaseItems":[
+                        "FortHeroType'/Game/Heroes/Ninja/ItemDefinition/HID_Ninja_016_M_V1_SR_T01.HID_Ninja_016_M_V1_SR_T01'",
+                        "FortSchematicItemDefinition'/Game/Items/Schematics/Ranged/Pistol/Silenced_Military/SID_Pistol_Silenced_Military_SR_Ore_T01.SID_Pistol_Silenced_Military_SR_Ore_T01'",
+                        "FortHeroType'/Game/Heroes/Commando/ItemDefinition/HID_Commando_GunHeadshotHW_SR_T01.HID_Commando_GunHeadshotHW_SR_T01'",
+                        "FortHeroType'/Game/Heroes/Ninja/ItemDefinition/HID_Ninja_SlashBreathHW_SR_T01.HID_Ninja_SlashBreathHW_SR_T01'",
+                        "FortSchematicItemDefinition'/Game/Items/Schematics/Ranged/Shotgun/Scavenger_Break/SID_Shotgun_Break_Scavenger_SR_Ore_T01.SID_Shotgun_Break_Scavenger_SR_Ore_T01'",
+                        "FortHeroType'/Game/Heroes/Constructor/ItemDefinition/HID_Constructor_011_SR_T01.HID_Constructor_011_SR_T01'",
+                        "FortHeroType'/Game/Heroes/Outlander/ItemDefinition/HID_Outlander_014_SR_T01.HID_Outlander_014_SR_T01'",
+                        "FortSchematicItemDefinition'/Game/Items/Schematics/Ranged/Explosive/DragonLauncher/SID_Launcher_Rocket_Dragon_SR_Ore_T01.SID_Launcher_Rocket_Dragon_SR_Ore_T01'",
+                        "FortHeroType'/Game/Heroes/Commando/ItemDefinition/HID_Commando_015_M_V1_SR_T01.HID_Commando_015_M_V1_SR_T01'",
+                        "FortSchematicItemDefinition'/Game/Items/Schematics/Melee/Edged/Sword_NeonGlow/SID_Edged_Sword_NeonGlow_SR_Ore_T01.SID_Edged_Sword_NeonGlow_SR_Ore_T01'",
+                        "FortSchematicItemDefinition'/Game/Items/Schematics/Ranged/Sniper/Standard_Scope_High/SID_Sniper_Standard_Scope_VT_SR_Ore_T01.SID_Sniper_Standard_Scope_VT_SR_Ore_T01'",
+                        "FortSchematicItemDefinition'/Game/Items/Schematics/Ranged/Pistol/AutoHeavy_High/SID_Pistol_AutoHeavy_VT_SR_Ore_T01.SID_Pistol_AutoHeavy_VT_SR_Ore_T01'",
+                        "FortHeroType'/Game/Heroes/Constructor/ItemDefinition/HID_Constructor_013_SR_T01.HID_Constructor_013_SR_T01'",
+                        "FortHeroType'/Game/Heroes/Ninja/ItemDefinition/HID_Ninja_013_SR_T01.HID_Ninja_013_SR_T01'"
+                     ],
+                     "packDefinition":"FortCardPackItemDefinition'/Game/Items/CardPacks/Events/Release/CardPack_Event_2018_Spring.CardPack_Event_2018_Spring'"
+                  }
+               },
+               "catalogGroup":"",
+               "catalogGroupPriority":0,
+               "sortPriority":0,
+               "title":"Birthday Llama",
+               "shortDescription":"",
+               "description":"A blast from the past! Guarantees at least one Legendary and one Epic or better, including one Hero!",
+               "displayAssetPath":"",
+               "itemGrants":[
+                  {
+                     "templateId":"CardPack:cardpack_event_2018_anniversary",
+                     "quantity":1
+                  }
+               ]
+            },
+            {
                "offerId":"924B6E3726B24C1B95A7DA89D1CD4FEE",
                "devName":"Always.GenericToken.09",
                "offerType":"StaticPrice",
