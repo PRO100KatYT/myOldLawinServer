@@ -761,20 +761,7 @@ express.get("/fortnite/api/calendar/v1/timeline", async (req, res) => {
 							"activeSince": "2020-01-01T13:00:00.000Z"
 						  }
 						],
-						"state": {
-						  "activeStorefronts":[],
-						  "eventNamedWeights": {},
-						  "seasonNumber": seasondata.season,
-						  "seasonTemplateId": `AthenaSeason:athenaseason${seasondata.season}`,
-						  "matchXpBonusPoints": 0,
-						  "seasonBegin": "2020-01-01T13:00:00Z",
-						  "seasonEnd": "2021-09-05T13:08:20Z",
-						  "seasonDisplayedEnd": "2021-09-05T13:08:20Z",
-						  "weeklyStoreEnd": "2021-09-05T13:08:20Z",
-						  "stwEventStoreEnd": "2021-09-05T13:08:20Z",
-						  "stwWeeklyStoreEnd": "2021-09-05T13:08:20Z",
-						  "dailyStoreEnd": "2021-09-05T13:08:20Z"
-						}
+						"state": {}
 					  }
 					],
 					"cacheExpire": "2021-09-05T13:08:20Z"
