@@ -1,66 +1,299 @@
 {
-  "refreshIntervalHrs": 1,
-  "dailyPurchaseHrs": 24,
-  "expiration": "9999-12-31T23:59:59.999Z",
-  "storefronts": [
-    {
-      "name": "BRWeeklyStorefront",
-      "catalogEntries": [
+    "dailyPurchaseHrs": 24,
+    "expiration": "9999-01-01T22:28:47.830Z",
+    "refreshIntervalHrs": 24,
+    "storefronts": [
         {
-          "devName": "Rockmanka",
-          "offerId": "v2:/ed321d57ef3f2fbbabfc386f71216699468ea534e049fc467e3103762d873613",
-          "fulfillmentIds": [],
-          "dailyLimit": -1,
-          "weeklyLimit": -1,
-          "monthlyLimit": -1,
-          "categories": [
-            "Panel 1"
-          ],
-          "prices": [
-            {
-              "currencyType": "MtxCurrency",
-              "currencySubType": "",
-              "regularPrice": 1500,
-              "dynamicRegularPrice": 1500,
-              "finalPrice": 1500,
-              "saleExpiration": "9999-12-31T23:59:59.999Z",
-              "basePrice": 1500
-            }
-          ],
-          "meta": {
-            "BannerOverride": "New"
-          },
-          "matchFilter": "",
-          "filterWeight": 0,
-          "appStoreId": [],
-          "requirements": [
-            {
-              "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaCharacter:CID_097_Athena_Commando_F_RockerPunk",
-              "minQuantity": 1
-            }
-          ],
-          "offerType": "StaticPrice",
-          "giftInfo": {
-            "bIsEnabled": true,
-            "forcedGiftBoxTemplateId": "",
-            "purchaseRequirements": [],
-            "giftRecordIds": []
-          },
-          "refundable": true,
-          "metaInfo": [],
-          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_097_Athena_Commando_F_RockerPunk.DA_Featured_CID_097_Athena_Commando_F_RockerPunk",
-          "itemGrants": [
-            {
-              "templateId": "AthenaCharacter:CID_097_Athena_Commando_F_RockerPunk",
-              "quantity": 1
-            }
-          ],
-          "additionalGrants": [],
-          "sortPriority": 0,
-          "catalogGroupPriority": 0
+            "catalogEntries": [
+                {
+                    "appStoreId": [],
+                    "catalogGroupPriority": 0,
+                    "categories": [],
+                    "dailyLimit": -1,
+                    "devName": "AthenaCharacter:CID_029_Athena_Commando_F_Halloween",
+                    "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_SFemaleHalloween.DA_Featured_SFemaleHalloween",
+                    "filterWeight": 0,
+                    "fulfillmentIds": [],
+                    "giftInfo": {
+                        "bIsEnabled": false,
+                        "forcedGiftBoxTemplateId": "",
+                        "giftRecordIds": [],
+                        "purchaseRequirements": []
+                    },
+                    "itemGrants": [
+                        {
+                            "quantity": 1,
+                            "templateId": "AthenaCharacter:CID_029_Athena_Commando_F_Halloween"
+                        }
+                    ],
+                    "matchFilter": "",
+                    "metaInfo": [],
+                    "monthlyLimit": -1,
+                    "offerId": "v2:/erabackend",
+                    "offerType": "StaticPrice",
+                    "prices": [
+                        {
+                            "basePrice": 1500,
+                            "currencySubType": "",
+                            "currencyType": "MtxCurrency",
+                            "finalPrice": 1500,
+                            "regularPrice": 1500,
+                            "saleExpiration": "9999-12-31T23:59:59.999Z"
+                        }
+                    ],
+                    "refundable": true,
+                    "requirements": [
+                        {
+                            "minQuantity": 2,
+                            "requiredId": "AthenaCharacter:CID_029_Athena_Commando_F_Halloween",
+                            "requirementType": "DenyOnItemOwnership"
+                        }
+                    ],
+                    "sortPriority": 0,
+                    "weeklyLimit": -1
+                },
+                {
+                    "appStoreId": [],
+                    "catalogGroupPriority": 0,
+                    "categories": [],
+                    "dailyLimit": -1,
+                    "devName": "AthenaCharacter:CID_030_Athena_Commando_M_Halloween",
+                    "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_SMaleHalloween.DA_Featured_SMaleHalloween",
+                    "filterWeight": 0,
+                    "fulfillmentIds": [],
+                    "giftInfo": {
+                        "bIsEnabled": false,
+                        "forcedGiftBoxTemplateId": "",
+                        "giftRecordIds": [],
+                        "purchaseRequirements": []
+                    },
+                    "itemGrants": [
+                        {
+                            "quantity": 1,
+                            "templateId": "AthenaCharacter:CID_030_Athena_Commando_M_Halloween"
+                        }
+                    ],
+                    "matchFilter": "",
+                    "metaInfo": [],
+                    "monthlyLimit": -1,
+                    "offerId": "v2:/erabackend",
+                    "offerType": "StaticPrice",
+                    "prices": [
+                        {
+                            "basePrice": 1500,
+                            "currencySubType": "",
+                            "currencyType": "MtxCurrency",
+                            "finalPrice": 1500,
+                            "regularPrice": 1500,
+                            "saleExpiration": "9999-12-31T23:59:59.999Z"
+                        }
+                    ],
+                    "refundable": true,
+                    "requirements": [
+                        {
+                            "minQuantity": 2,
+                            "requiredId": "AthenaCharacter:CID_030_Athena_Commando_M_Halloween",
+                            "requirementType": "DenyOnItemOwnership"
+                        }
+                    ],
+                    "sortPriority": 0,
+                    "weeklyLimit": -1
+                }
+            ],
+            "name": "BRWeeklyStorefront"
+        },
+        {
+            "catalogEntries": [
+                {
+                    "appStoreId": [],
+                    "catalogGroupPriority": 0,
+                    "categories": [],
+                    "dailyLimit": -1,
+                    "devName": "AthenaCharacter:CID_015_Athena_Commando_F",
+                    "displayAssetPath": "",
+                    "filterWeight": 0,
+                    "fulfillmentIds": [],
+                    "giftInfo": {
+                        "bIsEnabled": false,
+                        "forcedGiftBoxTemplateId": "",
+                        "giftRecordIds": [],
+                        "purchaseRequirements": []
+                    },
+                    "itemGrants": [
+                        {
+                            "quantity": 1,
+                            "templateId": "AthenaCharacter:CID_015_Athena_Commando_F"
+                        }
+                    ],
+                    "matchFilter": "",
+                    "metaInfo": [],
+                    "monthlyLimit": -1,
+                    "offerId": "v2:/erabackend",
+                    "offerType": "StaticPrice",
+                    "prices": [
+                        {
+                            "basePrice": 800,
+                            "currencySubType": "",
+                            "currencyType": "MtxCurrency",
+                            "finalPrice": 800,
+                            "regularPrice": 800,
+                            "saleExpiration": "9999-12-31T23:59:59.999Z"
+                        }
+                    ],
+                    "refundable": true,
+                    "requirements": [
+                        {
+                            "minQuantity": 2,
+                            "requiredId": "AthenaCharacter:CID_015_Athena_Commando_F",
+                            "requirementType": "DenyOnItemOwnership"
+                        }
+                    ],
+                    "sortPriority": 0,
+                    "weeklyLimit": -1
+                },
+                {
+                    "appStoreId": [],
+                    "catalogGroupPriority": 0,
+                    "categories": [],
+                    "dailyLimit": -1,
+                    "devName": "AthenaPickaxe:HalloweenScythe",
+                    "displayAssetPath": "",
+                    "filterWeight": 0,
+                    "fulfillmentIds": [],
+                    "giftInfo": {
+                        "bIsEnabled": false,
+                        "forcedGiftBoxTemplateId": "",
+                        "giftRecordIds": [],
+                        "purchaseRequirements": []
+                    },
+                    "itemGrants": [
+                        {
+                            "quantity": 1,
+                            "templateId": "AthenaPickaxe:HalloweenScythe"
+                        }
+                    ],
+                    "matchFilter": "",
+                    "metaInfo": [],
+                    "monthlyLimit": -1,
+                    "offerId": "v2:/erabackend",
+                    "offerType": "StaticPrice",
+                    "prices": [
+                        {
+                            "basePrice": 800,
+                            "currencySubType": "",
+                            "currencyType": "MtxCurrency",
+                            "finalPrice": 800,
+                            "regularPrice": 800,
+                            "saleExpiration": "9999-12-31T23:59:59.999Z"
+                        }
+                    ],
+                    "refundable": true,
+                    "requirements": [
+                        {
+                            "minQuantity": 2,
+                            "requiredId": "AthenaPickaxe:HalloweenScythe",
+                            "requirementType": "DenyOnItemOwnership"
+                        }
+                    ],
+                    "sortPriority": 0,
+                    "weeklyLimit": -1
+                },
+                {
+                    "appStoreId": [],
+                    "catalogGroupPriority": 0,
+                    "categories": [],
+                    "dailyLimit": -1,
+                    "devName": "AthenaCharacter:CID_010_Athena_Commando_M",
+                    "displayAssetPath": "",
+                    "filterWeight": 0,
+                    "fulfillmentIds": [],
+                    "giftInfo": {
+                        "bIsEnabled": false,
+                        "forcedGiftBoxTemplateId": "",
+                        "giftRecordIds": [],
+                        "purchaseRequirements": []
+                    },
+                    "itemGrants": [
+                        {
+                            "quantity": 1,
+                            "templateId": "AthenaCharacter:CID_010_Athena_Commando_M"
+                        }
+                    ],
+                    "matchFilter": "",
+                    "metaInfo": [],
+                    "monthlyLimit": -1,
+                    "offerId": "v2:/erabackend",
+                    "offerType": "StaticPrice",
+                    "prices": [
+                        {
+                            "basePrice": 800,
+                            "currencySubType": "",
+                            "currencyType": "MtxCurrency",
+                            "finalPrice": 800,
+                            "regularPrice": 800,
+                            "saleExpiration": "9999-12-31T23:59:59.999Z"
+                        }
+                    ],
+                    "refundable": true,
+                    "requirements": [
+                        {
+                            "minQuantity": 2,
+                            "requiredId": "AthenaCharacter:CID_010_Athena_Commando_M",
+                            "requirementType": "DenyOnItemOwnership"
+                        }
+                    ],
+                    "sortPriority": 0,
+                    "weeklyLimit": -1
+                },
+                {
+                    "appStoreId": [],
+                    "catalogGroupPriority": 0,
+                    "categories": [],
+                    "dailyLimit": -1,
+                    "devName": "AthenaCharacter:CID_012_Athena_Commando_M",
+                    "displayAssetPath": "",
+                    "filterWeight": 0,
+                    "fulfillmentIds": [],
+                    "giftInfo": {
+                        "bIsEnabled": false,
+                        "forcedGiftBoxTemplateId": "",
+                        "giftRecordIds": [],
+                        "purchaseRequirements": []
+                    },
+                    "itemGrants": [
+                        {
+                            "quantity": 1,
+                            "templateId": "AthenaCharacter:CID_012_Athena_Commando_M"
+                        }
+                    ],
+                    "matchFilter": "",
+                    "metaInfo": [],
+                    "monthlyLimit": -1,
+                    "offerId": "v2:/erabackend",
+                    "offerType": "StaticPrice",
+                    "prices": [
+                        {
+                            "basePrice": 800,
+                            "currencySubType": "",
+                            "currencyType": "MtxCurrency",
+                            "finalPrice": 800,
+                            "regularPrice": 800,
+                            "saleExpiration": "9999-12-31T23:59:59.999Z"
+                        }
+                    ],
+                    "refundable": true,
+                    "requirements": [
+                        {
+                            "minQuantity": 2,
+                            "requiredId": "AthenaCharacter:CID_012_Athena_Commando_M",
+                            "requirementType": "DenyOnItemOwnership"
+                        }
+                    ],
+                    "sortPriority": 0,
+                    "weeklyLimit": -1
+                }
+            ],
+            "name": "BRDailyStorefront"
         }
-      ]
-    }
-  ]
+    ]
 }
