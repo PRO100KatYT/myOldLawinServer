@@ -478,7 +478,7 @@ express.get("/account/api/public/account/:accountId", async (req, res) => {
 )
 	res.status(200);
 	res.end();
-	console.log("User logged in.")
+	console.log("Osoba sie zalogowala.")
 })
 
 express.get("/fortnite/api/v2/versioncheck/*", async (req, res) => {
@@ -762,7 +762,13 @@ express.get("/fortnite/api/calendar/v1/timeline", async (req, res) => {
 						  }
 						],
 						"state": {
-						  "activeStorefronts": [],
+						  "activeStorefronts":[
+                     
+						  ],
+						  "dailyStoreEnd":"2021-09-05T13:08:20Z",
+						  "eventNamedWeights":{
+                     
+						  },
 						  "eventNamedWeights": {},
 						  "seasonNumber": seasondata.season,
 						  "seasonTemplateId": `AthenaSeason:athenaseason${seasondata.season}`,
@@ -770,10 +776,10 @@ express.get("/fortnite/api/calendar/v1/timeline", async (req, res) => {
 						  "seasonBegin": "2020-01-01T13:00:00Z",
 						  "seasonEnd": "9999-01-01T14:00:00Z",
 						  "seasonDisplayedEnd": "9999-01-01T07:30:00Z",
-						  "weeklyStoreEnd": "9999-01-01T00:00:00Z",
-						  "stwEventStoreEnd": "9999-01-01T00:00:00.000Z",
-						  "stwWeeklyStoreEnd": "9999-01-01T00:00:00.000Z",
-						  "dailyStoreEnd": "9999-01-01T00:00:00Z"
+						  "weeklyStoreEnd": "2021-09-05T13:08:20Z",
+						  "stwEventStoreEnd": "2021-09-05T13:08:20Z",
+						  "stwWeeklyStoreEnd": "2021-09-05T13:08:20Z",
+						  "dailyStoreEnd": "2021-09-05T13:08:20Z"
 						}
 					  }
 					],
@@ -1303,7 +1309,7 @@ express.post("/account/api/oauth/token", async (req, res) => {
 				seasonchecker(req, seasondata);
 				profile.stats.attributes.season_num = seasondata.season;
 			}
-			profile.items[req.body.characterId].attributes.squad_id = req.body.squadId || "";
+			profile.items[req.body.characterId].attributes. _id = req.body.squadId || "";
 			profile.rvn += 1;
 			profile.commandRevision += 1;
 			fs.writeFile(`./profiles/${req.query.profileId || "profile0"}.json`, JSON.stringify(profile, null, 2), function(err) {
