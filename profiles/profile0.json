@@ -78,7 +78,7 @@
         "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
-        "squad_id": "",
+        "squad_id": "squad_combat_adventuresquadone",
         "mode_loadouts": [
           {
             "loadoutName": "Default",
