@@ -2,7 +2,7 @@
   "_id": "faefefcfdaad4eae8aed65c3139376f8",
   "created": "2017-08-29T20:38:59.824Z",
   "updated": "2017-12-25T02:08:43.518Z",
-  "rvn": 1160,
+  "rvn": 1162,
   "wipeNumber": 9,
   "accountId": "b810c129520946d6801a58bb9d5859fc",
   "profileId": "profile0",
@@ -18561,7 +18561,647 @@
       },
       "quantity": 1
     },
-    "ManagerTrainer_SR_raider_T05": {
+    "Sanitariusze-ManagerDoctor_SR_kingsly_T05": {
+      "templateId": "Worker:ManagerDoctor_SR_kingsly_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 0,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-ManagerPortrait-SR-Doctor-kingsly.IconDef-ManagerPortrait-SR-Doctor-kingsly",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Medicine_EMTSquad",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsTrainer",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Medicine_EMTSquad"
+      },
+      "quantity": 1
+    },
+    "Sanitariusze1-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 1,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Medicine_EMTSquad",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Medicine_EMTSquad",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Sanitariusze2-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 2,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Medicine_EMTSquad",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Medicine_EMTSquad",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Sanitariusze3-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 3,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Medicine_EMTSquad",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Medicine_EMTSquad",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Sanitariusze4-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 4,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Medicine_EMTSquad",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Medicine_EMTSquad",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Sanitariusze5-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 5,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Medicine_EMTSquad",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Medicine_EMTSquad",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Sanitariusze6-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 6,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Medicine_EMTSquad",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Medicine_EMTSquad",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Sanitariusze7-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 7,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Medicine_EMTSquad",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Medicine_EMTSquad",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "SekcjaAlfa-ManagerSoldier_SR_malcolm_T05": {
+      "templateId": "Worker:ManagerSoldier_SR_malcolm_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 0,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-ManagerPortrait-SR-Soldier-malcolm.IconDef-ManagerPortrait-SR-Soldier-malcolm",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Arms_FireTeamAlpha",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsTrainer",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Arms_FireTeamAlpha"
+      },
+      "quantity": 1
+    },
+    "SekcjaAlfa1-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 1,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Arms_FireTeamAlpha",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Arms_FireTeamAlpha",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "SekcjaAlfa2-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 2,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Arms_FireTeamAlpha",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Arms_FireTeamAlpha",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "SekcjaAlfa3-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 3,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Arms_FireTeamAlpha",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Arms_FireTeamAlpha",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "SekcjaAlfa4-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 4,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Arms_FireTeamAlpha",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Arms_FireTeamAlpha",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "SekcjaAlfa5-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 5,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Arms_FireTeamAlpha",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Arms_FireTeamAlpha",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "SekcjaAlfa6-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 6,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Arms_FireTeamAlpha",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Arms_FireTeamAlpha",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "SekcjaAlfa7-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 7,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Arms_FireTeamAlpha",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Arms_FireTeamAlpha",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Gadzeciarze-ManagerGadgeteer_SR_fixer_T05": {
+      "templateId": "Worker:ManagerGadgeteer_SR_fixer_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 0,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-ManagerPortrait-SR-Gadgeteer-fixer.IconDef-ManagerPortrait-SR-Gadgeteer-fixer",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Scavenging_Gadgeteers",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsTrainer",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Scavenging_Gadgeteers"
+      },
+      "quantity": 1
+    },
+    "Gadzeciarze1-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 1,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Scavenging_Gadgeteers",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Scavenging_Gadgeteers",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Gadzeciarze2-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 2,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Scavenging_Gadgeteers",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Scavenging_Gadgeteers",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Gadzeciarze3-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 3,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Scavenging_Gadgeteers",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Scavenging_Gadgeteers",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Gadzeciarze4-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 4,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Scavenging_Gadgeteers",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Scavenging_Gadgeteers",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Gadzeciarze5-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 5,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Scavenging_Gadgeteers",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Scavenging_Gadgeteers",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Gadzeciarze6-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 6,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Scavenging_Gadgeteers",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Scavenging_Gadgeteers",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Gadzeciarze7-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 7,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Scavenging_Gadgeteers",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Scavenging_Gadgeteers",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Inzynierowie-ManagerEngineer_SR_countess_T05": {
+      "templateId": "Worker:ManagerEngineer_SR_countess_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 0,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-ManagerPortrait-SR-Engineer-countess.IconDef-ManagerPortrait-SR-Engineer-countess",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Synthesis_CorpsofEngineering",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsTrainer",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Synthesis_CorpsofEngineering"
+      },
+      "quantity": 1
+    },
+    "Inzynierowie1-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 1,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Synthesis_CorpsofEngineering",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Synthesis_CorpsofEngineering",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Inzynierowie2-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 2,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Synthesis_CorpsofEngineering",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Synthesis_CorpsofEngineering",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Inzynierowie3-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 3,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Synthesis_CorpsofEngineering",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Synthesis_CorpsofEngineering",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Inzynierowie4-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 4,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Synthesis_CorpsofEngineering",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Synthesis_CorpsofEngineering",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Inzynierowie5-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 5,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Synthesis_CorpsofEngineering",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Synthesis_CorpsofEngineering",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Inzynierowie6-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 6,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Synthesis_CorpsofEngineering",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Synthesis_CorpsofEngineering",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Inzynierowie7-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 7,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Synthesis_CorpsofEngineering",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Synthesis_CorpsofEngineering",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Szkoleniowcy-ManagerTrainer_SR_raider_T05": {
       "templateId": "Worker:ManagerTrainer_SR_raider_T05",
       "attributes": {
         "gender": 0,
@@ -18570,13 +19210,634 @@
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-ManagerPortrait-SR-PersonalTrainer-raider.IconDef-ManagerPortrait-SR-PersonalTrainer-raider",
         "max_level_bonus": 0,
-        "squad_id": "",
+        "squad_id": "Squad_Attribute_Medicine_TrainingTeam",
         "personality": "Homebase.Worker.Personality.IsCurious",
         "xp": 0,
         "slotted_building_id": "",
         "managerSynergy": "Homebase.Manager.IsTrainer",
         "building_slot_used": -1,
-        "favorite": false
+        "favorite": false,
+        "_id": "Squad_Attribute_Medicine_TrainingTeam"
+      },
+      "quantity": 1
+    },
+    "Szkoleniowcy1-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 1,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Medicine_TrainingTeam",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Medicine_TrainingTeam",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Szkoleniowcy2-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 2,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Medicine_TrainingTeam",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Medicine_TrainingTeam",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Szkoleniowcy3-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 3,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Medicine_TrainingTeam",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Medicine_TrainingTeam",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Szkoleniowcy4-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 4,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Medicine_TrainingTeam",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Medicine_TrainingTeam",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Szkoleniowcy5-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 5,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Medicine_TrainingTeam",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Medicine_TrainingTeam",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Szkoleniowcy6-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 6,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Medicine_TrainingTeam",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Medicine_TrainingTeam",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Szkoleniowcy7-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 7,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Medicine_TrainingTeam",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Medicine_TrainingTeam",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Szturmowcy-ManagerMartialArtist_SR_dragon_T05": {
+      "templateId": "Worker:ManagerMartialArtist_SR_dragon_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 0,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-ManagerPortrait-SR-MartialArtist-dragon.IconDef-ManagerPortrait-SR-MartialArtist-dragon",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Arms_CloseAssaultSquad",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsTrainer",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Arms_CloseAssaultSquad"
+      },
+      "quantity": 1
+    },
+    "Szturmowcy1-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 1,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Arms_CloseAssaultSquad",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Arms_CloseAssaultSquad",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Szturmowcy2-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 2,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Arms_CloseAssaultSquad",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Arms_CloseAssaultSquad",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Szturmowcy3-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 3,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Arms_CloseAssaultSquad",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Arms_CloseAssaultSquad",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Szturmowcy4-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 4,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Arms_CloseAssaultSquad",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Arms_CloseAssaultSquad",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Szturmowcy5-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 5,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Arms_CloseAssaultSquad",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Arms_CloseAssaultSquad",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Szturmowcy6-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 6,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Arms_CloseAssaultSquad",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Arms_CloseAssaultSquad",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Szturmowcy7-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 7,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Arms_CloseAssaultSquad",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Arms_CloseAssaultSquad",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Zwiadowcy-ManagerExplorer_SR_birdie_T05": {
+      "templateId": "Worker:ManagerExplorer_SR_birdie_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 0,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-ManagerPortrait-SR-Explorer-birdie.IconDef-ManagerPortrait-SR-Explorer-birdie",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Scavenging_ScoutingParty",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsTrainer",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Scavenging_ScoutingParty"
+      },
+      "quantity": 1
+    },
+    "Zwiadowcy1-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 1,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Scavenging_ScoutingParty",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Scavenging_ScoutingParty",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Zwiadowcy2-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 2,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Scavenging_ScoutingParty",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Scavenging_ScoutingParty",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Zwiadowcy3-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 3,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Scavenging_ScoutingParty",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Scavenging_ScoutingParty",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Zwiadowcy4-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 4,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Scavenging_ScoutingParty",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Scavenging_ScoutingParty",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Zwiadowcy5-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 5,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Scavenging_ScoutingParty",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Scavenging_ScoutingParty",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Zwiadowcy6-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 6,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Scavenging_ScoutingParty",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Scavenging_ScoutingParty",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Zwiadowcy7-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 7,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Scavenging_ScoutingParty",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Scavenging_ScoutingParty",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Konsultanci-ManagerInventor_SR_frequency_T05": {
+      "templateId": "Worker:ManagerInventor_SR_frequency_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 0,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-ManagerPortrait-SR-Inventor-frequency.IconDef-ManagerPortrait-SR-Inventor-frequency",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Synthesis_TheThinkTank",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsTrainer",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Synthesis_TheThinkTank"
+      },
+      "quantity": 1
+    },
+    "Konsultanci1-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 1,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Synthesis_TheThinkTank",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Synthesis_TheThinkTank",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Konsultanci2-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 2,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Synthesis_TheThinkTank",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Synthesis_TheThinkTank",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Konsultanci3-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 3,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Synthesis_TheThinkTank",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Synthesis_TheThinkTank",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Konsultanci4-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 4,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Synthesis_TheThinkTank",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Synthesis_TheThinkTank",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Konsultanci5-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 5,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Synthesis_TheThinkTank",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Synthesis_TheThinkTank",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Konsultanci6-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 6,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Synthesis_TheThinkTank",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Synthesis_TheThinkTank",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "Konsultanci7-WorkerBasic_SR_T05": {
+      "templateId": "Worker:WorkerBasic_SR_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 7,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "squad_id": "Squad_Attribute_Synthesis_TheThinkTank",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "_id": "Squad_Attribute_Synthesis_TheThinkTank",
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
     }
@@ -18814,12 +20075,12 @@
         }
       },
       "daily_rewards": {
-        "nextDefaultReward": 75,
-        "totalDaysLoggedIn": 75,
-        "lastClaimDate": "2021-09-05T08:08:18.591Z",
+        "nextDefaultReward": 76,
+        "totalDaysLoggedIn": 76,
+        "lastClaimDate": "2021-09-09T14:29:17.291Z",
         "additionalSchedules": {
           "founderspackdailyrewardtoken": {
-            "rewardsClaimed": 75,
+            "rewardsClaimed": 76,
             "claimedToday": true
           }
         }
@@ -18836,5 +20097,5 @@
       "packs_granted": 13
     }
   },
-  "commandRevision": 943
+  "commandRevision": 945
 }
