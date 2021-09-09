@@ -18560,6 +18560,25 @@
         "item_seen": true
       },
       "quantity": 1
+    },
+    "ManagerTrainer_SR_raider_T05": {
+      "templateId": "Worker:ManagerTrainer_SR_raider_T05",
+      "attributes": {
+        "gender": 0,
+        "level": 50,
+        "squad_slot_idx": 0,
+        "item_seen": true,
+        "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-ManagerPortrait-SR-PersonalTrainer-raider.IconDef-ManagerPortrait-SR-PersonalTrainer-raider",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsTrainer",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
     }
   },
   "stats": {
