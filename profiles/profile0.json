@@ -11721,8 +11721,8 @@
       },
       "quantity": 1
     },
-    "tid_wall_wood_spikes_c_t01": {
-      "templateId": "Schematic:sid_wall_wood_spikes_c_t01",
+    "TID_Wall_Wood_Spikes_C_T01": {
+      "templateId": "Schematic:SID_Wall_Wood_Spikes_C_T01",
       "attributes": {
         "alteration_slots": [
           {
@@ -11801,8 +11801,8 @@
       },
       "quantity": 1
     },
-    "wid_assault_surgical_vr_ore_t01": {
-      "templateId": "Schematic:sid_assault_surgical_vr_ore_t01",
+    "WID_Assault_Surgical_VR_Ore_T01": {
+      "templateId": "Schematic:SID_Assault_Surgical_VR_Ore_T01",
       "attributes": {
         "alteration_slots": [
           {
@@ -11828,8 +11828,8 @@
       },
       "quantity": 1
     },
-    "wid_pistol_semiauto_c_ore_t00": {
-      "templateId": "Schematic:sid_pistol_semiauto_c_ore_t00",
+    "WID_Pistol_SemiAuto_C_Ore_T00": {
+      "templateId": "Schematic:SID_Pistol_SemiAuto_C_Ore_T00",
       "attributes": {
         "alteration_slots": [
           {
@@ -12069,8 +12069,8 @@
       },
       "quantity": 1
     },
-    "wid_sniper_amr_r_ore_t01": {
-      "templateId": "Schematic:sid_sniper_amr_r_ore_t01",
+    "WID_Sniper_AMR_R_Ore_T01": {
+      "templateId": "Schematic:SID_Sniper_AMR_R_Ore_T01",
       "attributes": {
         "alteration_slots": [
           {
@@ -12095,8 +12095,8 @@
       },
       "quantity": 1
     },
-    "wid_assault_auto_sr_crystal_t06": {
-      "templateId": "Schematic:sid_assault_auto_sr_crystal_t06",
+    "WID_Assault_Auto_SR_Crystal_T06": {
+      "templateId": "Schematic:SID_Assault_Auto_SR_Crystal_T06",
       "attributes": {
         "alteration_slots": [
           {
@@ -12121,8 +12121,8 @@
       },
       "quantity": 1
     },
-    "wid_harvest_pickaxe_athena_c_t01": {
-      "templateId": "Schematic:sid_harvest_pickaxe_athena_c_t01",
+    "WID_Harvest_Pickaxe_Athena_C_T01": {
+      "templateId": "Schematic:SID_Harvest_Pickaxe_Athena_C_T01",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -12132,8 +12132,8 @@
       },
       "quantity": 1
     },
-    "ammodatarockets": {
-      "templateId": "Schematic:sid_ammodatarockets",
+    "AmmoDataRockets": {
+      "templateId": "Schematic:SID_AmmoDataRockets",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -12176,8 +12176,8 @@
       },
       "quantity": 1
     },
-    "wid_sniper_tripleshot_athena_sr_ore_t03": {
-      "templateId": "Schematic:sid_sniper_tripleshot_athena_sr_ore_t03",
+    "WID_Sniper_TripleShot_Athena_SR_Ore_T03": {
+      "templateId": "Schematic:SID_Sniper_TripleShot_Athena_SR_Ore_T03",
       "attributes": {
         "max_level_bonus": 0,
         "level": 20,
@@ -12349,8 +12349,8 @@
       },
       "quantity": 1
     },
-    "tid_ceiling_electric_single_c_t01": {
-      "templateId": "Schematic:sid_ceiling_electric_single_c_t01",
+    "TID_Ceiling_Electric_Single_C_T01": {
+      "templateId": "Schematic:SID_Ceiling_Electric_Single_C_T01",
       "attributes": {
         "alteration_slots": [
           {
@@ -12430,8 +12430,8 @@
       },
       "quantity": 1
     },
-    "wid_pistol_boltrevolver_uc_ore_t01": {
-      "templateId": "Schematic:sid_pistol_boltrevolver_uc_ore_t01",
+    "WID_Pistol_BoltRevolver_UC_Ore_T01": {
+      "templateId": "Schematic:SID_Pistol_BoltRevolver_UC_Ore_T01",
       "attributes": {
         "alteration_slots": [
           {
@@ -12706,8 +12706,8 @@
       },
       "quantity": 1
     },
-    "wid_edged_scythe_c_ore_t01": {
-      "templateId": "Schematic:sid_edged_scythe_c_ore_t01",
+    "WID_Edged_Scythe_C_Ore_T01": {
+      "templateId": "Schematic:SID_Edged_Scythe_C_Ore_T01",
       "attributes": {
         "alteration_slots": [
           {
@@ -12842,8 +12842,8 @@
       },
       "quantity": 1
     },
-    "wid_shotgun_auto_uc_ore_t01": {
-      "templateId": "Schematic:sid_shotgun_auto_uc_ore_t01",
+    "WID_Shotgun_Auto_UC_Ore_T01": {
+      "templateId": "Schematic:SID_Shotgun_Auto_UC_Ore_T01",
       "attributes": {
         "alteration_slots": [
           {
@@ -12896,8 +12896,8 @@
       },
       "quantity": 1
     },
-    "wid_shotgun_tactical_precision_r_ore_t01": {
-      "templateId": "Schematic:sid_shotgun_tactical_precision_r_ore_t01",
+    "WID_Shotgun_Tactical_Precision_R_Ore_T01": {
+      "templateId": "Schematic:SID_Shotgun_Tactical_Precision_R_Ore_T01",
       "attributes": {
         "alteration_slots": [
           {
@@ -12922,8 +12922,8 @@
       },
       "quantity": 1
     },
-    "tid_floor_health_c_t00": {
-      "templateId": "Schematic:sid_floor_health_c_t00",
+    "TID_Floor_Health_C_T00": {
+      "templateId": "Schematic:SID_Floor_Health_C_T00",
       "attributes": {
         "alteration_slots": [
           {
@@ -12944,8 +12944,8 @@
       },
       "quantity": 1
     },
-    "wid_assault_burst_r_ore_t01": {
-      "templateId": "Schematic:sid_assault_burst_r_ore_t01",
+    "WID_Assault_Burst_R_Ore_T01": {
+      "templateId": "Schematic:SID_Assault_Burst_R_Ore_T01",
       "attributes": {
         "alteration_slots": [
           {
@@ -12977,8 +12977,8 @@
       },
       "quantity": 1
     },
-    "wid_blunt_light_bat_r_ore_t01": {
-      "templateId": "Schematic:sid_blunt_light_bat_r_ore_t01",
+    "WID_Blunt_Light_Bat_R_Ore_T01": {
+      "templateId": "Schematic:SID_Blunt_Light_Bat_R_Ore_T01",
       "attributes": {
         "alteration_slots": [
           {
@@ -13069,8 +13069,8 @@
       },
       "quantity": 1
     },
-    "wid_blunt_light_r_ore_t01": {
-      "templateId": "Schematic:sid_blunt_light_r_ore_t01",
+    "WID_Blunt_Light_R_Ore_T01": {
+      "templateId": "Schematic:SID_Blunt_Light_R_Ore_T01",
       "attributes": {
         "alteration_slots": [
           {
@@ -13151,8 +13151,8 @@
       },
       "quantity": 1
     },
-    "wid_edged_sword_medium_c_ore_t00": {
-      "templateId": "Schematic:sid_edged_sword_medium_c_ore_t00",
+    "WID_Edged_Sword_Medium_C_Ore_T00": {
+      "templateId": "Schematic:SID_Edged_Sword_Medium_C_Ore_T00",
       "attributes": {
         "alteration_slots": [
           {
@@ -13282,8 +13282,8 @@
       },
       "quantity": 1
     },
-    "wid_assault_burst_uc_ore_t01": {
-      "templateId": "Schematic:sid_assault_burst_uc_ore_t01",
+    "WID_Assault_Burst_UC_Ore_T01": {
+      "templateId": "Schematic:SID_Assault_Burst_UC_Ore_T01",
       "attributes": {
         "alteration_slots": [
           {
@@ -13322,8 +13322,8 @@
       },
       "quantity": 1
     },
-    "wid_piercing_spear_uc_ore_t01": {
-      "templateId": "Schematic:sid_piercing_spear_uc_ore_t01",
+    "WID_Piercing_Spear_UC_Ore_T01": {
+      "templateId": "Schematic:SID_Piercing_Spear_UC_Ore_T01",
       "attributes": {
         "alteration_slots": [
           {
@@ -13354,8 +13354,8 @@
       },
       "quantity": 1
     },
-    "wid_blunt_medium_uc_ore_t01": {
-      "templateId": "Schematic:sid_blunt_medium_uc_ore_t01",
+    "WID_Blunt_Medium_UC_Ore_T01": {
+      "templateId": "Schematic:SID_Blunt_Medium_UC_Ore_T01",
       "attributes": {
         "alteration_slots": [
           {
@@ -13379,8 +13379,8 @@
       },
       "quantity": 1
     },
-    "wid_sniper_boltaction_scope_r_ore_t01": {
-      "templateId": "Schematic:sid_sniper_boltaction_scope_r_ore_t01",
+    "WID_Sniper_BoltAction_Scope_R_Ore_T01": {
+      "templateId": "Schematic:SID_Sniper_BoltAction_Scope_R_Ore_T01",
       "attributes": {
         "alteration_slots": [
           {
@@ -13448,8 +13448,8 @@
       },
       "quantity": 1
     },
-    "wid_edged_scythe_c_ore_t01": {
-      "templateId": "Schematic:sid_edged_scythe_c_ore_t01",
+    "WID_Edged_Scythe_C_Ore_T01": {
+      "templateId": "Schematic:SID_Edged_Scythe_C_Ore_T01",
       "attributes": {
         "alteration_slots": [
           {
@@ -13565,7 +13565,7 @@
       },
       "quantity": 1
     },
-    "tid_floor_spikes_wood_c_t01": {
+    "TID_Floor_Spikes_Wood_C_T01": {
       "templateId": "Schematic:sid_floor_spikes_wood_c_t01",
       "attributes": {
         "alteration_slots": [
@@ -13608,8 +13608,8 @@
       },
       "quantity": 1
     },
-    "tid_wall_darts_uc_t01": {
-      "templateId": "Schematic:sid_wall_darts_uc_t01",
+    "TID_Wall_Darts_UC_T01": {
+      "templateId": "Schematic:SID_Wall_Darts_UC_T01",
       "attributes": {
         "alteration_slots": [
           {
@@ -13806,8 +13806,8 @@
       },
       "quantity": 1
     },
-    "wid_assault_auto_c_ore_t00": {
-      "templateId": "Schematic:sid_assault_auto_c_ore_t00",
+    "WID_Assault_Auto_C_Ore_T00": {
+      "templateId": "Schematic:SID_Assault_Auto_C_Ore_T00",
       "attributes": {
         "alteration_slots": [
           {
