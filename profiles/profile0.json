@@ -59,7 +59,7 @@
       "quantity": 1
     },
     "Dowodca": {
-      "templateId": "Hero:HID_Commando_GrenadeGun_SR_T05",
+      "templateId": "Hero:HID_Outlander_ZoneHarvestHW_SR_T05",
       "attributes": {
         "equipped_cosmetics": [
           "",
@@ -98,7 +98,7 @@
       "quantity": 1
     },
     "Wsparcie1": {
-      "templateId": "Hero:HID_Commando_014_Wukong_SR_T05",
+      "templateId": "Hero:HID_Outlander_ZoneHarvestHW_SR_T05",
       "attributes": {
         "equipped_cosmetics": [
           "",
