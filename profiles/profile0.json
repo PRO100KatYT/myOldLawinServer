@@ -12631,6 +12631,516 @@
       },
       "quantity": 1
     },
+    "QuestBurzowaDeskogrod1": {
+      "templateId": "Quest:OutpostQuest_T2_L1",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T21:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_2_1": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaDeskogrod2": {
+      "templateId": "Quest:OutpostQuest_T2_L2",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T21:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_2_2": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaDeskogrod3": {
+      "templateId": "Quest:OutpostQuest_T2_L3",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T21:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_2_3": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaDeskogrod4": {
+      "templateId": "Quest:OutpostQuest_T2_L4",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T21:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_2_4": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaDeskogrod5": {
+      "templateId": "Quest:OutpostQuest_T2_L5",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T21:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_2_5": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaDeskogrod6": {
+      "templateId": "Quest:OutpostQuest_T2_L6",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T21:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_2_6": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaDeskogrod7": {
+      "templateId": "Quest:OutpostQuest_T2_L7",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T21:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_2_7": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaDeskogrod8": {
+      "templateId": "Quest:OutpostQuest_T2_L8",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T21:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_2_8": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaDeskogrod9": {
+      "templateId": "Quest:OutpostQuest_T2_L9",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T21:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_2_9": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaDeskogrod10": {
+      "templateId": "Quest:OutpostQuest_T2_L10",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T21:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_2_10": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaDolina1": {
+      "templateId": "Quest:OutpostQuest_T3_L1",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T31:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_3_1": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaDolina2": {
+      "templateId": "Quest:OutpostQuest_T3_L2",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T31:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_3_2": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaDolina3": {
+      "templateId": "Quest:OutpostQuest_T3_L3",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T31:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_3_3": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaDolina4": {
+      "templateId": "Quest:OutpostQuest_T3_L4",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T31:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_3_4": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaDolina5": {
+      "templateId": "Quest:OutpostQuest_T3_L5",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T31:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_3_5": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaDolina6": {
+      "templateId": "Quest:OutpostQuest_T3_L6",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T31:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_3_6": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaDolina7": {
+      "templateId": "Quest:OutpostQuest_T3_L7",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T31:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_3_7": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaDolina8": {
+      "templateId": "Quest:OutpostQuest_T3_L8",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T31:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_3_8": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaDolina9": {
+      "templateId": "Quest:OutpostQuest_T3_L9",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T31:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_3_9": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaDolina10": {
+      "templateId": "Quest:OutpostQuest_T3_L10",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T31:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_3_10": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaTwine1": {
+      "templateId": "Quest:OutpostQuest_T4_L1",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T41:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_4_1": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaTwine2": {
+      "templateId": "Quest:OutpostQuest_T4_L2",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T41:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_4_2": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaTwine3": {
+      "templateId": "Quest:OutpostQuest_T4_L3",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T41:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_4_3": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaTwine4": {
+      "templateId": "Quest:OutpostQuest_T4_L4",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T41:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_4_4": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaTwine5": {
+      "templateId": "Quest:OutpostQuest_T4_L5",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T41:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_4_5": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaTwine6": {
+      "templateId": "Quest:OutpostQuest_T4_L6",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T41:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_4_6": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaTwine7": {
+      "templateId": "Quest:OutpostQuest_T4_L7",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T41:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_4_7": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaTwine8": {
+      "templateId": "Quest:OutpostQuest_T4_L8",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T41:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_4_8": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaTwine9": {
+      "templateId": "Quest:OutpostQuest_T4_L9",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T41:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_4_9": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaTwine10": {
+      "templateId": "Quest:OutpostQuest_T4_L10",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T41:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_4_10": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
     "a4ded5dd-b011-4f64-b5ba-3f76b0471490": {
       "templateId": "Schematic:ingredient_blastpowder",
       "attributes": {
