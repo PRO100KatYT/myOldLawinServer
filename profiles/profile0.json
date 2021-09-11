@@ -182,90 +182,6 @@
       },
       "quantity": 3
     },
-    "QuestSiodmaBurzowkaKamiennyLas": {
-      "templateId": "Quest:OutpostQuest_T1_L7",
-      "attributes": {
-        "level": -1,
-        "item_seen": true,
-        "sent_new_notification": true,
-        "challenge_bundle_id": "",
-        "xp_reward_scalar": 1,
-        "challenge_linked_quest_given": "",
-        "quest_pool": "",
-        "quest_state": "Claimed",
-        "last_state_change_time": "2020-01-17T12:16:44.924Z",
-        "challenge_linked_quest_parent": "",
-        "completion_questcomplete_plankertonquest_launchrocket_d5": 1,
-        "max_level_bonus": 0,
-        "selection": -1,
-        "xp": 0,
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "QuestSiodmaBurzowkaDeskogrod": {
-      "templateId": "Quest:OutpostQuest_T2_L7",
-      "attributes": {
-        "level": -1,
-        "item_seen": true,
-        "sent_new_notification": true,
-        "challenge_bundle_id": "",
-        "xp_reward_scalar": 1,
-        "challenge_linked_quest_given": "",
-        "quest_pool": "",
-        "quest_state": "Claimed",
-        "last_state_change_time": "2020-01-17T12:16:44.924Z",
-        "challenge_linked_quest_parent": "",
-        "completion_questcomplete_plankertonquest_launchrocket_d5": 1,
-        "max_level_bonus": 0,
-        "selection": -1,
-        "xp": 0,
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "QuestSiodmaBurzowkaDolinaSamowitosci": {
-      "templateId": "Quest:OutpostQuest_T3_L7",
-      "attributes": {
-        "level": -1,
-        "item_seen": true,
-        "sent_new_notification": true,
-        "challenge_bundle_id": "",
-        "xp_reward_scalar": 1,
-        "challenge_linked_quest_given": "",
-        "quest_pool": "",
-        "quest_state": "Claimed",
-        "last_state_change_time": "2020-01-17T12:16:44.924Z",
-        "challenge_linked_quest_parent": "",
-        "completion_questcomplete_plankertonquest_launchrocket_d5": 1,
-        "max_level_bonus": 0,
-        "selection": -1,
-        "xp": 0,
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "QuestSiodmaBurzowkaTwinePeaks": {
-      "templateId": "Quest:OutpostQuest_T4_L7",
-      "attributes": {
-        "level": -1,
-        "item_seen": true,
-        "sent_new_notification": true,
-        "challenge_bundle_id": "",
-        "xp_reward_scalar": 1,
-        "challenge_linked_quest_given": "",
-        "quest_pool": "",
-        "quest_state": "Claimed",
-        "last_state_change_time": "2020-01-17T12:16:44.924Z",
-        "challenge_linked_quest_parent": "",
-        "completion_questcomplete_plankertonquest_launchrocket_d5": 1,
-        "max_level_bonus": 0,
-        "selection": -1,
-        "xp": 0,
-        "favorite": false
-      },
-      "quantity": 1
-    },
     "QuestRakietaKamiennyLas": {
       "templateId": "Quest:StonewoodQuest_LaunchRocket_D5",
       "attributes": {
@@ -12503,36 +12419,6 @@
       },
       "quantity": 1
     },
-    "391ed81f-9fb6-438f-94fe-fc4f2413f11c": {
-      "templateId": "Quest:outpostquest_t1_l2",
-      "attributes": {
-        "quest_state": "Claimed",
-        "last_state_change_time": "2017-08-31T15:02:00.477Z",
-        "max_level_bonus": 0,
-        "level": -1,
-        "item_seen": true,
-        "xp": 0,
-        "completion_complete_outpost_1_2": 1,
-        "sent_new_notification": true,
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "39faa81f-9fb6-438f-94fe-fc4f2413f11c": {
-      "templateId": "Quest:outpostquest_t1_l3",
-      "attributes": {
-        "quest_state": "Claimed",
-        "last_state_change_time": "2017-08-31T15:02:00.477Z",
-        "max_level_bonus": 0,
-        "level": -1,
-        "item_seen": true,
-        "xp": 0,
-        "completion_complete_outpost_1_3": 1,
-        "sent_new_notification": true,
-        "favorite": false
-      },
-      "quantity": 1
-    },
     "90f1579a-64fa-4b9d-8bf8-1a4d2a0ca61b": {
       "templateId": "HomebaseBannerIcon:standardbanner27",
       "attributes": {
@@ -12575,8 +12461,8 @@
       },
       "quantity": 1
     },
-    "d566752a-1910-460c-9c71-0b389ec635ed": {
-      "templateId": "Quest:outpostquest_t1_l1",
+    "QuestBurzowaKamienny1": {
+      "templateId": "Quest:OutpostQuest_T1_L1",
       "attributes": {
         "quest_state": "Claimed",
         "last_state_change_time": "2017-08-29T21:18:18.955Z",
@@ -12584,6 +12470,159 @@
         "level": -1,
         "completion_custom_supplydropreceived": 1,
         "completion_complete_outpost_1_1": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaKamienny2": {
+      "templateId": "Quest:OutpostQuest_T1_L2",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T21:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_1_2": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaKamienny3": {
+      "templateId": "Quest:OutpostQuest_T1_L3",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T21:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_1_3": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaKamienny4": {
+      "templateId": "Quest:OutpostQuest_T1_L4",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T21:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_1_4": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaKamienny5": {
+      "templateId": "Quest:OutpostQuest_T1_L5",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T21:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_1_5": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaKamienny6": {
+      "templateId": "Quest:OutpostQuest_T1_L6",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T21:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_1_6": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaKamienny7": {
+      "templateId": "Quest:OutpostQuest_T1_L7",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T21:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_1_7": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaKamienny8": {
+      "templateId": "Quest:OutpostQuest_T1_L8",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T21:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_1_8": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaKamienny9": {
+      "templateId": "Quest:OutpostQuest_T1_L9",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T21:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_1_9": 1,
+        "item_seen": true,
+        "xp": 0,
+        "sent_new_notification": true,
+        "completion_custom_deployoutpost": 1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "QuestBurzowaKamienny10": {
+      "templateId": "Quest:OutpostQuest_T1_L10",
+      "attributes": {
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T21:18:18.955Z",
+        "max_level_bonus": 0,
+        "level": -1,
+        "completion_custom_supplydropreceived": 1,
+        "completion_complete_outpost_1_10": 1,
         "item_seen": true,
         "xp": 0,
         "sent_new_notification": true,
