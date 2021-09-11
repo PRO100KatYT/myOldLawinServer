@@ -1303,7 +1303,8 @@ express.post("/account/api/oauth/token", async (req, res) => {
 				seasonchecker(req, seasondata);
 				profile.stats.attributes.season_num = seasondata.season;
 			}
-			profile.items[req.body.characterId].attributes. _id = req.body.squadId || "";
+			profile.items[req.body.characterId].attributes. squad_id = req.body.squadId || "";
+			profile.items[req.body.characterId].attributes. squad_slot_idx = req.body.squadIdx || "";
 			profile.rvn += 1;
 			profile.commandRevision += 1;
 			fs.writeFile(`./profiles/${req.query.profileId || "profile0"}.json`, JSON.stringify(profile, null, 2), function(err) {
