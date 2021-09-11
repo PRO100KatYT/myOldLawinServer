@@ -12219,8 +12219,8 @@
       },
       "quantity": 1
     },
-    "f0a7e3bd-9987-4566-b12b-bd4ab0479f39": {
-      "templateId": "AccountResource:reagent_c_t01",
+    "CzystaKroplaDeszczu": {
+      "templateId": "AccountResource:Reagent_C_T01",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -12228,7 +12228,18 @@
         "xp": 0,
         "favorite": false
       },
-      "quantity": 1
+      "quantity": 1000
+    },
+    "ProjektyBroni": {
+      "templateId": "AccountResource:Reagent_Weapons",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1000
     },
     "199c8fd1-d204-4268-9320-0875931ee389": {
       "templateId": "HomebaseBannerColor:defaultcolor2",
