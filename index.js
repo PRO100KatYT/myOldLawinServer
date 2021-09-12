@@ -1303,11 +1303,24 @@ express.post("/account/api/oauth/token", async (req, res) => {
 				seasonchecker(req, seasondata);
 				profile.stats.attributes.season_num = seasondata.season;
 			}
+			var Dowodca = "Dowodca";
+			var OldCharacterID = profile.items[Dowodca].templateId;
+			console.log(OldCharacterID);
+			//profile.items[OldCharacterID].attributes. squad_id = 0 || "";
+			//profile.items[OldCharacterID].attributes. squad_slot_idx = 0 || "";
 			profile.items[req.body.characterId].attributes. squad_id = req.body.squadId || "";
 			profile.items[req.body.characterId].attributes. squad_slot_idx = req.body.slotIndex || "";
+			//profile.items[Dowodca]. templateId = req.body.characterId || "";
 			profile.rvn += 1;
 			profile.commandRevision += 1;
 			fs.writeFile(`./profiles/${req.query.profileId || "profile0"}.json`, JSON.stringify(profile, null, 2), function(err) {
+				if (err) 
+				{ 
+					console.log('error:', err) 
+				};
+			  });
+			previoursquadid0.items["Dowodca"]. templateId = req.body.characterId || "";
+			fs.writeFile("./profiles/previoursquadid0.json", JSON.stringify(previoursquadid0, null, 2), function(err) {
 				if (err) 
 				{ 
 					console.log('error:', err) 

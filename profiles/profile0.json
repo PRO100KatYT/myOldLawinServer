@@ -2,12 +2,51 @@
   "_id": "faefefcfdaad4eae8aed65c3139376f8",
   "created": "2017-08-29T20:38:59.824Z",
   "updated": "2017-12-25T02:08:43.518Z",
-  "rvn": 1162,
+  "rvn": 1163,
   "wipeNumber": 9,
   "accountId": "b810c129520946d6801a58bb9d5859fc",
   "profileId": "profile0",
   "version": "grant_collectionbook_lvl_100_reward_change_dec_2017",
   "items": {
+    "Dowodca": {
+      "templateId": "HID_Constructor_HammerTank_R_T04",
+      "attributes": {
+        "equipped_cosmetics": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [
+          {
+            "loadoutName": "Default",
+            "selectedGadgets": [
+              "Schematic:sid_assault_auto_sr_crystal_t06",
+              "Gadget:g_commando_goincommando",
+              "Gadget:g_commando_fraggrenade",
+              "Gadget:gadget_generic_turret"
+            ]
+          }
+        ],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": true
+      },
+      "quantity": 1
+    },
     "BurzowaTwine": {
       "templateId": "Outpost:OutpostCore_PvE_04",
       "attributes": {
@@ -13940,37 +13979,6 @@
       },
       "quantity": 1
     },
-    "WID_Edged_Scythe_C_Ore_T01": {
-      "templateId": "Schematic:SID_Edged_Scythe_C_Ore_T01",
-      "attributes": {
-        "alteration_slots": [
-          {
-            "Type": "GameplaySlot",
-            "NumSlots": 1
-          },
-          {
-            "Type": "AttributeSlot",
-            "NumSlots": 1
-          }
-        ],
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "alterations": [
-          "Alteration:aid_att_melee_damage"
-        ],
-        "xp": 0,
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "a91c7a09-0462-40ce-aaa9-fa27e1b35d07": {
-      "templateId": "HomebaseNode:trtrunk_1_0",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
     "bb5e6cc5-8083-412e-a391-3b434462f4a6": {
       "templateId": "Token:campaignaccess",
       "attributes": {
@@ -20569,7 +20577,7 @@
       "daily_rewards": {
         "nextDefaultReward": 76,
         "totalDaysLoggedIn": 76,
-        "lastClaimDate": "2021-09-09T14:29:17.291Z",
+        "lastClaimDate": "2021-09-12T14:12:31.877Z",
         "additionalSchedules": {
           "founderspackdailyrewardtoken": {
             "rewardsClaimed": 76,
@@ -20589,5 +20597,5 @@
       "packs_granted": 13
     }
   },
-  "commandRevision": 945
+  "commandRevision": 946
 }
