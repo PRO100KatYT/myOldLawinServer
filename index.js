@@ -1382,6 +1382,107 @@ express.post("/account/api/oauth/token", async (req, res) => {
 			res.end();
 		});
 		
+		express.post("/fortnite/api/game/v2/profile/*/client/usuntojeslichcesztegouzyc/ConvertItem", async (req, res) => {
+			if (req.headers["user-agent"].includes("Mozilla")) {
+				return res
+				.status(405)
+				.json(
+					{
+						"errorCode":"errors.com.epicgames.common.method_not_allowed",
+						"errorMessage":"Sorry the resource you were trying to access cannot be accessed with the HTTP method you used.",
+						"numericErrorCode":1009,
+						"originatingService":"fortnite",
+						"intent":"prod-live"
+					})
+				}
+			const profile = require(`./profiles/${req.query.profileId || "profile0"}.json`);
+			if (profile.profileId == "athena") {
+				const seasonchecker = require("./seasonchecker.js");
+				const seasondata = require("./season.json");
+				seasonchecker(req, seasondata);
+				profile.stats.attributes.season_num = seasondata.season;
+			}
+			var Rzecz = req.body.targetItemId;
+			if (Rzecz.includes("T01")) {
+				var NowaRzecz = Rzecz.replace("T01", "T02")
+			}
+			if (Rzecz.includes("T02")) {
+				var NowaRzecz = Rzecz.replace("T02", "T03")
+			}
+			if (Rzecz.includes("T03")) {
+				var NowaRzecz = Rzecz.replace("T03", "T04")
+			}
+			if (Rzecz.includes("T04")) {
+				var NowaRzecz = Rzecz.replace("T04", "T05")
+			}
+			var TemplejtID = profile.items[req.body.targetItemId].templateId;
+			var OldSID = Rzecz.replace("WID", "SID")
+			var NewSID = NowaRzecz.replace("WID", "SID")
+			var OfficialTemplateID = TemplejtID.replace(OldSID, NewSID)
+			profile.items[req.body.targetItemId]. templateId = OfficialTemplateID || "";
+			profile.items[req.body.targetItemId].attributes. level += 1 || "";
+			profile.rvn += 1;
+			profile.commandRevision += 1;
+			fs.writeFile(`./profiles/${req.query.profileId || "profile0"}.json`, JSON.stringify(profile, null, 2), function(err) {
+				if (err) 
+				{ 
+					console.log('error:', err) 
+				};
+			  });
+			res.json(
+				{
+					"profileRevision": profile.rvn || 1,
+					"profileId": req.query.profileId || "profile0",
+					"profileChangesBaseRevision": profile.rvn || 1,
+					"profileChanges": [
+						{
+							"changeType": "fullProfileUpdate",
+							"profile": profile
+						}
+					],
+					"profileCommandRevision": profile.commandRevision || 0,
+					"serverTime": new Date().toISOString(),
+					"responseVersion": 1
+				}
+			)
+			res.status(200);
+			res.end();
+		});
+		
+		express.post("/fortnite/api/game/v2/profile/*/client/ConvertItem", async (req, res) => {
+			if (req.headers["user-agent"].includes("Mozilla")) {
+				return res
+				.status(405)
+				.json(
+					{
+						"errorCode":"errors.com.epicgames.common.method_not_allowed",
+						"errorMessage":"Sorry the resource you were trying to access cannot be accessed with the HTTP method you used.",
+						"numericErrorCode":1009,
+						"originatingService":"fortnite",
+						"intent":"prod-live"
+					})
+				}
+			const profile = require(`./profiles/${req.query.profileId || "profile0"}.json`);
+			if (profile.profileId == "athena") {
+				const seasonchecker = require("./seasonchecker.js");
+				const seasondata = require("./season.json");
+				seasonchecker(req, seasondata);
+				profile.stats.attributes.season_num = seasondata.season;
+			}
+			return res
+				.status(405)
+				.json(
+					{
+						"errorCode":"Niestety, ale ze względów technicznych nie możesz ewoluować rzeczy",
+						"errorMessage":"Niestety nie mozesz ewoluowac rzeczy.",
+						"numericErrorCode":69,
+						"originatingService":"fortnite",
+						"intent":"prod-live"
+					})
+			res.status(200);
+			res.end();
+		});
+		
 		express.post("/fortnite/api/game/v2/profile/*/client/SetItemFavoriteStatus", async (req, res) => {
 			if (req.headers["user-agent"].includes("Mozilla")) {
 				return res
@@ -1429,6 +1530,60 @@ express.post("/account/api/oauth/token", async (req, res) => {
 			)
 			res.status(200);
 			res.end();
+		});
+		
+		express.post("/fortnite/api/game/v2/profile/*/client/PurchaseCatalogEntry", async (req, res) => {
+			if (req.headers["user-agent"].includes("Mozilla")) {
+				return res
+				.status(405)
+				.json(
+					{
+						"errorCode":"errors.com.epicgames.common.method_not_allowed",
+						"errorMessage":"Sorry the resource you were trying to access cannot be accessed with the HTTP method you used.",
+						"numericErrorCode":1009,
+						"originatingService":"fortnite",
+						"intent":"prod-live"
+					})
+				}
+			const profile = require(`./profiles/${req.query.profileId || "profile0"}.json`);
+			if (profile.profileId == "athena") {
+				const seasonchecker = require("./seasonchecker.js");
+				const seasondata = require("./season.json");
+				seasonchecker(req, seasondata);
+				profile.stats.attributes.season_num = seasondata.season;
+			}
+			var Currency = req.body.currency;
+			var CurrencySubType = req.body.currencySubType
+			if (Currency.includes("MtxCurrency"))
+			{
+				return res
+				.status(405)
+				.json(
+					{
+						"errorCode":"Niestety nie możesz kupować lam",
+						"errorMessage":"Niestety nie możesz kupować lam.",
+						"numericErrorCode":69,
+						"originatingService":"fortnite",
+						"intent":"prod-live"
+					})
+			res.status(200);
+			res.end();
+			}
+			if (CurrencySubType.includes("voucher.basicpack"))
+			{
+				return res
+				.status(405)
+				.json(
+					{
+						"errorCode":"Niestety nie możesz kupować lam",
+						"errorMessage":"Niestety nie możesz kupować lam.",
+						"numericErrorCode":69,
+						"originatingService":"fortnite",
+						"intent":"prod-live"
+					})
+			res.status(200);
+			res.end();
+			}
 		});
 
 	express.post("/fortnite/api/game/v2/profile/*/client/ClaimQuestReward", async (req, res) => {
