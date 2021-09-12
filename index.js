@@ -1336,6 +1336,9 @@ express.post("/account/api/oauth/token", async (req, res) => {
 			if (req.body.squadId == "" && req.body.slotIndex == "0") {
 				profile.items[req.body.characterId].attributes. squad_id = req.body.squadId || "";
 				profile.items[req.body.characterId].attributes. squad_slot_idx = req.body.slotIndex || "";
+			} else {
+				profile.items[req.body.characterId].attributes. squad_id = req.body.squadId || "";
+				profile.items[req.body.characterId].attributes. squad_slot_idx = req.body.slotIndex || "";
 			}
 			profile.rvn += 1;
 			profile.commandRevision += 1;
