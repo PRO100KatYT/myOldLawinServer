@@ -457,17 +457,17 @@ express.get("/account/api/public/account/:accountId", async (req, res) => {
 	res.json(
 	{
 		"id": req.params.accountId,
-		"displayName": req.params.accountId,
+		"displayName": "PRO100KatYT",
 		"name": "Lawin",
-		"email": req.params.accountId + "@lawin.com",
+		"email": req.params.accountId + "@gmail.com",
 		"failedLoginAttempts": 0,
 		"lastLogin": new Date().toISOString(),
 		"numberOfDisplayNameChanges": 0,
 		"ageGroup": "UNKNOWN",
 		"headless": false,
-		"country": "US",
-		"lastName": "Server",
-		"preferredLanguage": "en",
+		"country": "PL",
+		"lastName": "PRO100KatYT",
+		"preferredLanguage": "pl",
 		"canUpdateDisplayName": false,
 		"tfaEnabled": false,
 		"emailVerified": true,
@@ -1368,6 +1368,56 @@ express.post("/account/api/oauth/token", async (req, res) => {
 			res.end();
 		});
 		
+		express.post("/fortnite/api/game/v2/profile/*/client/UpdateQuestClientObjectives", async (req, res) => {
+			if (req.headers["user-agent"].includes("Mozilla")) {
+				return res
+				.status(405)
+				.json(
+					{
+						"errorCode":"errors.com.epicgames.common.method_not_allowed",
+						"errorMessage":"Sorry the resource you were trying to access cannot be accessed with the HTTP method you used.",
+						"numericErrorCode":1009,
+						"originatingService":"fortnite",
+						"intent":"prod-live"
+					})
+				}
+			const profile = require(`./profiles/${req.query.profileId || "profile0"}.json`);
+			if (profile.profileId == "athena") {
+				const seasonchecker = require("./seasonchecker.js");
+				const seasondata = require("./season.json");
+				seasonchecker(req, seasondata);
+				profile.stats.attributes.season_num = seasondata.season;
+			}
+			var Questhomebaseonboarding = "7bfbc8f3-83ac-4ec7-88a2-b293526e0536";
+			profile.items[Questhomebaseonboarding].attributes.completion_hbonboarding_watchsatellitecine == 1;
+			profile.rvn += 1;
+			profile.commandRevision += 1;
+			fs.writeFile(`./profiles/${req.query.profileId || "profile0"}.json`, JSON.stringify(profile, null, 2), function(err) {
+				if (err) 
+				{ 
+					console.log('error:', err) 
+				};
+			  });
+			res.json(
+				{
+					"profileRevision": profile.rvn || 1,
+					"profileId": req.query.profileId || "profile0",
+					"profileChangesBaseRevision": profile.rvn || 1,
+					"profileChanges": [
+						{
+							"changeType": "fullProfileUpdate",
+							"profile": profile
+						}
+					],
+					"profileCommandRevision": profile.commandRevision || 0,
+					"serverTime": new Date().toISOString(),
+					"responseVersion": 1
+				}
+			)
+			res.status(200);
+			res.end();
+		});
+		
 		express.post("/fortnite/api/game/v2/profile/*/client/UpgradeItem", async (req, res) => {
 			if (req.headers["user-agent"].includes("Mozilla")) {
 				return res
@@ -1437,30 +1487,42 @@ express.post("/account/api/oauth/token", async (req, res) => {
 				seasonchecker(req, seasondata);
 				profile.stats.attributes.season_num = seasondata.season;
 			}
-			var Rzecz = profile.items[req.body.targetItemId].templateId;
-			if (Rzecz.includes("T01")) {
-				var NowaRzecz = Rzecz.replace("T01", "T02")
+			if (req.body.targetItemId != "WID_Assault_Auto_SR_Ore_T01") {
+				return res
+				.status(420)
+				.json(
+					{
+						"errorCode":"\n\nZe względów technicznych, jedyne rzeczy, które możesz ewoluować to:\n- Legendarny Schemat: Machina Oblężnicza",
+						"numericErrorCode":69,
+						"originatingService":"chujekjebany",
+						"intent":"prod-live"
+					})
+				} else {
+				var Rzecz = profile.items[req.body.targetItemId].templateId;
+				if (Rzecz.includes("T01")) {
+					var NowaRzecz = Rzecz.replace("T01", "T02")
+				}
+				if (Rzecz.includes("T02")) {
+					var NowaRzecz = Rzecz.replace("T02", "T03")
+				}
+				if (Rzecz.includes("T03")) {
+					var NowaRzecz = Rzecz.replace("T03", "T04")
+				}
+				if (Rzecz.includes("T04")) {
+					var NowaRzecz = Rzecz.replace("T04", "T05")
+				}
+				var OldSID = Rzecz.replace("WID", "SID")
+				var NewSID = NowaRzecz.replace("WID", "SID")
+				var OfficialTemplateID = Rzecz.replace(OldSID, NewSID)
+				if (req.body.conversionIndex == "1") {
+					OfficialTemplateID = OfficialTemplateID.replace("Ore", "Crystal")
+				}
+				profile.items[req.body.targetItemId]. templateId = OfficialTemplateID || "";
+				profile.items[req.body.targetItemId]. levelSchematu = OfficialTemplateID || "";
+				profile.items[req.body.targetItemId].attributes. level += 1 || "";
+				profile.rvn += 1;
+				profile.commandRevision += 1;
 			}
-			if (Rzecz.includes("T02")) {
-				var NowaRzecz = Rzecz.replace("T02", "T03")
-			}
-			if (Rzecz.includes("T03")) {
-				var NowaRzecz = Rzecz.replace("T03", "T04")
-			}
-			if (Rzecz.includes("T04")) {
-				var NowaRzecz = Rzecz.replace("T04", "T05")
-			}
-			var OldSID = Rzecz.replace("WID", "SID")
-			var NewSID = NowaRzecz.replace("WID", "SID")
-			var OfficialTemplateID = Rzecz.replace(OldSID, NewSID)
-			if (req.body.conversionIndex == "1") {
-				OfficialTemplateID = OfficialTemplateID.replace("Ore", "Crystal")
-			}
-			profile.items[req.body.targetItemId]. templateId = OfficialTemplateID || "";
-			profile.items[req.body.targetItemId]. levelSchematu = OfficialTemplateID || "";
-			profile.items[req.body.targetItemId].attributes. level += 1 || "";
-			profile.rvn += 1;
-			profile.commandRevision += 1;
 			fs.writeFile(`./profiles/${req.query.profileId || "profile0"}.json`, JSON.stringify(profile, null, 2), function(err) {
 				if (err) 
 				{ 

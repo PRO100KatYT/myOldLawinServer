@@ -2,7 +2,7 @@
   "_id": "faefefcfdaad4eae8aed65c3139376f8",
   "created": "2017-08-29T20:38:59.824Z",
   "updated": "2017-12-25T02:08:43.518Z",
-  "rvn": 1163,
+  "rvn": 1164,
   "wipeNumber": 9,
   "accountId": "b810c129520946d6801a58bb9d5859fc",
   "profileId": "profile0",
@@ -11831,10 +11831,10 @@
     "7bfbc8f3-83ac-4ec7-88a2-b293526e0536": {
       "templateId": "Quest:homebaseonboarding",
       "attributes": {
-        "quest_state": "Active",
+        "quest_state": "Claimed",
         "last_state_change_time": "2017-08-29T21:05:57.087Z",
         "max_level_bonus": 0,
-        "completion_hbonboarding_namehomebase": 0,
+        "completion_hbonboarding_namehomebase": 1,
         "level": -1,
         "completion_hbonboarding_completezone": 1,
         "item_seen": true,
@@ -14554,7 +14554,7 @@
       "attributes": {
         "quest_state": "Claimed",
         "last_state_change_time": "2017-08-29T21:19:36.536Z",
-        "max_level_bonus": 0,
+        "max_level_bonus": 1,
         "completion_open_card_pack": 1,
         "level": -1,
         "item_seen": true,
@@ -20707,12 +20707,12 @@
         }
       },
       "daily_rewards": {
-        "nextDefaultReward": 76,
-        "totalDaysLoggedIn": 76,
-        "lastClaimDate": "2021-09-12T14:12:31.877Z",
+        "nextDefaultReward": 77,
+        "totalDaysLoggedIn": 77,
+        "lastClaimDate": "2021-09-13T19:16:52.861Z",
         "additionalSchedules": {
           "founderspackdailyrewardtoken": {
-            "rewardsClaimed": 76,
+            "rewardsClaimed": 77,
             "claimedToday": true
           }
         }
@@ -20729,5 +20729,5 @@
       "packs_granted": 13
     }
   },
-  "commandRevision": 946
+  "commandRevision": 947
 }
