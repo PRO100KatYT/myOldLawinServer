@@ -14652,7 +14652,7 @@
     "f9e2e4b6-58f7-4b31-829d-f5c6c620ffe7": {
       "templateId": "Quest:challenge_collectionbook_1",
       "attributes": {
-        "quest_state": "Active",
+        "quest_state": "Claimed",
         "last_state_change_time": "2017-12-25T02:06:00.508Z",
         "max_level_bonus": 0,
         "level": -1,
@@ -14660,7 +14660,7 @@
         "xp": 0,
         "sent_new_notification": true,
         "favorite": false,
-        "completion_collectionbook_levelup": 1
+        "completion_collectionbook_levelup": 2
       },
       "quantity": 1
     },
