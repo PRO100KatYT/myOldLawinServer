@@ -1437,7 +1437,7 @@ express.post("/account/api/oauth/token", async (req, res) => {
 				seasonchecker(req, seasondata);
 				profile.stats.attributes.season_num = seasondata.season;
 			}
-			var Rzecz = profile.items[req.body.targetItemId].levelSchematu;
+			var Rzecz = profile.items[req.body.targetItemId].templateId;
 			if (Rzecz.includes("T01")) {
 				var NowaRzecz = Rzecz.replace("T01", "T02")
 			}
@@ -1450,10 +1450,9 @@ express.post("/account/api/oauth/token", async (req, res) => {
 			if (Rzecz.includes("T04")) {
 				var NowaRzecz = Rzecz.replace("T04", "T05")
 			}
-			var TemplejtID = profile.items[req.body.targetItemId].templateId;
 			var OldSID = Rzecz.replace("WID", "SID")
 			var NewSID = NowaRzecz.replace("WID", "SID")
-			var OfficialTemplateID = TemplejtID.replace(OldSID, NewSID)
+			var OfficialTemplateID = Rzecz.replace(OldSID, NewSID)
 			if (req.body.conversionIndex == "1") {
 				OfficialTemplateID = OfficialTemplateID.replace("Ore", "Crystal")
 			}
