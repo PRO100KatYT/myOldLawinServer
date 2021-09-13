@@ -19197,7 +19197,7 @@
       "templateId": "Worker:ManagerDoctor_SR_kingsly_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 0,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-ManagerPortrait-SR-Doctor-kingsly.IconDef-ManagerPortrait-SR-Doctor-kingsly",
@@ -19217,7 +19217,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 1,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19237,7 +19237,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 2,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19257,7 +19257,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 3,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19277,7 +19277,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 4,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19297,7 +19297,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 5,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19317,7 +19317,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 6,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19337,7 +19337,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 7,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19357,7 +19357,7 @@
       "templateId": "Worker:ManagerSoldier_SR_malcolm_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 0,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-ManagerPortrait-SR-Soldier-malcolm.IconDef-ManagerPortrait-SR-Soldier-malcolm",
@@ -19377,7 +19377,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 1,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19397,7 +19397,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 2,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19417,7 +19417,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 3,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19437,7 +19437,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 4,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19457,7 +19457,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 5,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19477,7 +19477,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 6,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19497,7 +19497,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 7,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19517,7 +19517,7 @@
       "templateId": "Worker:ManagerGadgeteer_SR_fixer_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 0,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-ManagerPortrait-SR-Gadgeteer-fixer.IconDef-ManagerPortrait-SR-Gadgeteer-fixer",
@@ -19537,7 +19537,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 1,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19557,7 +19557,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 2,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19577,7 +19577,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 3,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19597,7 +19597,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 4,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19617,7 +19617,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 5,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19637,7 +19637,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 6,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19657,7 +19657,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 7,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19677,7 +19677,7 @@
       "templateId": "Worker:ManagerEngineer_SR_countess_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 0,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-ManagerPortrait-SR-Engineer-countess.IconDef-ManagerPortrait-SR-Engineer-countess",
@@ -19697,7 +19697,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 1,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19717,7 +19717,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 2,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19737,7 +19737,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 3,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19757,7 +19757,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 4,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19777,7 +19777,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 5,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19797,7 +19797,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 6,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19817,7 +19817,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 7,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19837,7 +19837,7 @@
       "templateId": "Worker:ManagerTrainer_SR_raider_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 0,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-ManagerPortrait-SR-PersonalTrainer-raider.IconDef-ManagerPortrait-SR-PersonalTrainer-raider",
@@ -19857,7 +19857,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 1,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19877,7 +19877,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 2,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19897,7 +19897,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 3,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19917,7 +19917,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 4,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19937,7 +19937,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 5,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19957,7 +19957,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 6,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19977,7 +19977,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 7,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -19997,7 +19997,7 @@
       "templateId": "Worker:ManagerMartialArtist_SR_dragon_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 0,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-ManagerPortrait-SR-MartialArtist-dragon.IconDef-ManagerPortrait-SR-MartialArtist-dragon",
@@ -20017,7 +20017,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 1,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -20037,7 +20037,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 2,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -20057,7 +20057,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 3,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -20077,7 +20077,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 4,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -20097,7 +20097,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 5,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -20117,7 +20117,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 6,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -20137,7 +20137,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 7,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -20157,7 +20157,7 @@
       "templateId": "Worker:ManagerExplorer_SR_birdie_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 0,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-ManagerPortrait-SR-Explorer-birdie.IconDef-ManagerPortrait-SR-Explorer-birdie",
@@ -20177,7 +20177,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 1,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -20197,7 +20197,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 2,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -20217,7 +20217,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 3,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -20237,7 +20237,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 4,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -20257,7 +20257,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 5,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -20277,7 +20277,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 6,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -20297,7 +20297,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 7,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -20317,7 +20317,7 @@
       "templateId": "Worker:ManagerInventor_SR_frequency_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 0,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-ManagerPortrait-SR-Inventor-frequency.IconDef-ManagerPortrait-SR-Inventor-frequency",
@@ -20337,7 +20337,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 1,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -20357,7 +20357,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 2,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -20377,7 +20377,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 3,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -20397,7 +20397,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 4,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -20417,7 +20417,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 5,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -20437,7 +20437,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 6,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
@@ -20457,7 +20457,7 @@
       "templateId": "Worker:WorkerBasic_SR_T05",
       "attributes": {
         "gender": 0,
-        "level": 50,
+        "level": 60,
         "squad_slot_idx": 7,
         "item_seen": true,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Curious-M01.IconDef-WorkerPortrait-Curious-M01",
