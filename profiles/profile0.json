@@ -11831,10 +11831,10 @@
     "7bfbc8f3-83ac-4ec7-88a2-b293526e0536": {
       "templateId": "Quest:homebaseonboarding",
       "attributes": {
-        "quest_state": "Claimed",
+        "quest_state": "Active",
         "last_state_change_time": "2017-08-29T21:05:57.087Z",
         "max_level_bonus": 0,
-        "completion_hbonboarding_namehomebase": 1,
+        "completion_hbonboarding_namehomebase": 0,
         "level": -1,
         "completion_hbonboarding_completezone": 1,
         "item_seen": true,
