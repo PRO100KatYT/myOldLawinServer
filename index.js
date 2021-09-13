@@ -1417,7 +1417,7 @@ express.post("/account/api/oauth/token", async (req, res) => {
 			res.end();
 		});
 		
-		express.post("/fortnite/api/game/v2/profile/*/client/usuntojeslichcesztegouzyc/ConvertItem", async (req, res) => {
+		express.post("/fortnite/api/game/v2/profile/*/client/ConvertItem", async (req, res) => {
 			if (req.headers["user-agent"].includes("Mozilla")) {
 				return res
 				.status(405)
@@ -1437,7 +1437,7 @@ express.post("/account/api/oauth/token", async (req, res) => {
 				seasonchecker(req, seasondata);
 				profile.stats.attributes.season_num = seasondata.season;
 			}
-			var Rzecz = req.body.targetItemId;
+			var Rzecz = profile.items[req.body.targetItemId].levelSchematu;
 			if (Rzecz.includes("T01")) {
 				var NowaRzecz = Rzecz.replace("T01", "T02")
 			}
@@ -1454,7 +1454,11 @@ express.post("/account/api/oauth/token", async (req, res) => {
 			var OldSID = Rzecz.replace("WID", "SID")
 			var NewSID = NowaRzecz.replace("WID", "SID")
 			var OfficialTemplateID = TemplejtID.replace(OldSID, NewSID)
+			if (req.body.conversionIndex == "1") {
+				OfficialTemplateID = OfficialTemplateID.replace("Ore", "Crystal")
+			}
 			profile.items[req.body.targetItemId]. templateId = OfficialTemplateID || "";
+			profile.items[req.body.targetItemId]. levelSchematu = OfficialTemplateID || "";
 			profile.items[req.body.targetItemId].attributes. level += 1 || "";
 			profile.rvn += 1;
 			profile.commandRevision += 1;
@@ -1484,7 +1488,7 @@ express.post("/account/api/oauth/token", async (req, res) => {
 			res.end();
 		});
 		
-		express.post("/fortnite/api/game/v2/profile/*/client/ConvertItem", async (req, res) => {
+		express.post("/fortnite/api/game/v2/profile/*/client/usuntojeslichcesztegouzyc/ConvertItem", async (req, res) => {
 			if (req.headers["user-agent"].includes("Mozilla")) {
 				return res
 				.status(405)

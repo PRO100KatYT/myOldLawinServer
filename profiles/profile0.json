@@ -11872,12 +11872,13 @@
       },
       "quantity": 1
     },
-    "WID_Assault_Auto_SR_Crystal_T05": {
-      "templateId": "Schematic:SID_Assault_Auto_SR_Crystal_T05",
+    "WID_Assault_Auto_SR_Ore_T01": {
+      "templateId": "Schematic:SID_Assault_Auto_SR_Ore_T01",
+      "levelSchematu": "Schematic:SID_Assault_Auto_SR_Ore_T01",
       "attributes": {
         "last_state_change_time": "2017-08-29T21:05:57.087Z",
         "max_level_bonus": 0,
-        "level": 50,
+        "level": 1,
         "item_seen": true,
         "xp": 0,
         "sent_new_notification": true,
@@ -12358,6 +12359,39 @@
     },
     "CzystaKroplaDeszczu": {
       "templateId": "AccountResource:Reagent_C_T01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1000
+    },
+    "CzystaKroplaDeszczu2": {
+      "templateId": "AccountResource:Reagent_C_T02",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1000
+    },
+    "CzystaKroplaDeszczu3": {
+      "templateId": "AccountResource:Reagent_C_T03",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1000
+    },
+    "CzystaKroplaDeszczu4": {
+      "templateId": "AccountResource:Reagent_C_T04",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
