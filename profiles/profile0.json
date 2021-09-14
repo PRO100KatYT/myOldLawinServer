@@ -11558,6 +11558,17 @@
       },
       "quantity": 1
     },
+    "OutpostTwine": {
+      "templateId": "PersonalVehicle:Outpost:OutpostCore_PvE_04",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
     "73531b8b-8325-43b4-84f2-a2ef9cd62567": {
       "templateId": "Quest:stonewoodquest_reactive_fetch_hoverboard",
       "attributes": {
