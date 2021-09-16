@@ -2,7 +2,7 @@
   "_id": "faefefcfdaad4eae8aed65c3139376f8",
   "created": "2017-08-29T20:38:59.824Z",
   "updated": "2017-12-25T02:08:43.518Z",
-  "rvn": 1164,
+  "rvn": 1165,
   "wipeNumber": 9,
   "accountId": "b810c129520946d6801a58bb9d5859fc",
   "profileId": "profile0",
@@ -20718,12 +20718,12 @@
         }
       },
       "daily_rewards": {
-        "nextDefaultReward": 77,
-        "totalDaysLoggedIn": 77,
-        "lastClaimDate": "2021-09-13T19:16:52.861Z",
+        "nextDefaultReward": 78,
+        "totalDaysLoggedIn": 78,
+        "lastClaimDate": "2021-09-16T13:52:10.386Z",
         "additionalSchedules": {
           "founderspackdailyrewardtoken": {
-            "rewardsClaimed": 77,
+            "rewardsClaimed": 78,
             "claimedToday": true
           }
         }
@@ -20740,5 +20740,5 @@
       "packs_granted": 13
     }
   },
-  "commandRevision": 947
+  "commandRevision": 948
 }
