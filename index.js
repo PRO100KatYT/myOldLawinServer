@@ -71,6 +71,12 @@ express.post("/api/v1/user/setting", async (req, res) => {
 	res.end();
 })
 
+//express.post("/fortnite/api/game/v2/profile/*/client/PurchaseCatalogEntry", async (req, res) => {
+//	res.json([]);
+//	res.status(200);
+//	res.end();
+//})
+
 express.get("/waitingroom/api/waitingroom", async (req, res) => {
 	res.status(204);
 	res.end();
@@ -1580,60 +1586,6 @@ express.post("/account/api/oauth/token", async (req, res) => {
 			)
 			res.status(200);
 			res.end();
-		});
-		
-		express.post("/fortnite/api/game/v2/profile/*/client/PurchaseCatalogEntry", async (req, res) => {
-			if (req.headers["user-agent"].includes("Mozilla")) {
-				return res
-				.status(405)
-				.json(
-					{
-						"errorCode":"errors.com.epicgames.common.method_not_allowed",
-						"errorMessage":"Sorry the resource you were trying to access cannot be accessed with the HTTP method you used.",
-						"numericErrorCode":1009,
-						"originatingService":"fortnite",
-						"intent":"prod-live"
-					})
-				}
-			const profile = require(`./profiles/${req.query.profileId || "profile0"}.json`);
-			if (profile.profileId == "athena") {
-				const seasonchecker = require("./seasonchecker.js");
-				const seasondata = require("./season.json");
-				seasonchecker(req, seasondata);
-				profile.stats.attributes.season_num = seasondata.season;
-			}
-			var Currency = req.body.currency;
-			var CurrencySubType = req.body.currencySubType
-			if (Currency.includes("MtxCurrency"))
-			{
-				return res
-				.status(405)
-				.json(
-					{
-						"errorCode":"Niestety nie możesz kupować lam",
-						"errorMessage":"Niestety nie możesz kupować lam.",
-						"numericErrorCode":69,
-						"originatingService":"fortnite",
-						"intent":"prod-live"
-					})
-			res.status(200);
-			res.end();
-			}
-			if (CurrencySubType.includes("voucher.basicpack"))
-			{
-				return res
-				.status(405)
-				.json(
-					{
-						"errorCode":"Niestety nie możesz kupować lam",
-						"errorMessage":"Niestety nie możesz kupować lam.",
-						"numericErrorCode":69,
-						"originatingService":"fortnite",
-						"intent":"prod-live"
-					})
-			res.status(200);
-			res.end();
-			}
 		});
 
 	express.post("/fortnite/api/game/v2/profile/*/client/ClaimQuestReward", async (req, res) => {
