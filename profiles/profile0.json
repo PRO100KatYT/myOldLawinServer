@@ -2671,6 +2671,1106 @@
       },
       "quantity": 1
     },
+    "BohaterNinja01": {
+      "templateId": "Hero:HID_Ninja_007_R_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja02": {
+      "templateId": "Hero:HID_Ninja_007_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja03": {
+      "templateId": "Hero:HID_Ninja_007_UC_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja04": {
+      "templateId": "Hero:HID_Ninja_007_VR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja05": {
+      "templateId": "Hero:HID_Ninja_008_R_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja06": {
+      "templateId": "Hero:HID_Ninja_008_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja07": {
+      "templateId": "Hero:HID_Ninja_008_VR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja08": {
+      "templateId": "Hero:HID_Ninja_009_F_Valentine_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja09": {
+      "templateId": "Hero:HID_Ninja_009_R_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja10": {
+      "templateId": "Hero:HID_Ninja_009_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja11": {
+      "templateId": "Hero:HID_Ninja_009_VR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja12": {
+      "templateId": "Hero:HID_Ninja_010_F_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja13": {
+      "templateId": "Hero:HID_Ninja_010_F_VR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja14": {
+      "templateId": "Hero:HID_Ninja_010_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja15": {
+      "templateId": "Hero:HID_Ninja_010_VR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja16": {
+      "templateId": "Hero:HID_Ninja_011_R_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja17": {
+      "templateId": "Hero:HID_Ninja_011_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja18": {
+      "templateId": "Hero:HID_Ninja_011_VR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja19": {
+      "templateId": "Hero:HID_Ninja_013_R_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja20": {
+      "templateId": "Hero:HID_Ninja_013_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja21": {
+      "templateId": "Hero:HID_Ninja_013_VR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja22": {
+      "templateId": "Hero:HID_Ninja_014_F_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja23": {
+      "templateId": "Hero:HID_Ninja_014_R_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja24": {
+      "templateId": "Hero:HID_Ninja_014_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja25": {
+      "templateId": "Hero:HID_Ninja_014_UC_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja26": {
+      "templateId": "Hero:HID_Ninja_014_VR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja27": {
+      "templateId": "Hero:HID_Ninja_SlashBreathHW_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja28": {
+      "templateId": "Hero:HID_Ninja_SlashBreathHW_VR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja29": {
+      "templateId": "Hero:HID_Ninja_SlashBreath_R_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja30": {
+      "templateId": "Hero:HID_Ninja_SlashBreath_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja31": {
+      "templateId": "Hero:HID_Ninja_SlashBreath_VR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja32": {
+      "templateId": "Hero:HID_Ninja_SlashTail_R_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja33": {
+      "templateId": "Hero:HID_Ninja_SlashTail_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja34": {
+      "templateId": "Hero:HID_Ninja_SlashTail_UC_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja35": {
+      "templateId": "Hero:HID_Ninja_SlashTail_VR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja36": {
+      "templateId": "Hero:HID_Ninja_SmokeDimMak_R_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja37": {
+      "templateId": "Hero:HID_Ninja_SmokeDimMak_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja38": {
+      "templateId": "Hero:HID_Ninja_SmokeDimMak_VR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja39": {
+      "templateId": "Hero:HID_Ninja_Sony_R_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja40": {
+      "templateId": "Hero:HID_Ninja_Sony_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja41": {
+      "templateId": "Hero:HID_Ninja_Sony_VR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja42": {
+      "templateId": "Hero:HID_Ninja_StarsAssassin_FoundersF_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja43": {
+      "templateId": "Hero:HID_Ninja_StarsAssassin_FoundersM_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja44": {
+      "templateId": "Hero:HID_Ninja_StarsAssassin_R_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja45": {
+      "templateId": "Hero:HID_Ninja_StarsAssassin_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja46": {
+      "templateId": "Hero:HID_Ninja_StarsAssassin_UC_T03",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja47": {
+      "templateId": "Hero:HID_Ninja_StarsAssassin_VR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja48": {
+      "templateId": "Hero:HID_Ninja_StarsRainHW_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja49": {
+      "templateId": "Hero:HID_Ninja_StarsRainHW_VR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja50": {
+      "templateId": "Hero:HID_Ninja_StarsRain_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja51": {
+      "templateId": "Hero:HID_Ninja_StarsRain_VR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja52": {
+      "templateId": "Hero:HID_Ninja_Swordmaster_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja53": {
+      "templateId": "Hero:HID_Ninja_XBOX_R_T04",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 40,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja54": {
+      "templateId": "Hero:HID_Ninja_XBOX_SR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterNinja55": {
+      "templateId": "Hero:HID_Ninja_XBOX_VR_T05",
+      "attributes": {
+        "equipped_cosmetics": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
     "32b0b965-f82f-4e0c-9494-357c7c2817bc": {
       "templateId": "Quest:stonewoodquest_filler_1_d2",
       "attributes": {
