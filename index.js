@@ -2304,13 +2304,13 @@ express.post("/account/api/oauth/token", async (req, res) => {
 			seasonchecker(req, seasondata);
 			profile.stats.attributes.season_num = seasondata.season;
 		}
-		if (req.headers["user-agent"].includes("3724489")) {
-			if (req.query.profileId == "profile0") {
-				return res
-				.status(200)
-				.json({})
-			}
-		}
+		//if (req.headers["user-agent"].includes("3724489")) {
+		//	if (req.query.profileId == "profile0") {
+		//		return res
+		//		.status(200)
+		//		.json({})
+		//	}
+		//}
 		res.json(
 			{
 				"profileRevision": profile.rvn || 1,
