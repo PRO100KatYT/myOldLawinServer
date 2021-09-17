@@ -1111,7 +1111,15 @@
             "_type": "CommonUI Simple Message Base",
             "subgame": "br",
             "title": "Ratowanie Świata by PRO100Kąt",
-            "body": "Wciśnij Zaczynamy, aby wczytać się do gry.",
+            "body": "Wybierz .",
+            "spotlight": true
+          },
+          {
+            "hidden": false,
+            "_type": "CommonUI Simple Message Base",
+            "subgame": "savetheworld",
+            "title": "Ratowanie Świata by PRO100Kąt",
+            "body": "Aby wczytać się do gry, wybierz",
             "spotlight": true
           }
         ],
@@ -1135,7 +1143,7 @@
       "alwaysShow": false,
       "_activeDate": "2018-08-06T19:00:26.217Z",
       "lastModified": "2019-10-29T22:32:52.686Z",
-      "_locale": "en-US"
+      "_locale": "pl-PL"
     },
     "koreancafe": {
       "_title": "KoreanCafe",
