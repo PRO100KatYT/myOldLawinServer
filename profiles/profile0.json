@@ -147,6 +147,61 @@
       },
       "quantity": 3
     },
+    "30DayVIP": {
+      "templateId": "AccountBuffCredit:30DayVIP",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 3
+    },
+    "7DayMissionRewards": {
+      "templateId": "AccountBuffCredit:7DayMissionRewards",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 3
+    },
+    "MissionRewardsBuff": {
+      "templateId": "AccountBuffCredit:MissionRewardsBuff",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 3
+    },
+    "PartyXPBuff": {
+      "templateId": "AccountBuffCredit:PartyXPBuff",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 3
+    },
+    "VIPStatus": {
+      "templateId": "AccountBuffCredit:VIPStatus",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 3
+    },
     "QuestRakietaKamiennyLas": {
       "templateId": "Quest:StonewoodQuest_LaunchRocket_D5",
       "attributes": {
@@ -234,8 +289,6 @@
     "BohaterZebyCosDzialaloTuJest": {
       "templateId": "BohaterZebyCosDzialaloTuJest",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 10,
         "item_seen": true,
         "squad_slot_idx": 0,
@@ -243,10 +296,6 @@
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -254,19 +303,12 @@
     "BohaterZolnierz01": {
       "templateId": "Hero:HID_Commando_007HW_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -274,19 +316,12 @@
     "BohaterZolnierz02": {
       "templateId": "Hero:HID_Commando_007HW_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -294,19 +329,12 @@
     "BohaterZolnierz03": {
       "templateId": "Hero:HID_Commando_007_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -314,19 +342,12 @@
     "BohaterZolnierz04": {
       "templateId": "Hero:HID_Commando_007_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -334,19 +355,12 @@
     "BohaterZolnierz05": {
       "templateId": "Hero:HID_Commando_007_UC_T03",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 30,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -354,19 +368,12 @@
     "BohaterZolnierz06": {
       "templateId": "Hero:HID_Commando_007_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -374,19 +381,12 @@
     "BohaterZolnierz07": {
       "templateId": "Hero:HID_Commando_008_FoundersF_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -394,19 +394,12 @@
     "BohaterZolnierz08": {
       "templateId": "Hero:HID_Commando_008_FoundersM_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -414,19 +407,12 @@
     "BohaterZolnierz09": {
       "templateId": "Hero:HID_Commando_008_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -434,19 +420,12 @@
     "BohaterZolnierz10": {
       "templateId": "Hero:HID_Commando_008_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -454,19 +433,12 @@
     "BohaterZolnierz11": {
       "templateId": "Hero:HID_Commando_008_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -474,19 +446,12 @@
     "BohaterZolnierz12": {
       "templateId": "Hero:HID_Commando_009_M_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -494,19 +459,12 @@
     "BohaterZolnierz13": {
       "templateId": "Hero:HID_Commando_009_M_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -514,19 +472,12 @@
     "BohaterZolnierz14": {
       "templateId": "Hero:HID_Commando_009_M_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -534,19 +485,12 @@
     "BohaterZolnierz15": {
       "templateId": "Hero:HID_Commando_009_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -554,19 +498,12 @@
     "BohaterZolnierz16": {
       "templateId": "Hero:HID_Commando_009_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -574,19 +511,12 @@
     "BohaterZolnierz17": {
       "templateId": "Hero:HID_Commando_009_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -594,19 +524,12 @@
     "BohaterZolnierz18": {
       "templateId": "Hero:HID_Commando_010_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -614,19 +537,12 @@
     "BohaterZolnierz19": {
       "templateId": "Hero:HID_Commando_010_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -634,19 +550,12 @@
     "BohaterZolnierz20": {
       "templateId": "Hero:HID_Commando_011_M_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -654,19 +563,12 @@
     "BohaterZolnierz21": {
       "templateId": "Hero:HID_Commando_011_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -674,19 +576,12 @@
     "BohaterZolnierz22": {
       "templateId": "Hero:HID_Commando_011_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -694,19 +589,12 @@
     "BohaterZolnierz23": {
       "templateId": "Hero:HID_Commando_011_UC_T03",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 30,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -714,19 +602,12 @@
     "BohaterZolnierz24": {
       "templateId": "Hero:HID_Commando_011_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -734,19 +615,12 @@
     "BohaterZolnierz25": {
       "templateId": "Hero:HID_Commando_012_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -754,19 +628,12 @@
     "BohaterZolnierz26": {
       "templateId": "Hero:HID_Commando_013_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -774,19 +641,12 @@
     "BohaterZolnierz27": {
       "templateId": "Hero:HID_Commando_013_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -794,19 +654,12 @@
     "BohaterZolnierz28": {
       "templateId": "Hero:HID_Commando_013_StPatricks_F_V1_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -814,19 +667,12 @@
     "BohaterZolnierz29": {
       "templateId": "Hero:HID_Commando_013_StPatricks_F_V2_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -834,19 +680,12 @@
     "BohaterZolnierz30": {
       "templateId": "Hero:HID_Commando_013_StPatricks_M_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -854,19 +693,12 @@
     "BohaterZolnierz31": {
       "templateId": "Hero:HID_Commando_013_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -874,19 +706,12 @@
     "BohaterZolnierz32": {
       "templateId": "Hero:HID_Commando_014_M_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -894,19 +719,12 @@
     "BohaterZolnierz33": {
       "templateId": "Hero:HID_Commando_014_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -914,19 +732,12 @@
     "BohaterZolnierz34": {
       "templateId": "Hero:HID_Commando_014_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -934,19 +745,12 @@
     "BohaterZolnierz35": {
       "templateId": "Hero:HID_Commando_014_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -954,19 +758,12 @@
     "BohaterZolnierz36": {
       "templateId": "Hero:HID_Commando_014_Wukong_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -974,19 +771,12 @@
     "BohaterZolnierz37": {
       "templateId": "Hero:HID_Commando_GCGrenade_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -994,19 +784,12 @@
     "BohaterZolnierz38": {
       "templateId": "Hero:HID_Commando_GCGrenade_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1014,19 +797,12 @@
     "BohaterZolnierz39": {
       "templateId": "Hero:HID_Commando_GCGrenade_T_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1034,19 +810,12 @@
     "BohaterZolnierz40": {
       "templateId": "Hero:HID_Commando_GCGrenade_T_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1054,19 +823,12 @@
     "BohaterZolnierz41": {
       "templateId": "Hero:HID_Commando_GCGrenade_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1074,19 +836,12 @@
     "BohaterZolnierz42": {
       "templateId": "Hero:HID_Commando_GrenadeGun_M_T_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1094,19 +849,12 @@
     "BohaterZolnierz43": {
       "templateId": "Hero:HID_Commando_GrenadeGun_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1114,19 +862,12 @@
     "BohaterZolnierz44": {
       "templateId": "Hero:HID_Commando_GrenadeGun_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1134,19 +875,12 @@
     "BohaterZolnierz45": {
       "templateId": "Hero:HID_Commando_GrenadeGun_UC_T03",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 30,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1154,19 +888,12 @@
     "BohaterZolnierz46": {
       "templateId": "Hero:HID_Commando_GrenadeGun_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1174,19 +901,12 @@
     "BohaterZolnierz47": {
       "templateId": "Hero:HID_Commando_GrenadeMaster_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1194,19 +914,12 @@
     "BohaterZolnierz48": {
       "templateId": "Hero:HID_Commando_GunHeadShot_Starter_M_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1214,19 +927,12 @@
     "BohaterZolnierz49": {
       "templateId": "Hero:HID_Commando_GunHeadshotHW_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1234,19 +940,12 @@
     "BohaterZolnierz50": {
       "templateId": "Hero:HID_Commando_GunHeadshotHW_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1254,19 +953,12 @@
     "BohaterZolnierz51": {
       "templateId": "Hero:HID_Commando_GunHeadshot_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1274,19 +966,12 @@
     "BohaterZolnierz52": {
       "templateId": "Hero:HID_Commando_GunHeadshot_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1294,19 +979,12 @@
     "BohaterZolnierz53": {
       "templateId": "Hero:HID_Commando_GunTough_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1314,19 +992,12 @@
     "BohaterZolnierz54": {
       "templateId": "Hero:HID_Commando_GunTough_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1334,19 +1005,12 @@
     "BohaterZolnierz55": {
       "templateId": "Hero:HID_Commando_GunTough_UC_T03",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 30,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1354,19 +1018,12 @@
     "BohaterZolnierz56": {
       "templateId": "Hero:HID_Commando_GunTough_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1374,19 +1031,12 @@
     "BohaterZolnierz57": {
       "templateId": "Hero:HID_Commando_GunTough_Valentine_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1394,19 +1044,12 @@
     "BohaterZolnierz58": {
       "templateId": "Hero:HID_Commando_ShockDamage_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1414,19 +1057,12 @@
     "BohaterZolnierz59": {
       "templateId": "Hero:HID_Commando_ShockDamage_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1434,19 +1070,12 @@
     "BohaterZolnierz60": {
       "templateId": "Hero:HID_Commando_ShockDamage_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1454,19 +1083,12 @@
     "BohaterZolnierz61": {
       "templateId": "Hero:HID_Commando_Sony_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1474,19 +1096,12 @@
     "BohaterZolnierz62": {
       "templateId": "Hero:HID_Commando_Sony_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1494,19 +1109,12 @@
     "BohaterZolnierz63": {
       "templateId": "Hero:HID_Commando_Sony_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1514,19 +1122,12 @@
     "BohaterZolnierz64": {
       "templateId": "Hero:HID_Commando_XBOX_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1534,19 +1135,12 @@
     "BohaterZolnierz65": {
       "templateId": "Hero:HID_Commando_XBOX_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1554,19 +1148,12 @@
     "BohaterZolnierz66": {
       "templateId": "Hero:HID_Commando_XBOX_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1574,19 +1161,12 @@
     "BohaterBudowniczy01": {
       "templateId": "Hero:HID_Constructor_007HW_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1594,19 +1174,12 @@
     "BohaterBudowniczy02": {
       "templateId": "Hero:HID_Constructor_007HW_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1614,19 +1187,12 @@
     "BohaterBudowniczy03": {
       "templateId": "Hero:HID_Constructor_007_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1634,19 +1200,12 @@
     "BohaterBudowniczy04": {
       "templateId": "Hero:HID_Constructor_007_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1654,19 +1213,12 @@
     "BohaterBudowniczy05": {
       "templateId": "Hero:HID_Constructor_007_UC_T03",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 30,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1674,19 +1226,12 @@
     "BohaterBudowniczy06": {
       "templateId": "Hero:HID_Constructor_007_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1694,19 +1239,12 @@
     "BohaterBudowniczy07": {
       "templateId": "Hero:HID_Constructor_008_FoundersF_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1714,19 +1252,12 @@
     "BohaterBudowniczy08": {
       "templateId": "Hero:HID_Constructor_008_FoundersM_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1734,19 +1265,12 @@
     "BohaterBudowniczy09": {
       "templateId": "Hero:HID_Constructor_008_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1754,19 +1278,12 @@
     "BohaterBudowniczy10": {
       "templateId": "Hero:HID_Constructor_008_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1774,19 +1291,12 @@
     "BohaterBudowniczy11": {
       "templateId": "Hero:HID_Constructor_008_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1794,19 +1304,12 @@
     "BohaterBudowniczy12": {
       "templateId": "Hero:HID_Constructor_009_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1814,19 +1317,12 @@
     "BohaterBudowniczy13": {
       "templateId": "Hero:HID_Constructor_009_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1834,19 +1330,12 @@
     "BohaterBudowniczy14": {
       "templateId": "Hero:HID_Constructor_009_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1854,19 +1343,12 @@
     "BohaterBudowniczy15": {
       "templateId": "Hero:HID_Constructor_010_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1874,19 +1356,12 @@
     "BohaterBudowniczy16": {
       "templateId": "Hero:HID_Constructor_010_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1894,19 +1369,12 @@
     "BohaterBudowniczy17": {
       "templateId": "Hero:HID_Constructor_011_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1914,19 +1382,12 @@
     "BohaterBudowniczy18": {
       "templateId": "Hero:HID_Constructor_011_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1934,19 +1395,12 @@
     "BohaterBudowniczy19": {
       "templateId": "Hero:HID_Constructor_011_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1954,19 +1408,12 @@
     "BohaterBudowniczy20": {
       "templateId": "Hero:HID_Constructor_013_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1974,19 +1421,12 @@
     "BohaterBudowniczy21": {
       "templateId": "Hero:HID_Constructor_013_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -1994,19 +1434,12 @@
     "BohaterBudowniczy22": {
       "templateId": "Hero:HID_Constructor_013_UC_T03",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 30,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2014,19 +1447,12 @@
     "BohaterBudowniczy23": {
       "templateId": "Hero:HID_Constructor_013_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2034,19 +1460,12 @@
     "BohaterBudowniczy24": {
       "templateId": "Hero:HID_Constructor_014_F_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2054,19 +1473,12 @@
     "BohaterBudowniczy25": {
       "templateId": "Hero:HID_Constructor_014_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2074,19 +1486,12 @@
     "BohaterBudowniczy26": {
       "templateId": "Hero:HID_Constructor_014_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2094,19 +1499,12 @@
     "BohaterBudowniczy27": {
       "templateId": "Hero:HID_Constructor_014_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2114,19 +1512,12 @@
     "BohaterBudowniczy28": {
       "templateId": "Hero:HID_Constructor_BASEBig_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2134,19 +1525,12 @@
     "BohaterBudowniczy29": {
       "templateId": "Hero:HID_Constructor_BaseHyperHW_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2154,19 +1538,12 @@
     "BohaterBudowniczy30": {
       "templateId": "Hero:HID_Constructor_BaseHyperHW_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2174,19 +1551,12 @@
     "BohaterBudowniczy31": {
       "templateId": "Hero:HID_Constructor_BaseHyper_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2194,19 +1564,12 @@
     "BohaterBudowniczy32": {
       "templateId": "Hero:HID_Constructor_BaseHyper_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2214,19 +1577,12 @@
     "BohaterBudowniczy33": {
       "templateId": "Hero:HID_Constructor_BaseHyper_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2234,19 +1590,12 @@
     "BohaterBudowniczy34": {
       "templateId": "Hero:HID_Constructor_HammerPlasma_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2254,19 +1603,12 @@
     "BohaterBudowniczy35": {
       "templateId": "Hero:HID_Constructor_HammerPlasma_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2274,19 +1616,12 @@
     "BohaterBudowniczy36": {
       "templateId": "Hero:HID_Constructor_HammerTank_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2294,19 +1629,12 @@
     "BohaterBudowniczy37": {
       "templateId": "Hero:HID_Constructor_HammerTank_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2314,19 +1642,12 @@
     "BohaterBudowniczy38": {
       "templateId": "Hero:HID_Constructor_HammerTank_UC_T03",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 30,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2334,19 +1655,12 @@
     "BohaterBudowniczy39": {
       "templateId": "Hero:HID_Constructor_HammerTank_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2354,19 +1668,12 @@
     "BohaterBudowniczy40": {
       "templateId": "Hero:HID_Constructor_PlasmaDamage_Easter_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2374,19 +1681,12 @@
     "BohaterBudowniczy41": {
       "templateId": "Hero:HID_Constructor_PlasmaDamage_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2394,19 +1694,12 @@
     "BohaterBudowniczy42": {
       "templateId": "Hero:HID_Constructor_PlasmaDamage_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2414,19 +1707,12 @@
     "BohaterBudowniczy43": {
       "templateId": "Hero:HID_Constructor_PlasmaDamage_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2434,19 +1720,12 @@
     "BohaterBudowniczy44": {
       "templateId": "Hero:HID_Constructor_RushBASE_F_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2454,19 +1733,12 @@
     "BohaterBudowniczy45": {
       "templateId": "Hero:HID_Constructor_RushBASE_F_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2474,19 +1746,12 @@
     "BohaterBudowniczy46": {
       "templateId": "Hero:HID_Constructor_RushBASE_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2494,19 +1759,12 @@
     "BohaterBudowniczy47": {
       "templateId": "Hero:HID_Constructor_RushBASE_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2514,19 +1772,12 @@
     "BohaterBudowniczy48": {
       "templateId": "Hero:HID_Constructor_RushBASE_UC_T03",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 30,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2534,19 +1785,12 @@
     "BohaterBudowniczy49": {
       "templateId": "Hero:HID_Constructor_RushBASE_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2554,19 +1798,12 @@
     "BohaterBudowniczy50": {
       "templateId": "Hero:HID_Constructor_Sony_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2574,19 +1811,12 @@
     "BohaterBudowniczy51": {
       "templateId": "Hero:HID_Constructor_Sony_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2594,19 +1824,12 @@
     "BohaterBudowniczy52": {
       "templateId": "Hero:HID_Constructor_Sony_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2614,19 +1837,12 @@
     "BohaterBudowniczy53": {
       "templateId": "Hero:HID_Constructor_XBOX_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2634,19 +1850,12 @@
     "BohaterBudowniczy54": {
       "templateId": "Hero:HID_Constructor_XBOX_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2654,19 +1863,12 @@
     "BohaterBudowniczy55": {
       "templateId": "Hero:HID_Constructor_XBOX_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2674,19 +1876,12 @@
     "BohaterNinja01": {
       "templateId": "Hero:HID_Ninja_007_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2694,19 +1889,12 @@
     "BohaterNinja02": {
       "templateId": "Hero:HID_Ninja_007_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2714,19 +1902,12 @@
     "BohaterNinja03": {
       "templateId": "Hero:HID_Ninja_007_UC_T03",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 30,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2734,19 +1915,12 @@
     "BohaterNinja04": {
       "templateId": "Hero:HID_Ninja_007_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2754,19 +1928,12 @@
     "BohaterNinja05": {
       "templateId": "Hero:HID_Ninja_008_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2774,19 +1941,12 @@
     "BohaterNinja06": {
       "templateId": "Hero:HID_Ninja_008_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2794,19 +1954,12 @@
     "BohaterNinja07": {
       "templateId": "Hero:HID_Ninja_008_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2814,19 +1967,12 @@
     "BohaterNinja08": {
       "templateId": "Hero:HID_Ninja_009_F_Valentine_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2834,19 +1980,12 @@
     "BohaterNinja09": {
       "templateId": "Hero:HID_Ninja_009_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2854,19 +1993,12 @@
     "BohaterNinja10": {
       "templateId": "Hero:HID_Ninja_009_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2874,19 +2006,12 @@
     "BohaterNinja11": {
       "templateId": "Hero:HID_Ninja_009_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2894,19 +2019,12 @@
     "BohaterNinja12": {
       "templateId": "Hero:HID_Ninja_010_F_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2914,19 +2032,12 @@
     "BohaterNinja13": {
       "templateId": "Hero:HID_Ninja_010_F_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2934,19 +2045,12 @@
     "BohaterNinja14": {
       "templateId": "Hero:HID_Ninja_010_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2954,19 +2058,12 @@
     "BohaterNinja15": {
       "templateId": "Hero:HID_Ninja_010_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2974,19 +2071,12 @@
     "BohaterNinja16": {
       "templateId": "Hero:HID_Ninja_011_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -2994,19 +2084,12 @@
     "BohaterNinja17": {
       "templateId": "Hero:HID_Ninja_011_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3014,19 +2097,12 @@
     "BohaterNinja18": {
       "templateId": "Hero:HID_Ninja_011_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3034,19 +2110,12 @@
     "BohaterNinja19": {
       "templateId": "Hero:HID_Ninja_013_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3054,19 +2123,12 @@
     "BohaterNinja20": {
       "templateId": "Hero:HID_Ninja_013_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3074,19 +2136,12 @@
     "BohaterNinja21": {
       "templateId": "Hero:HID_Ninja_013_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3094,19 +2149,12 @@
     "BohaterNinja22": {
       "templateId": "Hero:HID_Ninja_014_F_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3114,19 +2162,12 @@
     "BohaterNinja23": {
       "templateId": "Hero:HID_Ninja_014_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3134,19 +2175,12 @@
     "BohaterNinja24": {
       "templateId": "Hero:HID_Ninja_014_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3154,19 +2188,12 @@
     "BohaterNinja25": {
       "templateId": "Hero:HID_Ninja_014_UC_T03",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 30,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3174,19 +2201,12 @@
     "BohaterNinja26": {
       "templateId": "Hero:HID_Ninja_014_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3194,19 +2214,12 @@
     "BohaterNinja27": {
       "templateId": "Hero:HID_Ninja_SlashBreathHW_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3214,19 +2227,12 @@
     "BohaterNinja28": {
       "templateId": "Hero:HID_Ninja_SlashBreathHW_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3234,19 +2240,12 @@
     "BohaterNinja29": {
       "templateId": "Hero:HID_Ninja_SlashBreath_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3254,19 +2253,12 @@
     "BohaterNinja30": {
       "templateId": "Hero:HID_Ninja_SlashBreath_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3274,19 +2266,12 @@
     "BohaterNinja31": {
       "templateId": "Hero:HID_Ninja_SlashBreath_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3294,19 +2279,12 @@
     "BohaterNinja32": {
       "templateId": "Hero:HID_Ninja_SlashTail_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3314,19 +2292,12 @@
     "BohaterNinja33": {
       "templateId": "Hero:HID_Ninja_SlashTail_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3334,19 +2305,12 @@
     "BohaterNinja34": {
       "templateId": "Hero:HID_Ninja_SlashTail_UC_T03",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 30,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3354,19 +2318,12 @@
     "BohaterNinja35": {
       "templateId": "Hero:HID_Ninja_SlashTail_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3374,19 +2331,12 @@
     "BohaterNinja36": {
       "templateId": "Hero:HID_Ninja_SmokeDimMak_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3394,19 +2344,12 @@
     "BohaterNinja37": {
       "templateId": "Hero:HID_Ninja_SmokeDimMak_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3414,19 +2357,12 @@
     "BohaterNinja38": {
       "templateId": "Hero:HID_Ninja_SmokeDimMak_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3434,19 +2370,12 @@
     "BohaterNinja39": {
       "templateId": "Hero:HID_Ninja_Sony_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3454,19 +2383,12 @@
     "BohaterNinja40": {
       "templateId": "Hero:HID_Ninja_Sony_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3474,19 +2396,12 @@
     "BohaterNinja41": {
       "templateId": "Hero:HID_Ninja_Sony_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3494,19 +2409,12 @@
     "BohaterNinja42": {
       "templateId": "Hero:HID_Ninja_StarsAssassin_FoundersF_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3514,19 +2422,12 @@
     "BohaterNinja43": {
       "templateId": "Hero:HID_Ninja_StarsAssassin_FoundersM_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3534,19 +2435,12 @@
     "BohaterNinja44": {
       "templateId": "Hero:HID_Ninja_StarsAssassin_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3554,19 +2448,12 @@
     "BohaterNinja45": {
       "templateId": "Hero:HID_Ninja_StarsAssassin_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3574,19 +2461,12 @@
     "BohaterNinja46": {
       "templateId": "Hero:HID_Ninja_StarsAssassin_UC_T03",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 30,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3594,19 +2474,12 @@
     "BohaterNinja47": {
       "templateId": "Hero:HID_Ninja_StarsAssassin_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3614,19 +2487,12 @@
     "BohaterNinja48": {
       "templateId": "Hero:HID_Ninja_StarsRainHW_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3634,19 +2500,12 @@
     "BohaterNinja49": {
       "templateId": "Hero:HID_Ninja_StarsRainHW_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3654,19 +2513,12 @@
     "BohaterNinja50": {
       "templateId": "Hero:HID_Ninja_StarsRain_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3674,19 +2526,12 @@
     "BohaterNinja51": {
       "templateId": "Hero:HID_Ninja_StarsRain_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3694,19 +2539,12 @@
     "BohaterNinja52": {
       "templateId": "Hero:HID_Ninja_Swordmaster_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3714,19 +2552,12 @@
     "BohaterNinja53": {
       "templateId": "Hero:HID_Ninja_XBOX_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3734,19 +2565,12 @@
     "BohaterNinja54": {
       "templateId": "Hero:HID_Ninja_XBOX_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3754,19 +2578,12 @@
     "BohaterNinja55": {
       "templateId": "Hero:HID_Ninja_XBOX_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3774,19 +2591,12 @@
     "BohaterRubieznik01": {
       "templateId": "Hero:HID_Outlander_007_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3794,19 +2604,12 @@
     "BohaterRubieznik02": {
       "templateId": "Hero:HID_Outlander_007_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3814,19 +2617,12 @@
     "BohaterRubieznik03": {
       "templateId": "Hero:HID_Outlander_007_UC_T03",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 30,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3834,19 +2630,12 @@
     "BohaterRubieznik04": {
       "templateId": "Hero:HID_Outlander_007_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3854,19 +2643,12 @@
     "BohaterRubieznik05": {
       "templateId": "Hero:HID_Outlander_008_FoundersF_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3874,19 +2656,12 @@
     "BohaterRubieznik06": {
       "templateId": "Hero:HID_Outlander_008_FoundersM_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3894,19 +2669,12 @@
     "BohaterRubieznik07": {
       "templateId": "Hero:HID_Outlander_008_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3914,19 +2682,12 @@
     "BohaterRubieznik08": {
       "templateId": "Hero:HID_Outlander_008_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3934,19 +2695,12 @@
     "BohaterRubieznik09": {
       "templateId": "Hero:HID_Outlander_008_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3954,19 +2708,12 @@
     "BohaterRubieznik10": {
       "templateId": "Hero:HID_Outlander_009_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3974,19 +2721,12 @@
     "BohaterRubieznik11": {
       "templateId": "Hero:HID_Outlander_009_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -3994,19 +2734,12 @@
     "BohaterRubieznik12": {
       "templateId": "Hero:HID_Outlander_009_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4014,19 +2747,12 @@
     "BohaterRubieznik13": {
       "templateId": "Hero:HID_Outlander_010_M_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4034,19 +2760,12 @@
     "BohaterRubieznik14": {
       "templateId": "Hero:HID_Outlander_010_M_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4054,19 +2773,12 @@
     "BohaterRubieznik15": {
       "templateId": "Hero:HID_Outlander_010_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4074,19 +2786,12 @@
     "BohaterRubieznik16": {
       "templateId": "Hero:HID_Outlander_010_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4094,19 +2799,12 @@
     "BohaterRubieznik17": {
       "templateId": "Hero:HID_Outlander_011_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4114,19 +2812,12 @@
     "BohaterRubieznik18": {
       "templateId": "Hero:HID_Outlander_011_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4134,19 +2825,12 @@
     "BohaterRubieznik19": {
       "templateId": "Hero:HID_Outlander_013_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4154,19 +2838,12 @@
     "BohaterRubieznik20": {
       "templateId": "Hero:HID_Outlander_013_StPatricks_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4174,19 +2851,12 @@
     "BohaterRubieznik21": {
       "templateId": "Hero:HID_Outlander_013_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4194,19 +2864,12 @@
     "BohaterRubieznik22": {
       "templateId": "Hero:HID_Outlander_014_M_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4214,19 +2877,12 @@
     "BohaterRubieznik23": {
       "templateId": "Hero:HID_Outlander_014_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4234,19 +2890,12 @@
     "BohaterRubieznik24": {
       "templateId": "Hero:HID_Outlander_014_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4254,19 +2903,12 @@
     "BohaterRubieznik25": {
       "templateId": "Hero:HID_Outlander_014_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4274,19 +2916,12 @@
     "BohaterRubieznik26": {
       "templateId": "Hero:HID_Outlander_PunchDamage_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4294,19 +2929,12 @@
     "BohaterRubieznik27": {
       "templateId": "Hero:HID_Outlander_PunchDamage_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4314,19 +2942,12 @@
     "BohaterRubieznik28": {
       "templateId": "Hero:HID_Outlander_PunchPhase_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4334,19 +2955,12 @@
     "BohaterRubieznik29": {
       "templateId": "Hero:HID_Outlander_PunchPhase_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4354,19 +2968,12 @@
     "BohaterRubieznik30": {
       "templateId": "Hero:HID_Outlander_PunchPhase_UC_T03",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 30,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4374,19 +2981,12 @@
     "BohaterRubieznik31": {
       "templateId": "Hero:HID_Outlander_PunchPhase_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4394,19 +2994,12 @@
     "BohaterRubieznik32": {
       "templateId": "Hero:HID_Outlander_Sony_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4414,19 +3007,12 @@
     "BohaterRubieznik33": {
       "templateId": "Hero:HID_Outlander_Sony_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4434,19 +3020,12 @@
     "BohaterRubieznik34": {
       "templateId": "Hero:HID_Outlander_Sony_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4454,19 +3033,12 @@
     "BohaterRubieznik35": {
       "templateId": "Hero:HID_Outlander_SphereFragment_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4474,19 +3046,12 @@
     "BohaterRubieznik36": {
       "templateId": "Hero:HID_Outlander_SphereFragment_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4494,19 +3059,12 @@
     "BohaterRubieznik37": {
       "templateId": "Hero:HID_Outlander_SphereFragment_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4514,19 +3072,12 @@
     "BohaterRubieznik38": {
       "templateId": "Hero:HID_Outlander_XBOX_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4534,19 +3085,12 @@
     "BohaterRubieznik39": {
       "templateId": "Hero:HID_Outlander_XBOX_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4554,19 +3098,12 @@
     "BohaterRubieznik40": {
       "templateId": "Hero:HID_Outlander_XBOX_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4574,19 +3111,12 @@
     "BohaterRubieznik41": {
       "templateId": "Hero:HID_Outlander_ZoneFragment_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4594,19 +3124,12 @@
     "BohaterRubieznik42": {
       "templateId": "Hero:HID_Outlander_ZoneHarvestHW_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4614,19 +3137,12 @@
     "BohaterRubieznik43": {
       "templateId": "Hero:HID_Outlander_ZoneHarvest_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4634,19 +3150,12 @@
     "BohaterRubieznik44": {
       "templateId": "Hero:HID_Outlander_ZoneHarvest_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4654,19 +3163,12 @@
     "BohaterRubieznik45": {
       "templateId": "Hero:HID_Outlander_ZoneHarvest_UC_T03",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 30,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4674,19 +3176,12 @@
     "BohaterRubieznik46": {
       "templateId": "Hero:HID_Outlander_ZoneHarvest_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4694,19 +3189,12 @@
     "BohaterRubieznik47": {
       "templateId": "Hero:HID_Outlander_ZonePistolHW_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4714,19 +3202,12 @@
     "BohaterRubieznik48": {
       "templateId": "Hero:HID_Outlander_ZonePistolHW_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4734,19 +3215,12 @@
     "BohaterRubieznik49": {
       "templateId": "Hero:HID_Outlander_ZonePistol_R_T04",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 40,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4754,19 +3228,12 @@
     "BohaterRubieznik50": {
       "templateId": "Hero:HID_Outlander_ZonePistol_SR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -4774,19 +3241,12 @@
     "BohaterRubieznik51": {
       "templateId": "Hero:HID_Outlander_ZonePistol_VR_T05",
       "attributes": {
-        "equipped_cosmetics": [],
-        "gender": 0,
         "level": 50,
         "item_seen": true,
         "squad_slot_idx": 0,
-        "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
         "squad_id": "",
-        "mode_loadouts": [],
-        "xp": 0,
-        "slotted_building_id": "",
-        "building_slot_used": -1,
         "favorite": false
       },
       "quantity": 1
@@ -5423,6 +3883,17 @@
     },
     "FriendCodeTokenPlaceholder": {
       "templateId": "Token:FriendCodeTokenPlaceholder",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "FounderFriendInvite": {
+      "templateId": "CodeToken:FounderFriendInvite",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -7028,8 +5499,52 @@
       },
       "quantity": 1
     },
-    "83f598e7-ce64-4502-8201-6144fbc7e120": {
-      "templateId": "Token:founderspack_1",
+    "TokenPakietFundatora1": {
+      "templateId": "Token:FoundersPack_1",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "TokenPakietFundatora2": {
+      "templateId": "Token:FoundersPack_2",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "TokenPakietFundatora3": {
+      "templateId": "Token:FoundersPack_3",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "TokenPakietFundatora4": {
+      "templateId": "Token:FoundersPack_4",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "TokenPakietFundatora5": {
+      "templateId": "Token:FoundersPack_5",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -13977,12 +12492,12 @@
         }
       },
       "daily_rewards": {
-        "nextDefaultReward": 79,
-        "totalDaysLoggedIn": 79,
+        "nextDefaultReward": 336,
+        "totalDaysLoggedIn": 336,
         "lastClaimDate": "2021-09-17T17:16:51.535Z",
         "additionalSchedules": {
           "founderspackdailyrewardtoken": {
-            "rewardsClaimed": 79,
+            "rewardsClaimed": 60,
             "claimedToday": true
           }
         }
