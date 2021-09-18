@@ -5145,7 +5145,6 @@
     },
     "WID_Assault_Auto_SR_Ore_T01": {
       "templateId": "Schematic:SID_Assault_Auto_SR_Ore_T01",
-      "levelSchematu": "Schematic:SID_Assault_Auto_SR_Ore_T01",
       "attributes": {
         "last_state_change_time": "2017-08-29T21:05:57.087Z",
         "max_level_bonus": 0,
