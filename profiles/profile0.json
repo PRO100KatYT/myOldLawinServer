@@ -3890,7 +3890,7 @@
         "xp": 0,
         "favorite": false
       },
-      "quantity": 1
+      "quantity": 3
     },
     "FounderFriendInvite": {
       "templateId": "CodeToken:FounderFriendInvite",
@@ -3901,7 +3901,7 @@
         "xp": 0,
         "favorite": false
       },
-      "quantity": 69
+      "quantity": 1
     },
     "MSFT_FriendCode_Redeemer_Token": {
       "templateId": "Token:MSFT_FriendCode_Redeemer_Token",
@@ -3912,7 +3912,7 @@
         "xp": 0,
         "favorite": false
       },
-      "quantity": 1
+      "quantity": 3
     },
     "NeighborhoodCurrency": {
       "templateId": "Token:NeighborhoodCurrency",
@@ -12492,12 +12492,12 @@
         }
       },
       "daily_rewards": {
-        "nextDefaultReward": 336,
-        "totalDaysLoggedIn": 335,
+        "nextDefaultReward": 335,
+        "totalDaysLoggedIn": 334,
         "lastClaimDate": "2021-09-17T17:16:51.535Z",
         "additionalSchedules": {
           "founderspackdailyrewardtoken": {
-            "rewardsClaimed": 60,
+            "rewardsClaimed": 14,
             "claimedToday": true
           }
         }
