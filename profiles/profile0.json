@@ -3901,7 +3901,7 @@
         "xp": 0,
         "favorite": false
       },
-      "quantity": 1
+      "quantity": 69
     },
     "MSFT_FriendCode_Redeemer_Token": {
       "templateId": "Token:MSFT_FriendCode_Redeemer_Token",
@@ -12493,7 +12493,7 @@
       },
       "daily_rewards": {
         "nextDefaultReward": 336,
-        "totalDaysLoggedIn": 336,
+        "totalDaysLoggedIn": 335,
         "lastClaimDate": "2021-09-17T17:16:51.535Z",
         "additionalSchedules": {
           "founderspackdailyrewardtoken": {
