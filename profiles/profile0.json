@@ -3890,7 +3890,7 @@
         "xp": 0,
         "favorite": false
       },
-      "quantity": 3
+      "quantity": 1
     },
     "FounderFriendInvite": {
       "templateId": "CodeToken:FounderFriendInvite",
@@ -3912,7 +3912,7 @@
         "xp": 0,
         "favorite": false
       },
-      "quantity": 3
+      "quantity": 1
     },
     "NeighborhoodCurrency": {
       "templateId": "Token:NeighborhoodCurrency",
