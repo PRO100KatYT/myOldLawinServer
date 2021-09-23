@@ -12257,6 +12257,25 @@
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
+    },
+    "02eb2429-2da2-45f9-bca7-b41f6ec98e04": {
+      "templateId": "Expedition:expedition_choppingwood_t00",
+      "attributes": {
+        "expedition_criteria": [],
+        "level": 1,
+        "item_seen": false,
+        "expedition_max_target_power": 15,
+        "expedition_min_target_power": 1,
+        "expedition_slot_id": "expedition.generation.miningore",
+        "expedition_squad_id": "",
+        "max_level_bonus": 0,
+        "expedition_expiration_end_time": "2020-02-05T23:12:19.785Z",
+        "expedition_success_chance": 0,
+        "xp": 0,
+        "expedition_expiration_start_time": "2020-02-05T21:42:19.785Z",
+        "favorite": false
+      },
+      "quantity": 1
     }
   },
   "stats": {
@@ -12497,8 +12516,8 @@
         "lastClaimDate": "2021-09-17T17:16:51.535Z",
         "additionalSchedules": {
           "founderspackdailyrewardtoken": {
-            "rewardsClaimed": 14,
-            "claimedToday": true
+            "rewardsClaimed": 100,
+            "claimedToday": false
           }
         }
       },
