@@ -1462,10 +1462,10 @@
         "expedition_slot_id": "expedition.generation.miningore",
         "expedition_squad_id": "",
         "max_level_bonus": 0,
-        "expedition_expiration_end_time": "2020-02-05T23:12:19.785Z",
+        "expedition_expiration_end_time": "2022-02-05T23:12:19.785Z",
         "expedition_success_chance": 0,
         "xp": 0,
-        "expedition_expiration_start_time": "2020-02-05T21:42:19.785Z",
+        "expedition_expiration_start_time": "2022-02-05T21:42:19.785Z",
         "favorite": false
       },
       "quantity": 1
