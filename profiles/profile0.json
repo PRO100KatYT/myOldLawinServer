@@ -3406,28 +3406,6 @@
       },
       "quantity": 1
     },
-    "WID_Pistol_SemiAuto_C_Ore_T00": {
-      "templateId": "Schematic:SID_Pistol_SemiAuto_C_Ore_T00",
-      "attributes": {
-        "alteration_slots": [
-          {
-            "Type": "GameplaySlot",
-            "NumSlots": 1
-          },
-          {
-            "Type": "AttributeSlot",
-            "NumSlots": 1
-          }
-        ],
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "alterations": [],
-        "xp": 0,
-        "favorite": false
-      },
-      "quantity": 1
-    },
     "69cf0f04-34a6-4eff-a31e-91acd1ad8fcb": {
       "templateId": "AccountResource:voucher_basicpack",
       "attributes": {
@@ -3529,19 +3507,6 @@
         "last_state_change_time": "2017-08-29T21:05:57.087Z",
         "max_level_bonus": 0,
         "level": -1,
-        "item_seen": true,
-        "xp": 0,
-        "sent_new_notification": true,
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "7ag-gegggfgfgfgfgfgfgfgesgv": {
-      "templateId": "Weapon:wid_assault_auto_sr_crystal_t05",
-      "attributes": {
-        "last_state_change_time": "2017-08-29T21:05:57.087Z",
-        "max_level_bonus": 0,
-        "level": 50,
         "item_seen": true,
         "xp": 0,
         "sent_new_notification": true,
@@ -5028,28 +4993,6 @@
       },
       "quantity": 1
     },
-    "TID_Floor_Health_C_T00": {
-      "templateId": "Schematic:SID_Floor_Health_C_T00",
-      "attributes": {
-        "alteration_slots": [
-          {
-            "Type": "GameplaySlot",
-            "NumSlots": 1
-          },
-          {
-            "Type": "AttributeSlot",
-            "NumSlots": 2
-          }
-        ],
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "alterations": [],
-        "xp": 0,
-        "favorite": false
-      },
-      "quantity": 1
-    },
     "93263e0d-eb6d-42bb-8459-7a288122cdde": {
       "templateId": "HomebaseBannerIcon:standardbanner31",
       "attributes": {
@@ -5219,28 +5162,6 @@
         "xp": 0,
         "completion_unlock_skill_tree_outlander_leadership": 0,
         "sent_new_notification": true,
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "WID_Edged_Sword_Medium_C_Ore_T00": {
-      "templateId": "Schematic:SID_Edged_Sword_Medium_C_Ore_T00",
-      "attributes": {
-        "alteration_slots": [
-          {
-            "Type": "GameplaySlot",
-            "NumSlots": 1
-          },
-          {
-            "Type": "AttributeSlot",
-            "NumSlots": 1
-          }
-        ],
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "alterations": [],
-        "xp": 0,
         "favorite": false
       },
       "quantity": 1
@@ -5696,28 +5617,6 @@
         "sent_new_notification": true,
         "favorite": false,
         "completion_unlock_skill_tree_squads": 0
-      },
-      "quantity": 1
-    },
-    "WID_Assault_Auto_C_Ore_T00": {
-      "templateId": "Schematic:SID_Assault_Auto_C_Ore_T00",
-      "attributes": {
-        "alteration_slots": [
-          {
-            "Type": "GameplaySlot",
-            "NumSlots": 1
-          },
-          {
-            "Type": "AttributeSlot",
-            "NumSlots": 1
-          }
-        ],
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "alterations": [],
-        "xp": 0,
-        "favorite": false
       },
       "quantity": 1
     },
@@ -11749,6 +11648,71 @@
         "expedition_success_chance": 0,
         "xp": 0,
         "expedition_expiration_start_time": "2022-02-05T21:42:19.785Z",
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "SID_Pistol_SemiAuto_C_Ore_T00": {
+      "templateId": "Schematic:SID_Pistol_SemiAuto_C_Ore_T00",
+      "attributes": {
+        "alteration_slots": [],
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "alterations": [],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "SID_Floor_Health_C_T00": {
+      "templateId": "Schematic:SID_Floor_Health_C_T00",
+      "attributes": {
+        "alteration_slots": [],
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "alterations": [],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "SID_Edged_Sword_Medium_C_Ore_T00": {
+      "templateId": "Schematic:SID_Edged_Sword_Medium_C_Ore_T00",
+      "attributes": {
+        "alteration_slots": [],
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "alterations": [],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "SID_Assault_Auto_C_Ore_T00": {
+      "templateId": "Schematic:SID_Assault_Auto_C_Ore_T00",
+      "attributes": {
+        "alteration_slots": [],
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "alterations": [],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "Gadget_Generic_Turret": {
+      "templateId": "Schematic:Gadget_Generic_Turret",
+      "attributes": {
+        "alteration_slots": [],
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "alterations": [],
+        "xp": 0,
         "favorite": false
       },
       "quantity": 1
