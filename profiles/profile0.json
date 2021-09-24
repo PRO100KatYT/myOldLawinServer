@@ -33,7 +33,6 @@
           {
             "loadoutName": "Default",
             "selectedGadgets": [
-              "Schematic:sid_assault_auto_sr_crystal_t06",
               "Gadget:g_commando_goincommando",
               "Gadget:g_commando_fraggrenade",
               "Gadget:gadget_generic_turret"
@@ -72,7 +71,6 @@
           {
             "loadoutName": "Default",
             "selectedGadgets": [
-              "Schematic:sid_assault_auto_sr_crystal_t06",
               "Gadget:g_commando_goincommando",
               "Gadget:g_commando_fraggrenade",
               "Gadget:gadget_generic_turret"
@@ -111,7 +109,6 @@
           {
             "loadoutName": "Default",
             "selectedGadgets": [
-              "Schematic:sid_assault_auto_sr_crystal_t06",
               "Gadget:g_commando_goincommando",
               "Gadget:g_commando_fraggrenade",
               "Gadget:gadget_generic_turret"
@@ -3353,30 +3350,6 @@
       },
       "quantity": 1
     },
-    "TID_Wall_Wood_Spikes_C_T01": {
-      "templateId": "Schematic:SID_Wall_Wood_Spikes_C_T01",
-      "attributes": {
-        "alteration_slots": [
-          {
-            "Type": "GameplaySlot",
-            "NumSlots": 1
-          },
-          {
-            "Type": "AttributeSlot",
-            "NumSlots": 1
-          }
-        ],
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "alterations": [
-          "Alteration:aid_att_trap_coredamage_t02"
-        ],
-        "xp": 0,
-        "favorite": false
-      },
-      "quantity": 1
-    },
     "0f0e1281-25ab-405b-89d8-d9dcb86439fa": {
       "templateId": "CollectedResource:Token_collectionresource_nodegatetoken01",
       "attributes": {
@@ -3429,33 +3402,6 @@
         "xp": 0,
         "sent_new_notification": true,
         "completion_kill_husk_smasher": 0,
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "WID_Assault_Surgical_VR_Ore_T01": {
-      "templateId": "Schematic:SID_Assault_Surgical_VR_Ore_T01",
-      "attributes": {
-        "alteration_slots": [
-          {
-            "Type": "GameplaySlot",
-            "NumSlots": 1
-          },
-          {
-            "Type": "AttributeSlot",
-            "NumSlots": 4
-          }
-        ],
-        "max_level_bonus": 0,
-        "level": 4,
-        "item_seen": true,
-        "alterations": [
-          "Alteration:aid_att_ranged_damage",
-          "Alteration:aid_att_ranged_clipsize",
-          "Alteration:aid_att_ranged_recoil_alt1",
-          "Alteration:aid_g_ranged_energyaffliction"
-        ],
-        "xp": 0,
         "favorite": false
       },
       "quantity": 1
@@ -3603,19 +3549,6 @@
       },
       "quantity": 1
     },
-    "WID_Assault_Auto_SR_Ore_T01": {
-      "templateId": "Schematic:SID_Assault_Auto_SR_Ore_T01",
-      "attributes": {
-        "last_state_change_time": "2017-08-29T21:05:57.087Z",
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "xp": 0,
-        "sent_new_notification": true,
-        "favorite": false
-      },
-      "quantity": 1
-    },
     "agresdarti48ut387t8bgggaa": {
       "templateId": "Quest:TestQuest_Narrative",
       "attributes": {
@@ -3701,118 +3634,11 @@
       },
       "quantity": 1
     },
-    "WID_Sniper_AMR_R_Ore_T01": {
-      "templateId": "Schematic:SID_Sniper_AMR_R_Ore_T01",
-      "attributes": {
-        "alteration_slots": [
-          {
-            "Type": "GameplaySlot",
-            "NumSlots": 1
-          },
-          {
-            "Type": "AttributeSlot",
-            "NumSlots": 3
-          }
-        ],
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "alterations": [
-          "Alteration:aid_att_ranged_durabilitydecay",
-          "Alteration:aid_att_weapon_afflicted_dmgbonus",
-          "Alteration:aid_att_weapon_slowed_dmgbonus_alt1"
-        ],
-        "xp": 0,
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "WID_Assault_Auto_SR_Crystal_T06": {
-      "templateId": "Schematic:SID_Assault_Auto_SR_Crystal_T06",
-      "attributes": {
-        "alteration_slots": [
-          {
-            "Type": "GameplaySlot",
-            "NumSlots": 1
-          },
-          {
-            "Type": "AttributeSlot",
-            "NumSlots": 3
-          }
-        ],
-        "max_level_bonus": 0,
-        "level": 60,
-        "item_seen": true,
-        "alterations": [
-          "Alteration:aid_att_ranged_durabilitydecay",
-          "Alteration:aid_att_weapon_afflicted_dmgbonus",
-          "Alteration:aid_att_weapon_slowed_dmgbonus_alt1"
-        ],
-        "xp": 0,
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "WID_Harvest_Pickaxe_Athena_C_T01": {
-      "templateId": "Schematic:SID_Harvest_Pickaxe_Athena_C_T01",
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "xp": 0,
-        "favorite": false
-      },
-      "quantity": 1
-    },
     "AmmoDataRockets": {
       "templateId": "Schematic:SID_AmmoDataRockets",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
-        "item_seen": true,
-        "xp": 0,
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "1fakfgrughghgudghudhgdughdughudhgugg": {
-      "templateId": "Schematic:gadget_generic_turret",
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "xp": 0,
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "1fakfgrughfaitcudghudhgdughdughudhgugg": {
-      "templateId": "Schematic:gadget_generic_turret",
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "xp": 0,
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "1fakfgrughfaitcudghudhgdughdughudhgug": {
-      "templateId": "gadget:g_commando_goincommando",
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "xp": 0,
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "WID_Sniper_TripleShot_Athena_SR_Ore_T03": {
-      "templateId": "Schematic:SID_Sniper_TripleShot_Athena_SR_Ore_T03",
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 20,
         "item_seen": true,
         "xp": 0,
         "favorite": false
@@ -3992,30 +3818,6 @@
       },
       "quantity": 1
     },
-    "TID_Ceiling_Electric_Single_C_T01": {
-      "templateId": "Schematic:SID_Ceiling_Electric_Single_C_T01",
-      "attributes": {
-        "alteration_slots": [
-          {
-            "Type": "GameplaySlot",
-            "NumSlots": 1
-          },
-          {
-            "Type": "AttributeSlot",
-            "NumSlots": 1
-          }
-        ],
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "alterations": [
-          "Alteration:aid_att_trap_critdamage"
-        ],
-        "xp": 0,
-        "favorite": false
-      },
-      "quantity": 1
-    },
     "3aeca522-2d1f-4663-a2a6-c27b3fb7c43b": {
       "templateId": "HomebaseBannerIcon:standardbanner19",
       "attributes": {
@@ -4069,31 +3871,6 @@
         "completion_complete_gate_1": 1,
         "xp": 0,
         "sent_new_notification": true,
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "WID_Pistol_BoltRevolver_UC_Ore_T01": {
-      "templateId": "Schematic:SID_Pistol_BoltRevolver_UC_Ore_T01",
-      "attributes": {
-        "alteration_slots": [
-          {
-            "Type": "GameplaySlot",
-            "NumSlots": 1
-          },
-          {
-            "Type": "AttributeSlot",
-            "NumSlots": 2
-          }
-        ],
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "alterations": [
-          "Alteration:aid_att_ranged_durabilitydecay",
-          "Alteration:aid_att_ranged_recoil"
-        ],
-        "xp": 0,
         "favorite": false
       },
       "quantity": 1
@@ -5110,30 +4887,6 @@
       },
       "quantity": 1
     },
-    "WID_Edged_Scythe_C_Ore_T01": {
-      "templateId": "Schematic:SID_Edged_Scythe_C_Ore_T01",
-      "attributes": {
-        "alteration_slots": [
-          {
-            "Type": "GameplaySlot",
-            "NumSlots": 1
-          },
-          {
-            "Type": "AttributeSlot",
-            "NumSlots": 1
-          }
-        ],
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "alterations": [
-          "Alteration:aid_att_melee_damage"
-        ],
-        "xp": 0,
-        "favorite": false
-      },
-      "quantity": 1
-    },
     "ac7c555e-83bd-4884-b628-f4e2421fd8aa": {
       "templateId": "Quest:homebasequest_weakpointvision",
       "attributes": {
@@ -5246,31 +4999,6 @@
       },
       "quantity": 1
     },
-    "WID_Shotgun_Auto_UC_Ore_T01": {
-      "templateId": "Schematic:SID_Shotgun_Auto_UC_Ore_T01",
-      "attributes": {
-        "alteration_slots": [
-          {
-            "Type": "GameplaySlot",
-            "NumSlots": 1
-          },
-          {
-            "Type": "AttributeSlot",
-            "NumSlots": 2
-          }
-        ],
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "alterations": [
-          "Alteration:aid_att_ranged_clipsize",
-          "Alteration:aid_att_ranged_clipsize_alt1"
-        ],
-        "xp": 0,
-        "favorite": false
-      },
-      "quantity": 1
-    },
     "7c5d6c34-2f0b-4bb4-b8e3-7c5e28defa3c": {
       "templateId": "HomebaseBannerIcon:standardbanner15",
       "attributes": {
@@ -5300,32 +5028,6 @@
       },
       "quantity": 1
     },
-    "WID_Shotgun_Tactical_Precision_R_Ore_T01": {
-      "templateId": "Schematic:SID_Shotgun_Tactical_Precision_R_Ore_T01",
-      "attributes": {
-        "alteration_slots": [
-          {
-            "Type": "GameplaySlot",
-            "NumSlots": 1
-          },
-          {
-            "Type": "AttributeSlot",
-            "NumSlots": 3
-          }
-        ],
-        "max_level_bonus": 0,
-        "level": 2,
-        "item_seen": true,
-        "alterations": [
-          "Alteration:aid_att_ranged_damage",
-          "Alteration:aid_att_ranged_critchance_alt1",
-          "Alteration:aid_g_ranged_electricalaffliction"
-        ],
-        "xp": 0,
-        "favorite": false
-      },
-      "quantity": 1
-    },
     "TID_Floor_Health_C_T00": {
       "templateId": "Schematic:SID_Floor_Health_C_T00",
       "attributes": {
@@ -5348,62 +5050,10 @@
       },
       "quantity": 1
     },
-    "WID_Assault_Burst_R_Ore_T01": {
-      "templateId": "Schematic:SID_Assault_Burst_R_Ore_T01",
-      "attributes": {
-        "alteration_slots": [
-          {
-            "Type": "GameplaySlot",
-            "NumSlots": 1
-          },
-          {
-            "Type": "AttributeSlot",
-            "NumSlots": 3
-          }
-        ],
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "alterations": [
-          "Alteration:aid_att_ranged_firerate",
-          "Alteration:aid_att_ranged_damage",
-          "Alteration:aid_g_ranged_electricalaffliction"
-        ],
-        "xp": 0,
-        "favorite": false
-      },
-      "quantity": 1
-    },
     "93263e0d-eb6d-42bb-8459-7a288122cdde": {
       "templateId": "HomebaseBannerIcon:standardbanner31",
       "attributes": {
         "item_seen": true
-      },
-      "quantity": 1
-    },
-    "WID_Blunt_Light_Bat_R_Ore_T01": {
-      "templateId": "Schematic:SID_Blunt_Light_Bat_R_Ore_T01",
-      "attributes": {
-        "alteration_slots": [
-          {
-            "Type": "GameplaySlot",
-            "NumSlots": 1
-          },
-          {
-            "Type": "AttributeSlot",
-            "NumSlots": 1
-          }
-        ],
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "alterations": [
-          "Alteration:aid_att_melee_damage",
-          "Alteration:aid_att_weapon_slowed_dmgbonus_alt1",
-          "Alteration:aid_att_melee_critdamage_alt2"
-        ],
-        "xp": 0,
-        "favorite": false
       },
       "quantity": 1
     },
@@ -5470,32 +5120,6 @@
       "templateId": "HomebaseBannerColor:defaultcolor14",
       "attributes": {
         "item_seen": true
-      },
-      "quantity": 1
-    },
-    "WID_Blunt_Light_R_Ore_T01": {
-      "templateId": "Schematic:SID_Blunt_Light_R_Ore_T01",
-      "attributes": {
-        "alteration_slots": [
-          {
-            "Type": "GameplaySlot",
-            "NumSlots": 1
-          },
-          {
-            "Type": "AttributeSlot",
-            "NumSlots": 3
-          }
-        ],
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "alterations": [
-          "Alteration:aid_att_melee_critchance",
-          "Alteration:aid_att_melee_durabilitydecay_alt2",
-          "Alteration:aid_g_melee_incendiary"
-        ],
-        "xp": 0,
-        "favorite": false
       },
       "quantity": 1
     },
@@ -5730,31 +5354,6 @@
       },
       "quantity": 1
     },
-    "WID_Assault_Burst_UC_Ore_T01": {
-      "templateId": "Schematic:SID_Assault_Burst_UC_Ore_T01",
-      "attributes": {
-        "alteration_slots": [
-          {
-            "Type": "GameplaySlot",
-            "NumSlots": 1
-          },
-          {
-            "Type": "AttributeSlot",
-            "NumSlots": 2
-          }
-        ],
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "alterations": [
-          "Alteration:aid_att_ranged_durabilitydecay",
-          "Alteration:aid_att_ranged_damage"
-        ],
-        "xp": 0,
-        "favorite": false
-      },
-      "quantity": 1
-    },
     "9aafecdc-c09f-4741-add3-41f3e521d955": {
       "templateId": "Quest:homebaseonboardinggrantschematics",
       "attributes": {
@@ -5770,86 +5369,10 @@
       },
       "quantity": 1
     },
-    "WID_Piercing_Spear_UC_Ore_T01": {
-      "templateId": "Schematic:SID_Piercing_Spear_UC_Ore_T01",
-      "attributes": {
-        "alteration_slots": [
-          {
-            "Type": "GameplaySlot",
-            "NumSlots": 1
-          },
-          {
-            "Type": "AttributeSlot",
-            "NumSlots": 2
-          }
-        ],
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "alterations": [
-          "Alteration:aid_att_melee_damage",
-          "Alteration:aid_g_melee_affliction"
-        ],
-        "xp": 0,
-        "favorite": false
-      },
-      "quantity": 1
-    },
     "3abeaad4-31fd-49b9-ac16-35fcee36de7d": {
       "templateId": "HomebaseBannerIcon:standardbanner10",
       "attributes": {
         "item_seen": true
-      },
-      "quantity": 1
-    },
-    "WID_Blunt_Medium_UC_Ore_T01": {
-      "templateId": "Schematic:SID_Blunt_Medium_UC_Ore_T01",
-      "attributes": {
-        "alteration_slots": [
-          {
-            "Type": "GameplaySlot",
-            "NumSlots": 1
-          },
-          {
-            "Type": "AttributeSlot",
-            "NumSlots": 2
-          }
-        ],
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "alterations": [
-          "Alteration:aid_att_melee_damage",
-          "Alteration:aid_att_melee_staminacostreduction"
-        ],
-        "xp": 0,
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "WID_Sniper_BoltAction_Scope_R_Ore_T01": {
-      "templateId": "Schematic:SID_Sniper_BoltAction_Scope_R_Ore_T01",
-      "attributes": {
-        "alteration_slots": [
-          {
-            "Type": "GameplaySlot",
-            "NumSlots": 1
-          },
-          {
-            "Type": "AttributeSlot",
-            "NumSlots": 3
-          }
-        ],
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "alterations": [
-          "Alteration:aid_att_ranged_damage",
-          "Alteration:aid_att_ranged_durabilitydecay",
-          "Alteration:aid_g_ranged_cryoaffliction"
-        ],
-        "xp": 0,
-        "favorite": false
       },
       "quantity": 1
     },
@@ -5982,28 +5505,6 @@
       },
       "quantity": 1
     },
-    "TID_Floor_Spikes_Wood_C_T01": {
-      "templateId": "Schematic:sid_floor_spikes_wood_c_t01",
-      "attributes": {
-        "alteration_slots": [
-          {
-            "Type": "GameplaySlot",
-            "NumSlots": 1
-          },
-          {
-            "Type": "AttributeSlot",
-            "NumSlots": 1
-          }
-        ],
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "alterations": [],
-        "xp": 0,
-        "favorite": false
-      },
-      "quantity": 1
-    },
     "903efe28-0319-4ef0-9cc0-23df20ff39c1": {
       "templateId": "HomebaseBannerIcon:standardbanner8",
       "attributes": {
@@ -6022,31 +5523,6 @@
       "templateId": "HomebaseBannerIcon:foundertier1banner1",
       "attributes": {
         "item_seen": true
-      },
-      "quantity": 1
-    },
-    "TID_Wall_Darts_UC_T01": {
-      "templateId": "Schematic:SID_Wall_Darts_UC_T01",
-      "attributes": {
-        "alteration_slots": [
-          {
-            "Type": "GameplaySlot",
-            "NumSlots": 1
-          },
-          {
-            "Type": "AttributeSlot",
-            "NumSlots": 2
-          }
-        ],
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "alterations": [
-          "Alteration:aid_att_trap_maxdurability",
-          "Alteration:aid_att_trap_critchance"
-        ],
-        "xp": 0,
-        "favorite": false
       },
       "quantity": 1
     },
