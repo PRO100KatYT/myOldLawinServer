@@ -460,26 +460,38 @@ express.get("/fortnite/api/game/v2/privacy/account/*", async (req, res) => {
 })
 
 express.get("/account/api/public/account/:accountId", async (req, res) => {
-	res.json(
-	{
-		"id": req.params.accountId,
-		"displayName": "PRO100KatYT",
-		"name": "Lawin",
-		"email": req.params.accountId + "@gmail.com",
-		"failedLoginAttempts": 0,
-		"lastLogin": new Date().toISOString(),
-		"numberOfDisplayNameChanges": 0,
-		"ageGroup": "UNKNOWN",
-		"headless": false,
-		"country": "PL",
-		"lastName": "PRO100KatYT",
-		"preferredLanguage": "pl",
-		"canUpdateDisplayName": false,
-		"tfaEnabled": false,
-		"emailVerified": true,
-		"minorVerified": false,
-		"minorExpected": false,
-		"minorStatus": "UNKNOWN"
+	if (!req.headers["user-agent"].includes("3724489")) {
+		return res
+		.status(420)
+		.json(
+			{
+				"errorCode":"\n\nZe względów technicznych, jedyne rzeczy, które możesz ewoluować to:\n- Legendarny Schemat: Machina Oblężnicza",
+				"numericErrorCode":69,
+				"originatingService":"chujekjebany",
+				"intent":"prod-live"
+			})
+		} else {
+		res.json(
+		{
+			"id": req.params.accountId,
+			"displayName": "PRO100KatYT",
+			"name": "Lawin",
+			"email": req.params.accountId + "@gmail.com",
+			"failedLoginAttempts": 0,
+			"lastLogin": new Date().toISOString(),
+			"numberOfDisplayNameChanges": 0,
+			"ageGroup": "UNKNOWN",
+			"headless": false,
+			"country": "PL",
+			"lastName": "PRO100KatYT",
+			"preferredLanguage": "pl",
+			"canUpdateDisplayName": false,
+			"tfaEnabled": false,
+			"emailVerified": true,
+			"minorVerified": false,
+			"minorExpected": false,
+			"minorStatus": "UNKNOWN"
+		}
 	}
 )
 	res.status(200);
