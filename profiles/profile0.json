@@ -11703,19 +11703,6 @@
         "favorite": false
       },
       "quantity": 1
-    },
-    "Gadget_Generic_Turret": {
-      "templateId": "Schematic:Gadget_Generic_Turret",
-      "attributes": {
-        "alteration_slots": [],
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "alterations": [],
-        "xp": 0,
-        "favorite": false
-      },
-      "quantity": 1
     }
   },
   "stats": {
