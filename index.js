@@ -460,7 +460,7 @@ express.get("/fortnite/api/game/v2/privacy/account/*", async (req, res) => {
 })
 
 express.get("/account/api/public/account/:accountId", async (req, res) => {
-	if (!req.headers["user-agent"].includes("3724489")) {
+	if (!req.headers["user-agent"].includes("3935073")) {
 		return res
 		.status(420)
 		.json(
