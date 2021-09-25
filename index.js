@@ -492,8 +492,8 @@ express.get("/account/api/public/account/:accountId", async (req, res) => {
 			"minorExpected": false,
 			"minorStatus": "UNKNOWN"
 		}
-	}
-)
+	)
+}
 	res.status(200);
 	res.end();
 	console.log("Osoba sie zalogowala.")
