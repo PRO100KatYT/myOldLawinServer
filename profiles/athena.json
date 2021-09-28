@@ -2179,8 +2179,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_100APlus": {
-      "templateId": "AthenaEmoji:Emoji_100APlus",
+	"AthenaDance:Emoji_100APlus": {
+      "templateId": "AthenaDance:Emoji_100APlus",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2191,8 +2191,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_1HP": {
-      "templateId": "AthenaEmoji:Emoji_1HP",
+	"AthenaDance:Emoji_1HP": {
+      "templateId": "AthenaDance:Emoji_1HP",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2203,8 +2203,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_200IQPlay": {
-      "templateId": "AthenaEmoji:Emoji_200IQPlay",
+	"AthenaDance:Emoji_200IQPlay": {
+      "templateId": "AthenaDance:Emoji_200IQPlay",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2215,8 +2215,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_APlus": {
-      "templateId": "AthenaEmoji:Emoji_APlus",
+	"AthenaDance:Emoji_APlus": {
+      "templateId": "AthenaDance:Emoji_APlus",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2227,8 +2227,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_Alarm": {
-      "templateId": "AthenaEmoji:Emoji_Alarm",
+	"AthenaDance:Emoji_Alarm": {
+      "templateId": "AthenaDance:Emoji_Alarm",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2239,8 +2239,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_ArmFlex": {
-      "templateId": "AthenaEmoji:Emoji_ArmFlex",
+	"AthenaDance:Emoji_ArmFlex": {
+      "templateId": "AthenaDance:Emoji_ArmFlex",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2251,8 +2251,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_Awww": {
-      "templateId": "AthenaEmoji:Emoji_Awww",
+	"AthenaDance:Emoji_Awww": {
+      "templateId": "AthenaDance:Emoji_Awww",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2263,8 +2263,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_Baited": {
-      "templateId": "AthenaEmoji:Emoji_Baited",
+	"AthenaDance:Emoji_Baited": {
+      "templateId": "AthenaDance:Emoji_Baited",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2275,8 +2275,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_BobWhat": {
-      "templateId": "AthenaEmoji:Emoji_BobWhat",
+	"AthenaDance:Emoji_BobWhat": {
+      "templateId": "AthenaDance:Emoji_BobWhat",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2287,8 +2287,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_Boombox": {
-      "templateId": "AthenaEmoji:Emoji_Boombox",
+	"AthenaDance:Emoji_Boombox": {
+      "templateId": "AthenaDance:Emoji_Boombox",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2299,8 +2299,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_Bullseye": {
-      "templateId": "AthenaEmoji:Emoji_Bullseye",
+	"AthenaDance:Emoji_Bullseye": {
+      "templateId": "AthenaDance:Emoji_Bullseye",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2311,8 +2311,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_Bush": {
-      "templateId": "AthenaEmoji:Emoji_Bush",
+	"AthenaDance:Emoji_Bush": {
+      "templateId": "AthenaDance:Emoji_Bush",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2323,8 +2323,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_Clapping": {
-      "templateId": "AthenaEmoji:Emoji_Clapping",
+	"AthenaDance:Emoji_Clapping": {
+      "templateId": "AthenaDance:Emoji_Clapping",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2335,8 +2335,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_DealWithIt": {
-      "templateId": "AthenaEmoji:Emoji_DealWithIt",
+	"AthenaDance:Emoji_DealWithIt": {
+      "templateId": "AthenaDance:Emoji_DealWithIt",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2347,8 +2347,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_Disco": {
-      "templateId": "AthenaEmoji:Emoji_Disco",
+	"AthenaDance:Emoji_Disco": {
+      "templateId": "AthenaDance:Emoji_Disco",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2359,8 +2359,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_Exclamation": {
-      "templateId": "AthenaEmoji:Emoji_Exclamation",
+	"AthenaDance:Emoji_Exclamation": {
+      "templateId": "AthenaDance:Emoji_Exclamation",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2371,8 +2371,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_Explosion": {
-      "templateId": "AthenaEmoji:Emoji_Explosion",
+	"AthenaDance:Emoji_Explosion": {
+      "templateId": "AthenaDance:Emoji_Explosion",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2383,8 +2383,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_FistBump": {
-      "templateId": "AthenaEmoji:Emoji_FistBump",
+	"AthenaDance:Emoji_FistBump": {
+      "templateId": "AthenaDance:Emoji_FistBump",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2395,8 +2395,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_FlamingRage": {
-      "templateId": "AthenaEmoji:Emoji_FlamingRage",
+	"AthenaDance:Emoji_FlamingRage": {
+      "templateId": "AthenaDance:Emoji_FlamingRage",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2407,8 +2407,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_FoamFinger": {
-      "templateId": "AthenaEmoji:Emoji_FoamFinger",
+	"AthenaDance:Emoji_FoamFinger": {
+      "templateId": "AthenaDance:Emoji_FoamFinger",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2419,8 +2419,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_GG": {
-      "templateId": "AthenaEmoji:Emoji_GG",
+	"AthenaDance:Emoji_GG": {
+      "templateId": "AthenaDance:Emoji_GG",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2431,8 +2431,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_GoodGame": {
-      "templateId": "AthenaEmoji:Emoji_GoodGame",
+	"AthenaDance:Emoji_GoodGame": {
+      "templateId": "AthenaDance:Emoji_GoodGame",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2443,8 +2443,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_Headshot": {
-      "templateId": "AthenaEmoji:Emoji_Headshot",
+	"AthenaDance:Emoji_Headshot": {
+      "templateId": "AthenaDance:Emoji_Headshot",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2455,8 +2455,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_HeartHands": {
-      "templateId": "AthenaEmoji:Emoji_HeartHands",
+	"AthenaDance:Emoji_HeartHands": {
+      "templateId": "AthenaDance:Emoji_HeartHands",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2467,8 +2467,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_Heartbroken": {
-      "templateId": "AthenaEmoji:Emoji_Heartbroken",
+	"AthenaDance:Emoji_Heartbroken": {
+      "templateId": "AthenaDance:Emoji_Heartbroken",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2479,8 +2479,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_Hoarder": {
-      "templateId": "AthenaEmoji:Emoji_Hoarder",
+	"AthenaDance:Emoji_Hoarder": {
+      "templateId": "AthenaDance:Emoji_Hoarder",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2491,8 +2491,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_HotDawg": {
-      "templateId": "AthenaEmoji:Emoji_HotDawg",
+	"AthenaDance:Emoji_HotDawg": {
+      "templateId": "AthenaDance:Emoji_HotDawg",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2503,8 +2503,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_ISeeYou": {
-      "templateId": "AthenaEmoji:Emoji_ISeeYou",
+	"AthenaDance:Emoji_ISeeYou": {
+      "templateId": "AthenaDance:Emoji_ISeeYou",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2515,8 +2515,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_InLove": {
-      "templateId": "AthenaEmoji:Emoji_InLove",
+	"AthenaDance:Emoji_InLove": {
+      "templateId": "AthenaDance:Emoji_InLove",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2527,8 +2527,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_Kaboom": {
-      "templateId": "AthenaEmoji:Emoji_Kaboom",
+	"AthenaDance:Emoji_Kaboom": {
+      "templateId": "AthenaDance:Emoji_Kaboom",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2539,8 +2539,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_LOL": {
-      "templateId": "AthenaEmoji:Emoji_LOL",
+	"AthenaDance:Emoji_LOL": {
+      "templateId": "AthenaDance:Emoji_LOL",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2551,8 +2551,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_Lucky": {
-      "templateId": "AthenaEmoji:Emoji_Lucky",
+	"AthenaDance:Emoji_Lucky": {
+      "templateId": "AthenaDance:Emoji_Lucky",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2563,8 +2563,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_MVP": {
-      "templateId": "AthenaEmoji:Emoji_MVP",
+	"AthenaDance:Emoji_MVP": {
+      "templateId": "AthenaDance:Emoji_MVP",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2575,8 +2575,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_Majestic": {
-      "templateId": "AthenaEmoji:Emoji_Majestic",
+	"AthenaDance:Emoji_Majestic": {
+      "templateId": "AthenaDance:Emoji_Majestic",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2587,8 +2587,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_MaryBobbins": {
-      "templateId": "AthenaEmoji:Emoji_MaryBobbins",
+	"AthenaDance:Emoji_MaryBobbins": {
+      "templateId": "AthenaDance:Emoji_MaryBobbins",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2599,8 +2599,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_Number1": {
-      "templateId": "AthenaEmoji:Emoji_Number1",
+	"AthenaDance:Emoji_Number1": {
+      "templateId": "AthenaDance:Emoji_Number1",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2611,8 +2611,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_OnFire": {
-      "templateId": "AthenaEmoji:Emoji_OnFire",
+	"AthenaDance:Emoji_OnFire": {
+      "templateId": "AthenaDance:Emoji_OnFire",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2623,8 +2623,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_PeaceSign": {
-      "templateId": "AthenaEmoji:Emoji_PeaceSign",
+	"AthenaDance:Emoji_PeaceSign": {
+      "templateId": "AthenaDance:Emoji_PeaceSign",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2635,8 +2635,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_PickAxe": {
-      "templateId": "AthenaEmoji:Emoji_PickAxe",
+	"AthenaDance:Emoji_PickAxe": {
+      "templateId": "AthenaDance:Emoji_PickAxe",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2647,8 +2647,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_Placeholder": {
-      "templateId": "AthenaEmoji:Emoji_Placeholder",
+	"AthenaDance:Emoji_Placeholder": {
+      "templateId": "AthenaDance:Emoji_Placeholder",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2659,8 +2659,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_Positivity": {
-      "templateId": "AthenaEmoji:Emoji_Positivity",
+	"AthenaDance:Emoji_Positivity": {
+      "templateId": "AthenaDance:Emoji_Positivity",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2671,8 +2671,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_PotatoAim": {
-      "templateId": "AthenaEmoji:Emoji_PotatoAim",
+	"AthenaDance:Emoji_PotatoAim": {
+      "templateId": "AthenaDance:Emoji_PotatoAim",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2683,8 +2683,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_Potion": {
-      "templateId": "AthenaEmoji:Emoji_Potion",
+	"AthenaDance:Emoji_Potion": {
+      "templateId": "AthenaDance:Emoji_Potion",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2695,8 +2695,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_RIP": {
-      "templateId": "AthenaEmoji:Emoji_RIP",
+	"AthenaDance:Emoji_RIP": {
+      "templateId": "AthenaDance:Emoji_RIP",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2707,8 +2707,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_Rabid": {
-      "templateId": "AthenaEmoji:Emoji_Rabid",
+	"AthenaDance:Emoji_Rabid": {
+      "templateId": "AthenaDance:Emoji_Rabid",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2719,8 +2719,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_Rage": {
-      "templateId": "AthenaEmoji:Emoji_Rage",
+	"AthenaDance:Emoji_Rage": {
+      "templateId": "AthenaDance:Emoji_Rage",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2731,8 +2731,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_Rekt": {
-      "templateId": "AthenaEmoji:Emoji_Rekt",
+	"AthenaDance:Emoji_Rekt": {
+      "templateId": "AthenaDance:Emoji_Rekt",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2743,8 +2743,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_Rock": {
-      "templateId": "AthenaEmoji:Emoji_Rock",
+	"AthenaDance:Emoji_Rock": {
+      "templateId": "AthenaDance:Emoji_Rock",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2755,8 +2755,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_RocketRide": {
-      "templateId": "AthenaEmoji:Emoji_RocketRide",
+	"AthenaDance:Emoji_RocketRide": {
+      "templateId": "AthenaDance:Emoji_RocketRide",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2767,8 +2767,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_Salty": {
-      "templateId": "AthenaEmoji:Emoji_Salty",
+	"AthenaDance:Emoji_Salty": {
+      "templateId": "AthenaDance:Emoji_Salty",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2779,8 +2779,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_Stealthy": {
-      "templateId": "AthenaEmoji:Emoji_Stealthy",
+	"AthenaDance:Emoji_Stealthy": {
+      "templateId": "AthenaDance:Emoji_Stealthy",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2791,8 +2791,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_Storm": {
-      "templateId": "AthenaEmoji:Emoji_Storm",
+	"AthenaDance:Emoji_Storm": {
+      "templateId": "AthenaDance:Emoji_Storm",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2803,8 +2803,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_Sucker": {
-      "templateId": "AthenaEmoji:Emoji_Sucker",
+	"AthenaDance:Emoji_Sucker": {
+      "templateId": "AthenaDance:Emoji_Sucker",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2815,8 +2815,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_Thief": {
-      "templateId": "AthenaEmoji:Emoji_Thief",
+	"AthenaDance:Emoji_Thief": {
+      "templateId": "AthenaDance:Emoji_Thief",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2827,8 +2827,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_ThumbsDown": {
-      "templateId": "AthenaEmoji:Emoji_ThumbsDown",
+	"AthenaDance:Emoji_ThumbsDown": {
+      "templateId": "AthenaDance:Emoji_ThumbsDown",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2839,8 +2839,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_ThumbsUp": {
-      "templateId": "AthenaEmoji:Emoji_ThumbsUp",
+	"AthenaDance:Emoji_ThumbsUp": {
+      "templateId": "AthenaDance:Emoji_ThumbsUp",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -2851,8 +2851,8 @@
       },
       "quantity": 1
     },
-	"AthenaEmoji:Emoji_Wow": {
-      "templateId": "AthenaEmoji:Emoji_Wow",
+	"AthenaDance:Emoji_Wow": {
+      "templateId": "AthenaDance:Emoji_Wow",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
