@@ -1675,6 +1675,126 @@
       },
       "quantity": 1
     },
+	"AthenaConsumableEmote:EID_GunShow": {
+      "templateId": "AthenaConsumableEmote:EID_GunShow",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaSkyDiveContrail:DefaultContrail": {
+      "templateId": "AthenaSkyDiveContrail:DefaultContrail",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaSkyDiveContrail:Trails_ID_001_Disco": {
+      "templateId": "AthenaSkyDiveContrail:Trails_ID_001_Disco",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaSkyDiveContrail:Trails_ID_002_Rainbow": {
+      "templateId": "AthenaSkyDiveContrail:Trails_ID_002_Rainbow",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaSkyDiveContrail:Trails_ID_003_Fire": {
+      "templateId": "AthenaSkyDiveContrail:Trails_ID_003_Fire",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaSkyDiveContrail:Trails_ID_004_BlueStreak": {
+      "templateId": "AthenaSkyDiveContrail:Trails_ID_004_BlueStreak",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaSkyDiveContrail:Trails_ID_005_Bubbles": {
+      "templateId": "AthenaSkyDiveContrail:Trails_ID_005_Bubbles",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaSkyDiveContrail:Trails_ID_006_StarsAndStripes": {
+      "templateId": "AthenaSkyDiveContrail:Trails_ID_006_StarsAndStripes",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaSkyDiveContrail:Trails_ID_007_TP": {
+      "templateId": "AthenaSkyDiveContrail:Trails_ID_007_TP",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaSkyDiveContrail:Trails_ID_008_RideTheLightning": {
+      "templateId": "AthenaSkyDiveContrail:Trails_ID_008_RideTheLightning",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    }
   },
   "stats": {
     "attributes": {
