@@ -1300,6 +1300,54 @@ express.post("/account/api/oauth/token", async (req, res) => {
 			res.status(200);
 			res.end();
 		});
+		
+		express.post("/fortnite/api/game/v2/profile/*/client/PurchaseCatalogEntry", async (req, res) => {
+			if (req.headers["user-agent"].includes("Mozilla")) {
+				return res
+				.status(405)
+				.json(
+					{
+						"errorCode":"errors.com.epicgames.common.method_not_allowed",
+						"errorMessage":"Sorry the resource you were trying to access cannot be accessed with the HTTP method you used.",
+						"numericErrorCode":1009,
+						"originatingService":"fortnite",
+						"intent":"prod-live"
+					})
+				}
+			const profile = require(`./profiles/${req.query.profileId || "profile0"}.json`);
+			if (profile.profileId == "athena") {
+				const seasonchecker = require("./seasonchecker.js");
+				const seasondata = require("./season.json");
+				seasonchecker(req, seasondata);
+				profile.stats.attributes.season_num = seasondata.season;
+			}
+			profile.rvn += 1;
+			profile.commandRevision += 1;
+			fs.writeFile(`./profiles/${req.query.profileId || "profile0"}.json`, JSON.stringify(profile, null, 2), function(err) {
+				if (err) 
+				{ 
+					console.log('error:', err) 
+				};
+			  });
+			res.json(
+				{
+					"profileRevision": profile.rvn || 1,
+					"profileId": req.query.profileId || "profile0",
+					"profileChangesBaseRevision": profile.rvn || 1,
+					"profileChanges": [
+						{
+							"changeType": "fullProfileUpdate",
+							"profile": profile
+						}
+					],
+					"profileCommandRevision": profile.commandRevision || 0,
+					"serverTime": new Date().toISOString(),
+					"responseVersion": 1
+				}
+			)
+			res.status(200);
+			res.end();
+		});
 
 		express.post("/fortnite/api/game/v2/profile/*/client/AssignWorkerToSquad", async (req, res) => {
 			if (req.headers["user-agent"].includes("Mozilla")) {

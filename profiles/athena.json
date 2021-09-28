@@ -4018,18 +4018,13 @@
       "season_num": 3,
       "favorite_consumableemote": "",
       "banner_color": "DefaultColor1",
-      "favorite_callingcard": "",
       "favorite_character": "AthenaCharacter:CID_096_Athena_Commando_F_Founder",
-      "favorite_spray": [],
       "book_xp": 100,
       "favorite_loadingscreen": "AthenaLoadingScreen:LSID_DefaultBG",
       "book_purchased": true,
       "lifetime_wins": 100,
-      "favorite_hat": "",
       "level": 100,
       "favorite_battlebus": "",
-      "favorite_mapmarker": "",
-      "favorite_vehicledeco": "",
       "accountLevel": 100,
       "favorite_backpack": "AthenaBackpack:BID_033_FounderFemale",
       "favorite_dance": [
@@ -4041,25 +4036,12 @@
         ""
       ],
       "inventory_limit_bonus": 0,
-      "last_applied_loadout": "",
       "favorite_skydivecontrail": "AthenaSkyDiveContrail:DefaultContrail",
       "favorite_pickaxe": "AthenaPickaxe:Pickaxe_ID_022_HolidayGiftWrap",
       "favorite_glider": "AthenaGlider:FounderUmbrella",
-      "daily_rewards": {},
       "xp": 999,
       "season_friend_match_boost": 999999999,
-      "active_loadout_index": 0,
-      "favorite_musicpack": "",
-      "banner_icon": "OtherBanner68",
-      "favorite_itemwraps": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
+      "banner_icon": "OtherBanner68"
     }
   },
   "commandRevision": 2667
