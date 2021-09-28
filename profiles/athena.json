@@ -2862,6 +2862,1146 @@
         "favorite": false
       },
       "quantity": 1
+    },
+    "AthenaGlider:DefaultGlider": {
+      "templateId": "AthenaGlider:DefaultGlider",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Duo_Umbrella": {
+      "templateId": "AthenaGlider:Duo_Umbrella",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:FounderGlider": {
+      "templateId": "AthenaGlider:FounderGlider",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:FounderUmbrella": {
+      "templateId": "AthenaGlider:FounderUmbrella",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_Bold": {
+      "templateId": "AthenaGlider:Glider_Bold",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_Flames": {
+      "templateId": "AthenaGlider:Glider_Flames",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_FlowerPOwer": {
+      "templateId": "AthenaGlider:Glider_FlowerPOwer",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_ID_001": {
+      "templateId": "AthenaGlider:Glider_ID_001",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_ID_002_Medieval": {
+      "templateId": "AthenaGlider:Glider_ID_002_Medieval",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_ID_003_District": {
+      "templateId": "AthenaGlider:Glider_ID_003_District",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_ID_004_Disco": {
+      "templateId": "AthenaGlider:Glider_ID_004_Disco",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_ID_005_HolidaySweater": {
+      "templateId": "AthenaGlider:Glider_ID_005_HolidaySweater",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_ID_006_WinterCamo": {
+      "templateId": "AthenaGlider:Glider_ID_006_WinterCamo",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_ID_007_TurtleShell": {
+      "templateId": "AthenaGlider:Glider_ID_007_TurtleShell",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_ID_008_Graffiti": {
+      "templateId": "AthenaGlider:Glider_ID_008_Graffiti",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_ID_009_CandyCoat": {
+      "templateId": "AthenaGlider:Glider_ID_009_CandyCoat",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_ID_010_Storm": {
+      "templateId": "AthenaGlider:Glider_ID_010_Storm",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_ID_011_JollyRoger": {
+      "templateId": "AthenaGlider:Glider_ID_011_JollyRoger",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_ID_012_TeddyBear": {
+      "templateId": "AthenaGlider:Glider_ID_012_TeddyBear",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_ID_013_PSBlue": {
+      "templateId": "AthenaGlider:Glider_ID_013_PSBlue",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_ID_014_Dragon": {
+      "templateId": "AthenaGlider:Glider_ID_014_Dragon",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_ID_015_Brite": {
+      "templateId": "AthenaGlider:Glider_ID_015_Brite",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_ID_016_Tactical": {
+      "templateId": "AthenaGlider:Glider_ID_016_Tactical",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_ID_017_Assassin": {
+      "templateId": "AthenaGlider:Glider_ID_017_Assassin",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_ID_018_Twitch": {
+      "templateId": "AthenaGlider:Glider_ID_018_Twitch",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_ID_019_Taxi": {
+      "templateId": "AthenaGlider:Glider_ID_019_Taxi",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_ID_020_Fighter": {
+      "templateId": "AthenaGlider:Glider_ID_020_Fighter",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_ID_021_Scavenger": {
+      "templateId": "AthenaGlider:Glider_ID_021_Scavenger",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_ID_022_RockerPunk": {
+      "templateId": "AthenaGlider:Glider_ID_022_RockerPunk",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_ID_023_CuChulainn": {
+      "templateId": "AthenaGlider:Glider_ID_023_CuChulainn",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_MiG": {
+      "templateId": "AthenaGlider:Glider_MiG",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_Military": {
+      "templateId": "AthenaGlider:Glider_Military",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_Prismatic": {
+      "templateId": "AthenaGlider:Glider_Prismatic",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_RoadTrip": {
+      "templateId": "AthenaGlider:Glider_RoadTrip",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_Stealth": {
+      "templateId": "AthenaGlider:Glider_Stealth",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_Venom": {
+      "templateId": "AthenaGlider:Glider_Venom",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_Voyager": {
+      "templateId": "AthenaGlider:Glider_Voyager",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Glider_Warthog": {
+      "templateId": "AthenaGlider:Glider_Warthog",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:PreSeasonGlider": {
+      "templateId": "AthenaGlider:PreSeasonGlider",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:PreSeasonGlider_Elite": {
+      "templateId": "AthenaGlider:PreSeasonGlider_Elite",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Solo_Umbrella": {
+      "templateId": "AthenaGlider:Solo_Umbrella",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Squad_Umbrella": {
+      "templateId": "AthenaGlider:Squad_Umbrella",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Umbrella_Bronze": {
+      "templateId": "AthenaGlider:Umbrella_Bronze",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Umbrella_Gold": {
+      "templateId": "AthenaGlider:Umbrella_Gold",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Umbrella_PaperParasol": {
+      "templateId": "AthenaGlider:Umbrella_PaperParasol",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Umbrella_Platinum": {
+      "templateId": "AthenaGlider:Umbrella_Platinum",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Umbrella_Silver": {
+      "templateId": "AthenaGlider:Umbrella_Silver",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:Umbrella_Snowflake": {
+      "templateId": "AthenaGlider:Umbrella_Snowflake",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaLoadingScreen:LSID_001_Brite": {
+      "templateId": "AthenaLoadingScreen:LSID_001_Brite",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaLoadingScreen:LSID_002_Raptor": {
+      "templateId": "AthenaLoadingScreen:LSID_002_Raptor",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaLoadingScreen:LSID_003_Pickaxes": {
+      "templateId": "AthenaLoadingScreen:LSID_003_Pickaxes",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaLoadingScreen:LSID_004_TacticalShotgun": {
+      "templateId": "AthenaLoadingScreen:LSID_004_TacticalShotgun",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaLoadingScreen:LSID_005_SuppressedPistol": {
+      "templateId": "AthenaLoadingScreen:LSID_005_SuppressedPistol",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaLoadingScreen:LSID_006_Minigun": {
+      "templateId": "AthenaLoadingScreen:LSID_006_Minigun",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaLoadingScreen:LSID_007_TacticalCommando": {
+      "templateId": "AthenaLoadingScreen:LSID_007_TacticalCommando",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaLoadingScreen:LSID_008_KeyArt": {
+      "templateId": "AthenaLoadingScreen:LSID_008_KeyArt",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaLoadingScreen:LSID_DefaultBG": {
+      "templateId": "AthenaLoadingScreen:LSID_DefaultBG",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaLoadingScreen:LSID_FierceCloudpuff": {
+      "templateId": "AthenaLoadingScreen:LSID_FierceCloudpuff",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:BoltonPickaxe": {
+      "templateId": "AthenaPickaxe:BoltonPickaxe",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:DefaultPickaxe": {
+      "templateId": "AthenaPickaxe:DefaultPickaxe",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:HalloweenScythe": {
+      "templateId": "AthenaPickaxe:HalloweenScythe",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:HappyPickaxe": {
+      "templateId": "AthenaPickaxe:HappyPickaxe",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:Pickaxe_Deathvalley": {
+      "templateId": "AthenaPickaxe:Pickaxe_Deathvalley",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:Pickaxe_Flamingo": {
+      "templateId": "AthenaPickaxe:Pickaxe_Flamingo",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:Pickaxe_ID_011_Medieval": {
+      "templateId": "AthenaPickaxe:Pickaxe_ID_011_Medieval",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:Pickaxe_ID_012_District": {
+      "templateId": "AthenaPickaxe:Pickaxe_ID_012_District",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:Pickaxe_ID_013_Teslacoil": {
+      "templateId": "AthenaPickaxe:Pickaxe_ID_013_Teslacoil",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:Pickaxe_ID_014_WinterCamo": {
+      "templateId": "AthenaPickaxe:Pickaxe_ID_014_WinterCamo",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:Pickaxe_ID_015_HolidayCandyCane": {
+      "templateId": "AthenaPickaxe:Pickaxe_ID_015_HolidayCandyCane",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:Pickaxe_ID_016_Disco": {
+      "templateId": "AthenaPickaxe:Pickaxe_ID_016_Disco",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:Pickaxe_ID_017_Shark": {
+      "templateId": "AthenaPickaxe:Pickaxe_ID_017_Shark",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:Pickaxe_ID_018_Anchor": {
+      "templateId": "AthenaPickaxe:Pickaxe_ID_018_Anchor",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:Pickaxe_ID_019_Heart": {
+      "templateId": "AthenaPickaxe:Pickaxe_ID_019_Heart",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:Pickaxe_ID_020_Keg": {
+      "templateId": "AthenaPickaxe:Pickaxe_ID_020_Keg",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:Pickaxe_ID_021_Megalodon": {
+      "templateId": "AthenaPickaxe:Pickaxe_ID_021_Megalodon",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:Pickaxe_ID_022_HolidayGiftWrap": {
+      "templateId": "AthenaPickaxe:Pickaxe_ID_022_HolidayGiftWrap",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:Pickaxe_ID_023_SkiBoot": {
+      "templateId": "AthenaPickaxe:Pickaxe_ID_023_SkiBoot",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:Pickaxe_ID_024_Plunger": {
+      "templateId": "AthenaPickaxe:Pickaxe_ID_024_Plunger",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:Pickaxe_ID_025_Dragon": {
+      "templateId": "AthenaPickaxe:Pickaxe_ID_025_Dragon",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:Pickaxe_ID_026_Brite": {
+      "templateId": "AthenaPickaxe:Pickaxe_ID_026_Brite",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:Pickaxe_ID_027_Scavenger": {
+      "templateId": "AthenaPickaxe:Pickaxe_ID_027_Scavenger",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:Pickaxe_ID_028_Space": {
+      "templateId": "AthenaPickaxe:Pickaxe_ID_028_Space",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:Pickaxe_ID_029_Assassin": {
+      "templateId": "AthenaPickaxe:Pickaxe_ID_029_Assassin",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:Pickaxe_ID_030_ArtDeco": {
+      "templateId": "AthenaPickaxe:Pickaxe_ID_030_ArtDeco",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:Pickaxe_ID_031_Squeak": {
+      "templateId": "AthenaPickaxe:Pickaxe_ID_031_Squeak",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:Pickaxe_ID_032_Tactical": {
+      "templateId": "AthenaPickaxe:Pickaxe_ID_032_Tactical",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:Pickaxe_ID_033_PotOfGold": {
+      "templateId": "AthenaPickaxe:Pickaxe_ID_033_PotOfGold",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:Pickaxe_ID_034_RockerPunk": {
+      "templateId": "AthenaPickaxe:Pickaxe_ID_034_RockerPunk",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:Pickaxe_ID_035_Prismatic": {
+      "templateId": "AthenaPickaxe:Pickaxe_ID_035_Prismatic",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:Pickaxe_ID_036_CuChulainn": {
+      "templateId": "AthenaPickaxe:Pickaxe_ID_036_CuChulainn",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:Pickaxe_Lockjaw": {
+      "templateId": "AthenaPickaxe:Pickaxe_Lockjaw",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:SickleBatPickaxe": {
+      "templateId": "AthenaPickaxe:SickleBatPickaxe",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:SkiIcePickaxe": {
+      "templateId": "AthenaPickaxe:SkiIcePickaxe",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:SpikyPickaxe": {
+      "templateId": "AthenaPickaxe:SpikyPickaxe",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaVictoryPose:EID_RideThePony": {
+      "templateId": "AthenaVictoryPose:EID_RideThePony",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
     }
   },
   "stats": {
