@@ -1794,6 +1794,1074 @@
         "favorite": false
       },
       "quantity": 1
+    },
+	"AthenaDance:EID_BestMates": {
+      "templateId": "AthenaDance:EID_BestMates",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaDance:EID_BreakDance": {
+      "templateId": "AthenaDance:EID_BreakDance",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaDance:EID_BreakYou": {
+      "templateId": "AthenaDance:EID_BreakYou",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaDance:EID_Celebration": {
+      "templateId": "AthenaDance:EID_Celebration",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaDance:EID_Confused": {
+      "templateId": "AthenaDance:EID_Confused",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaDance:EID_Dab": {
+      "templateId": "AthenaDance:EID_Dab",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaDance:EID_DanceMoves": {
+      "templateId": "AthenaDance:EID_DanceMoves",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaDance:EID_DustOffShoulders": {
+      "templateId": "AthenaDance:EID_DustOffShoulders",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaDance:EID_ElectroShuffle": {
+      "templateId": "AthenaDance:EID_ElectroShuffle",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaDance:EID_Facepalm": {
+      "templateId": "AthenaDance:EID_Facepalm",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaDance:EID_FingerGuns": {
+      "templateId": "AthenaDance:EID_FingerGuns",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaDance:EID_Flapper": {
+      "templateId": "AthenaDance:EID_Flapper",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaDance:EID_Flex": {
+      "templateId": "AthenaDance:EID_Flex",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaDance:EID_Floss": {
+      "templateId": "AthenaDance:EID_Floss",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaDance:EID_Fresh": {
+      "templateId": "AthenaDance:EID_Fresh",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaDance:EID_IrishJig": {
+      "templateId": "AthenaDance:EID_IrishJig",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaDance:EID_KissKiss": {
+      "templateId": "AthenaDance:EID_KissKiss",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaDance:EID_MakeItRain": {
+      "templateId": "AthenaDance:EID_MakeItRain",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaDance:EID_Pinwheel": {
+      "templateId": "AthenaDance:EID_Pinwheel",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaDance:EID_PureSalt": {
+      "templateId": "AthenaDance:EID_PureSalt",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaDance:EID_RideThePony_Athena": {
+      "templateId": "AthenaDance:EID_RideThePony_Athena",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaDance:EID_Robot": {
+      "templateId": "AthenaDance:EID_Robot",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaDance:EID_RocketRodeo": {
+      "templateId": "AthenaDance:EID_RocketRodeo",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaDance:EID_Salute": {
+      "templateId": "AthenaDance:EID_Salute",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaDance:EID_SexyFlip": {
+      "templateId": "AthenaDance:EID_SexyFlip",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaDance:EID_SlowClap": {
+      "templateId": "AthenaDance:EID_SlowClap",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaDance:EID_TakeTheL": {
+      "templateId": "AthenaDance:EID_TakeTheL",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaDance:EID_TrueLove": {
+      "templateId": "AthenaDance:EID_TrueLove",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaDance:EID_Twist": {
+      "templateId": "AthenaDance:EID_Twist",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaDance:EID_Wave": {
+      "templateId": "AthenaDance:EID_Wave",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaDance:EID_Worm": {
+      "templateId": "AthenaDance:EID_Worm",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaDance:EID_Zombie": {
+      "templateId": "AthenaDance:EID_Zombie",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_100APlus": {
+      "templateId": "AthenaEmoji:Emoji_100APlus",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_1HP": {
+      "templateId": "AthenaEmoji:Emoji_1HP",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_200IQPlay": {
+      "templateId": "AthenaEmoji:Emoji_200IQPlay",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_APlus": {
+      "templateId": "AthenaEmoji:Emoji_APlus",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_Alarm": {
+      "templateId": "AthenaEmoji:Emoji_Alarm",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_ArmFlex": {
+      "templateId": "AthenaEmoji:Emoji_ArmFlex",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_Awww": {
+      "templateId": "AthenaEmoji:Emoji_Awww",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_Baited": {
+      "templateId": "AthenaEmoji:Emoji_Baited",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_BobWhat": {
+      "templateId": "AthenaEmoji:Emoji_BobWhat",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_Boombox": {
+      "templateId": "AthenaEmoji:Emoji_Boombox",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_Bullseye": {
+      "templateId": "AthenaEmoji:Emoji_Bullseye",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_Bush": {
+      "templateId": "AthenaEmoji:Emoji_Bush",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_Clapping": {
+      "templateId": "AthenaEmoji:Emoji_Clapping",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_DealWithIt": {
+      "templateId": "AthenaEmoji:Emoji_DealWithIt",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_Disco": {
+      "templateId": "AthenaEmoji:Emoji_Disco",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_Exclamation": {
+      "templateId": "AthenaEmoji:Emoji_Exclamation",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_Explosion": {
+      "templateId": "AthenaEmoji:Emoji_Explosion",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_FistBump": {
+      "templateId": "AthenaEmoji:Emoji_FistBump",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_FlamingRage": {
+      "templateId": "AthenaEmoji:Emoji_FlamingRage",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_FoamFinger": {
+      "templateId": "AthenaEmoji:Emoji_FoamFinger",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_GG": {
+      "templateId": "AthenaEmoji:Emoji_GG",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_GoodGame": {
+      "templateId": "AthenaEmoji:Emoji_GoodGame",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_Headshot": {
+      "templateId": "AthenaEmoji:Emoji_Headshot",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_HeartHands": {
+      "templateId": "AthenaEmoji:Emoji_HeartHands",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_Heartbroken": {
+      "templateId": "AthenaEmoji:Emoji_Heartbroken",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_Hoarder": {
+      "templateId": "AthenaEmoji:Emoji_Hoarder",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_HotDawg": {
+      "templateId": "AthenaEmoji:Emoji_HotDawg",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_ISeeYou": {
+      "templateId": "AthenaEmoji:Emoji_ISeeYou",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_InLove": {
+      "templateId": "AthenaEmoji:Emoji_InLove",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_Kaboom": {
+      "templateId": "AthenaEmoji:Emoji_Kaboom",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_LOL": {
+      "templateId": "AthenaEmoji:Emoji_LOL",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_Lucky": {
+      "templateId": "AthenaEmoji:Emoji_Lucky",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_MVP": {
+      "templateId": "AthenaEmoji:Emoji_MVP",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_Majestic": {
+      "templateId": "AthenaEmoji:Emoji_Majestic",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_MaryBobbins": {
+      "templateId": "AthenaEmoji:Emoji_MaryBobbins",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_Number1": {
+      "templateId": "AthenaEmoji:Emoji_Number1",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_OnFire": {
+      "templateId": "AthenaEmoji:Emoji_OnFire",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_PeaceSign": {
+      "templateId": "AthenaEmoji:Emoji_PeaceSign",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_PickAxe": {
+      "templateId": "AthenaEmoji:Emoji_PickAxe",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_Placeholder": {
+      "templateId": "AthenaEmoji:Emoji_Placeholder",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_Positivity": {
+      "templateId": "AthenaEmoji:Emoji_Positivity",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_PotatoAim": {
+      "templateId": "AthenaEmoji:Emoji_PotatoAim",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_Potion": {
+      "templateId": "AthenaEmoji:Emoji_Potion",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_RIP": {
+      "templateId": "AthenaEmoji:Emoji_RIP",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_Rabid": {
+      "templateId": "AthenaEmoji:Emoji_Rabid",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_Rage": {
+      "templateId": "AthenaEmoji:Emoji_Rage",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_Rekt": {
+      "templateId": "AthenaEmoji:Emoji_Rekt",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_Rock": {
+      "templateId": "AthenaEmoji:Emoji_Rock",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_RocketRide": {
+      "templateId": "AthenaEmoji:Emoji_RocketRide",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_Salty": {
+      "templateId": "AthenaEmoji:Emoji_Salty",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_Stealthy": {
+      "templateId": "AthenaEmoji:Emoji_Stealthy",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_Storm": {
+      "templateId": "AthenaEmoji:Emoji_Storm",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_Sucker": {
+      "templateId": "AthenaEmoji:Emoji_Sucker",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_Thief": {
+      "templateId": "AthenaEmoji:Emoji_Thief",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_ThumbsDown": {
+      "templateId": "AthenaEmoji:Emoji_ThumbsDown",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_ThumbsUp": {
+      "templateId": "AthenaEmoji:Emoji_ThumbsUp",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+	"AthenaEmoji:Emoji_Wow": {
+      "templateId": "AthenaEmoji:Emoji_Wow",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": 1,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
     }
   },
   "stats": {
