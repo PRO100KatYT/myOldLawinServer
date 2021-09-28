@@ -107,6 +107,15 @@
             "title": "LawinServer",
             "body": "Enjoy LawinServer!",
             "spotlight": false
+          },
+          {
+            "image": "",
+            "hidden": false,
+            "_type": "CommonUI Simple Message Base",
+            "adspace": "ENJOY!",
+            "title": "To są",
+            "body": "wiadomości w ratowaniu!",
+            "spotlight": false
           }
         ]
       },
@@ -115,41 +124,6 @@
       "alwaysShow": false,
       "_activeDate": "2018-08-06T18:25:46.770Z",
       "lastModified": "2019-10-30T20:17:48.789Z",
-      "_locale": "en-US"
-    },
-    "emergencynoticestw": {
-      "news": {
-        "_type": "Battle Royale News",
-        "messages": [
-          {
-            "hidden": false,
-            "_type": "CommonUI Simple Message Base",
-            "subgame": "br",
-            "title": "Ratowanie Świata by PRO100Kąt",
-            "body": "Wciśnij Zaczynamy, aby wczytać się do gry.",
-            "spotlight": true
-          }
-        ],
-        "region_messages": [
-          {
-            "_type": "CommonUI Simple Message Region",
-            "region": "NA",
-            "message": {
-              "hidden": false,
-              "_type": "CommonUI Simple Message Base",
-              "subgame": "br",
-              "title": "LawinServer",
-              "body": "Server created by Lawin (Twitter: @lawin_010) \nDiscord: https://discord.gg/KJ8UaHZ",
-              "spotlight": true
-            }
-          }
-        ]
-      },
-      "_title": "emergencynoticestw",
-      "_noIndex": false,
-      "alwaysShow": false,
-      "_activeDate": "2018-08-06T19:00:26.217Z",
-      "lastModified": "2019-10-29T22:32:52.686Z",
       "_locale": "en-US"
     },
     "battlepassaboutmessages": {
