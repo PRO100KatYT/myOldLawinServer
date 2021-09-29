@@ -3112,13 +3112,6 @@
       },
       "quantity": 1
     },
-    "0d609e04-d740-4d99-bef5-fcfa9ceaf561": {
-      "templateId": "HomebaseBannerColor:defaultcolor16",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
     "0f0e1281-25ab-405b-89d8-d9dcb86439fa": {
       "templateId": "CollectedResource:Token_collectionresource_nodegatetoken01",
       "attributes": {
@@ -3137,13 +3130,6 @@
         "favorite": false
       },
       "quantity": 2730
-    },
-    "a5c968fc-501d-43fc-8d3f-62bc1419fb1f": {
-      "templateId": "HomebaseBannerColor:defaultcolor12",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
     },
     "295ca2c9-e177-4bf2-9907-a7a867e27bb8": {
       "templateId": "Quest:homebasequest_researchpurchase",
@@ -3199,34 +3185,6 @@
         "last_mod_time": "2017-12-25T02:04:39.790Z",
         "favorite": false,
         "current_value": 1069997
-      },
-      "quantity": 1
-    },
-    "da82bdcc-3f4d-426b-91a8-13e6f60f3e56": {
-      "templateId": "HomebaseBannerIcon:standardbanner21",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
-    "70372fc5-2826-4b87-8326-8227d1db98cf": {
-      "templateId": "HomebaseBannerColor:defaultcolor21",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
-    "c0eae21a-50aa-48a3-a723-61958cefbbb9": {
-      "templateId": "HomebaseBannerColor:defaultcolor20",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
-    "99fb9ead-c6f9-489c-9488-6f2a6555e71f": {
-      "templateId": "HomebaseBannerIcon:standardbanner17",
-      "attributes": {
-        "item_seen": true
       },
       "quantity": 1
     },
@@ -3311,34 +3269,6 @@
       },
       "quantity": 1
     },
-    "003c9c95-cf60-4bf5-a34a-2f0c06eb466a": {
-      "templateId": "HomebaseBannerIcon:standardbanner16",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
-    "df9671b2-222a-4d6f-8fab-d1adc9578ba1": {
-      "templateId": "HomebaseNode:t1_main_7064c2440",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
-    "dgaab67gb2-222a-4d6f-8fab-d1adc9578ba1": {
-      "templateId": "HomebaseNode:T1_Main_4658A42D3",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
-    "dgfanhj67gb2-222a-4d6f-8fab-d1adc9578ba1": {
-      "templateId": "HomebaseNode:T1_Main_20D6FB134",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
     "c8c4d5eb-962d-424e-a27a-4c84d2a3e577": {
       "templateId": "Schematic:ammo_energycell",
       "attributes": {
@@ -3361,13 +3291,6 @@
       },
       "quantity": 1
     },
-    "b6af432f-5326-4b39-bbff-94c790abaa35": {
-      "templateId": "HomebaseBannerIcon:standardbanner20",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
     "AmmoDataRockets": {
       "templateId": "Schematic:SID_AmmoDataRockets",
       "attributes": {
@@ -3376,13 +3299,6 @@
         "item_seen": true,
         "xp": 0,
         "favorite": false
-      },
-      "quantity": 1
-    },
-    "dc8bf72e-af1c-44ca-88cb-5ffe6a11e42d": {
-      "templateId": "HomebaseBannerIcon:standardbanner26",
-      "attributes": {
-        "item_seen": true
       },
       "quantity": 1
     },
@@ -3485,27 +3401,6 @@
       },
       "quantity": 118
     },
-    "19fecccd-2cd9-4673-826b-a790e78843ec": {
-      "templateId": "HomebaseBannerIcon:standardbanner18",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
-    "ded70a97-b7fa-4c6d-be4e-cf9c5f4f1f02": {
-      "templateId": "HomebaseBannerColor:defaultcolor1",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
-    "c8b2ac94-9616-4798-82c1-2ca28699f4b6": {
-      "templateId": "HomebaseBannerColor:defaultcolor3",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
     "ef7bf36c-67d7-49bc-8731-1dce04fc5865": {
       "templateId": "EventPurchaseTracker:generic_instance",
       "attributes": {
@@ -3542,34 +3437,6 @@
         "alterations": [],
         "xp": 0,
         "favorite": false
-      },
-      "quantity": 1
-    },
-    "cec34fa5-ea54-43b5-99ab-76ec237ed005": {
-      "templateId": "HomebaseBannerIcon:standardbanner3",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
-    "3aeca522-2d1f-4663-a2a6-c27b3fb7c43b": {
-      "templateId": "HomebaseBannerIcon:standardbanner19",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
-    "d9e17bb4-3b0b-426b-9ec7-6b504af1c006": {
-      "templateId": "HomebaseBannerColor:defaultcolor6",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
-    "091395e7-5d85-49d7-915f-6e4f4329593c": {
-      "templateId": "HomebaseBannerColor:defaultcolor9",
-      "attributes": {
-        "item_seen": true
       },
       "quantity": 1
     },
@@ -3664,13 +3531,6 @@
       },
       "quantity": 1000
     },
-    "199c8fd1-d204-4268-9320-0875931ee389": {
-      "templateId": "HomebaseBannerColor:defaultcolor2",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
     "5e3f0933-ff56-4ce3-a693-0251fc37a296": {
       "templateId": "Quest:heroquest_constructorleadership",
       "attributes": {
@@ -3698,48 +3558,6 @@
         "sent_new_notification": true,
         "completion_complete_launchweatherballoon_1": 1,
         "favorite": false
-      },
-      "quantity": 1
-    },
-    "90f1579a-64fa-4b9d-8bf8-1a4d2a0ca61b": {
-      "templateId": "HomebaseBannerIcon:standardbanner27",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
-    "4034e0fe-aa09-4dcc-8f7c-a8ca3fa59f12": {
-      "templateId": "HomebaseBannerIcon:standardbanner23",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
-    "4e36c4a4-0b76-4ca4-90d0-14bce4012274": {
-      "templateId": "HomebaseBannerIcon:standardbanner14",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
-    "d471c3ba-1bec-4875-9ef9-2ccf3d8e82e9": {
-      "templateId": "HomebaseBannerIcon:standardbanner25",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
-    "f73caa8a-dca1-4fcf-bb2d-e431a9266015": {
-      "templateId": "HomebaseBannerColor:defaultcolor4",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
-    "8d05faef-1abf-4d5b-9716-8bf9ee04e35d": {
-      "templateId": "HomebaseBannerColor:defaultcolor18",
-      "attributes": {
-        "item_seen": true
       },
       "quantity": 1
     },
@@ -4585,20 +4403,6 @@
       },
       "quantity": 1
     },
-    "6668e671-11e2-4029-84d6-133d4dd83e47": {
-      "templateId": "HomebaseBannerIcon:standardbanner9",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
-    "49a505fb-1d2f-4d3f-ab34-51b5c4a9c743": {
-      "templateId": "HomebaseBannerColor:defaultcolor7",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
     "08852823-8d2c-4429-a621-e97ebb237abb": {
       "templateId": "Quest:achievement_savesurvivors",
       "attributes": {
@@ -4611,13 +4415,6 @@
         "xp": 0,
         "sent_new_notification": true,
         "favorite": false
-      },
-      "quantity": 1
-    },
-    "bc467a2e-9394-455d-b39a-278133f39c05": {
-      "templateId": "HomebaseBannerIcon:standardbanner12",
-      "attributes": {
-        "item_seen": true
       },
       "quantity": 1
     },
@@ -4636,13 +4433,6 @@
       },
       "quantity": 1
     },
-    "d48a09b8-9a07-4a56-a447-f9211d964f5c": {
-      "templateId": "HomebaseBannerColor:defaultcolor17",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
     "55c0f27d-d172-49d6-9ec5-66ba1ed3ae8e": {
       "templateId": "EventPurchaseTracker:generic_instance",
       "attributes": {
@@ -4650,20 +4440,6 @@
         "_private": false,
         "devName": "",
         "event_instance_id": "2uf66jaojc9ln271aah5pfsujg[1]0"
-      },
-      "quantity": 1
-    },
-    "8ca109fa-9ace-45cf-93ad-a265c3168b44": {
-      "templateId": "HomebaseBannerIcon:standardbanner22",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
-    "e2d6cc1e-dbe3-436a-8dd3-fba8523f7456": {
-      "templateId": "HomebaseBannerIcon:foundertier1banner4",
-      "attributes": {
-        "item_seen": true
       },
       "quantity": 1
     },
@@ -4693,13 +4469,6 @@
       },
       "quantity": 396488
     },
-    "e57a90d1-e2f5-42fd-b32d-2ebc2408c063": {
-      "templateId": "HomebaseBannerIcon:standardbanner11",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
     "66aae8ae-9385-4ad4-8ef5-6f4101eda97d": {
       "templateId": "Token:homebasepoints",
       "attributes": {
@@ -4726,20 +4495,6 @@
       },
       "quantity": 1
     },
-    "80d4a192-9206-4bb3-9a34-a4e0139f16b3": {
-      "templateId": "HomebaseBannerColor:defaultcolor15",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
-    "7c5d6c34-2f0b-4bb4-b8e3-7c5e28defa3c": {
-      "templateId": "HomebaseBannerIcon:standardbanner15",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
     "af5c4f1e-e193-4157-aaf6-04066f6bd6f5": {
       "templateId": "Schematic:ingredient_duct_tape",
       "attributes": {
@@ -4759,13 +4514,6 @@
         "alterations": [],
         "xp": 0,
         "favorite": false
-      },
-      "quantity": 1
-    },
-    "93263e0d-eb6d-42bb-8459-7a288122cdde": {
-      "templateId": "HomebaseBannerIcon:standardbanner31",
-      "attributes": {
-        "item_seen": true
       },
       "quantity": 1
     },
@@ -4818,20 +4566,6 @@
         "xp": 0,
         "sent_new_notification": true,
         "favorite": false
-      },
-      "quantity": 1
-    },
-    "6c37293a-3ffa-441f-8147-f55d0571babf": {
-      "templateId": "HomebaseBannerIcon:standardbanner28",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
-    "d9977644-d196-4e9f-93b9-126523ae5ae3": {
-      "templateId": "HomebaseBannerColor:defaultcolor14",
-      "attributes": {
-        "item_seen": true
       },
       "quantity": 1
     },
@@ -4935,13 +4669,6 @@
       },
       "quantity": 1
     },
-    "f81b9dd4-35c0-40a0-bebf-400ab1283b82": {
-      "templateId": "HomebaseBannerIcon:standardbanner13",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
     "71344f5e-5d23-47e9-a952-847952b4d9b5": {
       "templateId": "Quest:challenge_weaponupgrade_1",
       "attributes": {
@@ -4957,27 +4684,6 @@
       },
       "quantity": 1
     },
-    "ac41d1f4-6ece-45df-93b1-99830c414a68": {
-      "templateId": "HomebaseBannerIcon:standardbanner6",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
-    "b79c7228-2bdc-4f4d-8a9e-9b6eda23095d": {
-      "templateId": "HomebaseBannerColor:defaultcolor19",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
-    "59d78745-96f2-4bbc-9501-0030ad03365c": {
-      "templateId": "HomebaseBannerIcon:standardbanner2",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
     "a1ca7ab5-dd7e-4131-bf8a-819c32b3ac46": {
       "templateId": "Quest:achievement_explorezones",
       "attributes": {
@@ -4990,20 +4696,6 @@
         "xp": 0,
         "sent_new_notification": true,
         "favorite": false
-      },
-      "quantity": 1
-    },
-    "410d8f37-8216-4466-b987-af3a7303f217": {
-      "templateId": "HomebaseBannerIcon:standardbanner29",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
-    "110c9ba5-3b17-4625-b74e-a581f0ed823e": {
-      "templateId": "HomebaseBannerIcon:foundertier1banner3",
-      "attributes": {
-        "item_seen": true
       },
       "quantity": 1
     },
@@ -5037,13 +4729,6 @@
       },
       "quantity": 1
     },
-    "8c67473e-3f3a-4cb7-bf9c-1637d285cdaa": {
-      "templateId": "HomebaseBannerIcon:foundertier1banner2",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
     "9aafecdc-c09f-4741-add3-41f3e521d955": {
       "templateId": "Quest:homebaseonboardinggrantschematics",
       "attributes": {
@@ -5056,27 +4741,6 @@
         "completion_questcomplete_outpostquest_t1_l1": 1,
         "sent_new_notification": true,
         "favorite": false
-      },
-      "quantity": 1
-    },
-    "3abeaad4-31fd-49b9-ac16-35fcee36de7d": {
-      "templateId": "HomebaseBannerIcon:standardbanner10",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
-    "bd18cee3-fe9e-4da1-8d31-9aea8c7b76a2": {
-      "templateId": "HomebaseBannerIcon:standardbanner4",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
-    "bd6d7ee4-d76e-4856-9352-eb0238ff6350": {
-      "templateId": "HomebaseBannerColor:defaultcolor10",
-      "attributes": {
-        "item_seen": true
       },
       "quantity": 1
     },
@@ -5101,13 +4765,6 @@
         "favorite": false
       },
       "quantity": 10
-    },
-    "f3c84f3b-b88f-4d26-977f-b0ef79b2bc96": {
-      "templateId": "HomebaseBannerIcon:standardbanner7",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
     },
     "bb5e6cc5-8083-412e-a391-3b434462f4a6": {
       "templateId": "Token:campaignaccess",
@@ -5195,27 +4852,6 @@
       },
       "quantity": 1
     },
-    "903efe28-0319-4ef0-9cc0-23df20ff39c1": {
-      "templateId": "HomebaseBannerIcon:standardbanner8",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
-    "fac3f7bb-08e7-46ef-b369-44d0469ababe": {
-      "templateId": "HomebaseBannerColor:defaultcolor8",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
-    "f7877f09-0826-45e2-8224-c833443d9c56": {
-      "templateId": "HomebaseBannerIcon:foundertier1banner1",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
     "a04fe907-248d-4b60-b918-53cc7497ab32": {
       "templateId": "AccountResource:eventcurrency_snowballs",
       "attributes": {
@@ -5226,13 +4862,6 @@
         "favorite": false
       },
       "quantity": 100
-    },
-    "85272884-de04-4721-bc9b-38f1b33562cc": {
-      "templateId": "HomebaseBannerColor:defaultcolor13",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
     },
     "82c46baf-9e03-4314-a2fd-3c461ffc1a0e": {
       "templateId": "Quest:monthrewardquest_getrewards",
@@ -5246,13 +4875,6 @@
         "xp": 0,
         "sent_new_notification": true,
         "favorite": false
-      },
-      "quantity": 1
-    },
-    "1387c1b3-72d7-4a8d-8fbe-ebb6cdae7494": {
-      "templateId": "HomebaseBannerIcon:standardbanner1",
-      "attributes": {
-        "item_seen": true
       },
       "quantity": 1
     },
@@ -5448,13 +5070,6 @@
       },
       "quantity": 1
     },
-    "5429e1a5-0912-4ab7-99b3-e8da47c91af5": {
-      "templateId": "HomebaseBannerIcon:standardbanner5",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
     "2688163d-2bbc-491f-a0c0-dc59339aa479": {
       "templateId": "Defender:did_defenderassault_basic_uc_t01",
       "attributes": {
@@ -5543,34 +5158,6 @@
       },
       "quantity": 1
     },
-    "86f45fb2-9124-4882-9514-c789f8511e02": {
-      "templateId": "HomebaseBannerIcon:standardbanner30",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
-    "9a81c00a-f628-4149-bfdd-900ed9e38c91": {
-      "templateId": "HomebaseBannerColor:defaultcolor11",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
-    "6aad6572-1812-41d5-8bbd-17e548d27e03": {
-      "templateId": "HomebaseBannerIcon:newsletterbanner",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
-    "6675b2c3-5349-47db-9b41-dda66fb9429e": {
-      "templateId": "HomebaseBannerIcon:standardbanner24",
-      "attributes": {
-        "item_seen": true
-      },
-      "quantity": 1
-    },
     "c5e97bfa-d599-42d0-a07e-735507956ba9": {
       "templateId": "Currency:MtxGiveaway",
       "attributes": {
@@ -5590,13 +5177,6 @@
         "sent_new_notification": true,
         "favorite": false,
         "completion_collectionbook_levelup": 2
-      },
-      "quantity": 1
-    },
-    "5e1a3e10-fd40-4418-8e75-05f328223d52": {
-      "templateId": "HomebaseBannerColor:defaultcolor5",
-      "attributes": {
-        "item_seen": true
       },
       "quantity": 1
     },
@@ -10115,8 +9695,155 @@
       },
       "quantity": 1
     },
-    "BannerSurvivalStonewood": {
-      "templateId": "HomebaseBannerIcon:SurvivalBannerStonewoodComplete",
+    "HomebaseBannerColor:DefaultColor1": {
+      "templateId": "HomebaseBannerColor:DefaultColor1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor2": {
+      "templateId": "HomebaseBannerColor:DefaultColor2",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor3": {
+      "templateId": "HomebaseBannerColor:DefaultColor3",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor4": {
+      "templateId": "HomebaseBannerColor:DefaultColor4",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor5": {
+      "templateId": "HomebaseBannerColor:DefaultColor5",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor6": {
+      "templateId": "HomebaseBannerColor:DefaultColor6",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor7": {
+      "templateId": "HomebaseBannerColor:DefaultColor7",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor8": {
+      "templateId": "HomebaseBannerColor:DefaultColor8",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor9": {
+      "templateId": "HomebaseBannerColor:DefaultColor9",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor10": {
+      "templateId": "HomebaseBannerColor:DefaultColor10",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor11": {
+      "templateId": "HomebaseBannerColor:DefaultColor11",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor12": {
+      "templateId": "HomebaseBannerColor:DefaultColor12",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor13": {
+      "templateId": "HomebaseBannerColor:DefaultColor13",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor14": {
+      "templateId": "HomebaseBannerColor:DefaultColor14",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor15": {
+      "templateId": "HomebaseBannerColor:DefaultColor15",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor16": {
+      "templateId": "HomebaseBannerColor:DefaultColor16",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor17": {
+      "templateId": "HomebaseBannerColor:DefaultColor17",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor18": {
+      "templateId": "HomebaseBannerColor:DefaultColor18",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor19": {
+      "templateId": "HomebaseBannerColor:DefaultColor19",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor20": {
+      "templateId": "HomebaseBannerColor:DefaultColor20",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor21": {
+      "templateId": "HomebaseBannerColor:DefaultColor21",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:": {
+      "templateId": "HomebaseBannerIcon:",
       "attributes": {
         "item_seen": true
       },
