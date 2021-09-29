@@ -5488,6 +5488,13 @@
       },
       "quantity": 1
     },
+	"ozs6c-tguf-p31dsn-m12f213": {
+      "templateId": "HomebaseNode:TRTrunk_1_0",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
     "ozs6c-tguf-p31dsn-m12f": {
       "templateId": "HomebaseNode:TRTrunk_1_1",
       "attributes": {
