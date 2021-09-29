@@ -5775,8 +5775,8 @@
       },
       "quantity": 1
     },
-	"T1_Main_NK04": {
-      "templateId": "HomebaseNode:T1_Main_NK04",
+	"T1_Main_640195112": {
+      "templateId": "HomebaseNode:T1_Main_640195112",
       "attributes": {
         "item_seen": true
       },
@@ -6083,8 +6083,8 @@
       },
       "quantity": 1
     },
-	"T2_Main_NK01": {
-      "templateId": "HomebaseNode:T2_Main_NK01",
+	"T2_Main_117540212": {
+      "templateId": "HomebaseNode:T2_Main_117540212",
       "attributes": {
         "item_seen": true
       },
