@@ -9842,8 +9842,8 @@
       },
       "quantity": 1
     },
-    "HomebaseBannerIcon:": {
-      "templateId": "HomebaseBannerIcon:",
+    "HomebaseBannerIcon:SurvivalBannerStonewoodComplete": {
+      "templateId": "HomebaseBannerIcon:SurvivalBannerStonewoodComplete",
       "attributes": {
         "item_seen": true
       },
