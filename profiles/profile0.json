@@ -5754,6 +5754,34 @@
       },
       "quantity": 1
     },
+	"T1_Main_7064C2440": {
+      "templateId": "HomebaseNode:T1_Main_7064C2440",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+	"T1_Main_4658A42D3": {
+      "templateId": "HomebaseNode:T1_Main_4658A42D3",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+	"T1_Main_20D6FB134": {
+      "templateId": "HomebaseNode:T1_Main_20D6FB134",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+	"T1_Main_NK04": {
+      "templateId": "HomebaseNode:T1_Main_NK04",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
     "6b4kq-p5ye-u67vry-ninb": {
       "templateId": "HomebaseNode:T2_Main_A3A5DA870",
       "attributes": {
@@ -6036,6 +6064,27 @@
     },
     "krzg6-qlcb-i10rrr-1wud": {
       "templateId": "HomebaseNode:T2_Main_2006052B6",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+	"T2_Main_E1D78B190": {
+      "templateId": "HomebaseNode:T2_Main_E1D78B190",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+	"T2_Main_A9644DDD1": {
+      "templateId": "HomebaseNode:T2_Main_A9644DDD1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+	"T2_Main_NK01": {
+      "templateId": "HomebaseNode:T2_Main_NK01",
       "attributes": {
         "item_seen": true
       },
@@ -6825,6 +6874,27 @@
       },
       "quantity": 1
     },
+	"T3_Main_3E101B6A5": {
+      "templateId": "HomebaseNode:T3_Main_3E101B6A5",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+	"T3_Main_E5013A630": {
+      "templateId": "HomebaseNode:T3_Main_E5013A630",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+	"T3_Main_114D8AD91": {
+      "templateId": "HomebaseNode:T3_Main_114D8AD91",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
     "ywn7f-7bwk-4m599g-r1iq": {
       "templateId": "HomebaseNode:T3_Main_2E9E28772",
       "attributes": {
@@ -7597,6 +7667,27 @@
     },
     "y88qg-9dk1-uo7q4m-gg1b": {
       "templateId": "HomebaseNode:T4_Main_152DB9C30",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+	"T4_Main_64CEDC561": {
+      "templateId": "HomebaseNode:T4_Main_64CEDC561",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+	"T4_Main_EE2BC2321": {
+      "templateId": "HomebaseNode:T4_Main_EE2BC2321",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+	"T4_Main_BE19D3D22": {
+      "templateId": "HomebaseNode:T4_Main_BE19D3D22",
       "attributes": {
         "item_seen": true
       },
