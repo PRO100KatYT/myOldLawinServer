@@ -164,29 +164,55 @@ express.get("/api/v1/events/Fortnite/download/*", async (req, res) => {
 })
 
 express.get("/lightswitch/api/service/bulk/status", async (req, res) => {
-	res.json(
-			[
-				{
-				  "serviceInstanceId": "fortnite",
-				  "status": "UP",
-				  "message": "fortnite is up.",
-				  "maintenanceUri": null,
-				  "overrideCatalogIds": [
-					"a7f138b2e51945ffbfdacc1af0541053"
-				  ],
-				  "allowedActions": [
-					"PLAY",
-					"DOWNLOAD"
-				  ],
-				  "banned": false,
-				  "launcherInfoDTO": {
-					"appName": "Fortnite",
-					"catalogItemId": "4fe75bbc5a674f4f9b356b5c90567da5",
-					"namespace": "fn"
-				  }
-				}
-			]
-		)
+	if (!req.headers["user-agent"].includes("3935073")) {
+		res.json(
+				[
+					{
+					"serviceInstanceId": "fortnite",
+					"status": "UP",
+					"message": "fortnite is up.",
+					"maintenanceUri": null,
+					"overrideCatalogIds": [
+						"a7f138b2e51945ffbfdacc1af0541053"
+					],
+					"allowedActions": [
+						"PLAY",
+						"DOWNLOAD"
+					],
+					"banned": true,
+					"launcherInfoDTO": {
+						"appName": "Fortnite",
+						"catalogItemId": "4fe75bbc5a674f4f9b356b5c90567da5",
+						"namespace": "fn"
+						}
+					}
+				]
+			)
+		} else {
+		res.json(
+				[
+					{
+					"serviceInstanceId": "fortnite",
+					"status": "UP",
+					"message": "fortnite is up.",
+					"maintenanceUri": null,
+					"overrideCatalogIds": [
+						"a7f138b2e51945ffbfdacc1af0541053"
+					],
+					"allowedActions": [
+						"PLAY",
+						"DOWNLOAD"
+					],
+					"banned": false,
+					"launcherInfoDTO": {
+						"appName": "Fortnite",
+						"catalogItemId": "4fe75bbc5a674f4f9b356b5c90567da5",
+						"namespace": "fn"
+						}
+					}
+				]
+			)
+		}
 	res.status(200);
 	res.end();
 })
@@ -460,40 +486,28 @@ express.get("/fortnite/api/game/v2/privacy/account/*", async (req, res) => {
 })
 
 express.get("/account/api/public/account/:accountId", async (req, res) => {
-	if (!req.headers["user-agent"].includes("3935073")) {
-		return res
-		.status(420)
-		.json(
-			{
-				"errorCode":"\n\nZe względów technicznych, jedyne rzeczy, które możesz ewoluować to:\n- Legendarny Schemat: Machina Oblężnicza",
-				"numericErrorCode":69,
-				"originatingService":"chujekjebany",
-				"intent":"prod-live"
-			})
-		} else {
 		res.json(
-		{
-			"id": req.params.accountId,
-			"displayName": "PRO100KatYT",
-			"name": "Lawin",
-			"email": req.params.accountId + "@gmail.com",
-			"failedLoginAttempts": 0,
-			"lastLogin": new Date().toISOString(),
-			"numberOfDisplayNameChanges": 0,
-			"ageGroup": "UNKNOWN",
-			"headless": false,
-			"country": "PL",
-			"lastName": "PRO100KatYT",
-			"preferredLanguage": "pl",
-			"canUpdateDisplayName": false,
-			"tfaEnabled": false,
-			"emailVerified": true,
-			"minorVerified": false,
-			"minorExpected": false,
-			"minorStatus": "UNKNOWN"
-		}
-	)
-}
+	{
+		"id": req.params.accountId,
+		"displayName": "PRO100KatYT",
+		"name": "Lawin",
+		"email": req.params.accountId + "@gmail.com",
+		"failedLoginAttempts": 0,
+		"lastLogin": new Date().toISOString(),
+		"numberOfDisplayNameChanges": 0,
+		"ageGroup": "UNKNOWN",
+		"headless": false,
+		"country": "PL",
+		"lastName": "PRO100KatYT",
+		"preferredLanguage": "pl",
+		"canUpdateDisplayName": false,
+		"tfaEnabled": false,
+		"emailVerified": true,
+		"minorVerified": false,
+		"minorExpected": false,
+		"minorStatus": "UNKNOWN"
+	}
+)
 	res.status(200);
 	res.end();
 	console.log("Osoba sie zalogowala.")
