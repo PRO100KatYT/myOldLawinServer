@@ -209,7 +209,7 @@
         "quest_state": "Claimed",
         "last_state_change_time": "2020-01-17T12:16:44.924Z",
         "challenge_linked_quest_parent": "",
-        "complete_launchrocket": 1,
+        "completion_complete_launchrocket": 1,
         "max_level_bonus": 0,
         "selection": -1,
         "xp": 0,
