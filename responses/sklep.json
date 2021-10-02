@@ -280,9 +280,9 @@
                "catalogGroup":"",
                "catalogGroupPriority":0,
                "sortPriority":0,
-               "title":"Legendary Troll Stash Llama",
+               "title":"Legendarna lama ze skrytki trolla",
                "shortDescription":"",
-               "description":"An entire suite of goodies, direct from your local troll's stash! Contains at least 8 definitely-not-stolen items.",
+               "description":"Cały zestaw skarbów prosto ze skrytki miejscowego trolla! Zawiera przynajmniej 8 przedmiotów (na pewno nie kradzionych).",
                "displayAssetPath":"",
                "itemGrants":[
                   {
@@ -3981,9 +3981,9 @@
                "catalogGroup":"",
                "catalogGroupPriority":0,
                "sortPriority":0,
-               "title":"Mini Reward Llama",
+               "title":"Minilama",
                "shortDescription":"",
-               "description":"A simple llama stuffed with basic goods to get you through your first apocalypse. Contains 3 items.\r\n",
+               "description":"Prosta lama wypchana podstawowymi rzeczami, które pomogą ci przetrwać twoją pierwszą apokalipsę. Zawiera 3 przedmioty.\r\n",
                "displayAssetPath":"",
                "itemGrants":[
                   {
