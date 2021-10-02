@@ -2183,11 +2183,11 @@
                "prices":[
                   {
                      "currencyType":"GameItem",
-                     "currencySubType":"AccountResource:eventcurrency_roadtrip",
-                     "regularPrice":1000,
-                     "finalPrice":1000,
+                     "currencySubType":"AccountResource:EventCurrency_Spring",
+                     "regularPrice":500,
+                     "finalPrice":500,
                      "saleExpiration":"2022-09-10T13:08:20Z",
-                     "basePrice":1000
+                     "basePrice":500
                   }
                ],
                "categories":[
