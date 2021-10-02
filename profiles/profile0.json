@@ -4829,7 +4829,7 @@
       "quantity": 1
     },
     "a04fe907-248d-4b60-b918-53cc7497ab32": {
-      "templateId": "AccountResource:eventcurrency_snowballs",
+      "templateId": "AccountResource:EventCurrency_Spring",
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -4837,7 +4837,7 @@
         "xp": 0,
         "favorite": false
       },
-      "quantity": 100
+      "quantity": 100000
     },
     "82c46baf-9e03-4314-a2fd-3c461ffc1a0e": {
       "templateId": "Quest:monthrewardquest_getrewards",
