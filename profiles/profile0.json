@@ -119,17 +119,6 @@
       },
       "quantity": 1
     },
-    "BurzowaTwine": {
-      "templateId": "Outpost:OutpostCore_PvE_04",
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 5,
-        "item_seen": true,
-        "xp": 0,
-        "favorite": false
-      },
-      "quantity": 1
-    },
     "FoundersFriendCode": {
       "templateId": "ConsumableAccountItem:FoundersFriendCode",
       "attributes": {
@@ -5095,7 +5084,7 @@
         "xp": 0,
         "favorite": false
       },
-      "quantity": 69420
+      "quantity": 27690
     },
     "42517541-1c5f-46ae-9537-1d7dc08acb3b": {
       "templateId": "AccountResource:schematicxp",
