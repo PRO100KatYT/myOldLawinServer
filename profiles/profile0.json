@@ -3009,11 +3009,88 @@
       },
       "quantity": 1
     },
+    "OutpostZero": {
+      "templateId": "Outpost:OutpostCore_PvE_00",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 10,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "OutpostStone": {
+      "templateId": "Outpost:OutpostCore_PvE_01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 10,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "OutpostDesko": {
+      "templateId": "Outpost:OutpostCore_PvE_02",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 10,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "OutpostDolina": {
+      "templateId": "Outpost:OutpostCore_PvE_03",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 10,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
     "OutpostTwine": {
       "templateId": "Outpost:OutpostCore_PvE_04",
       "attributes": {
         "max_level_bonus": 0,
         "level": 10,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "EmotkaTaniec": {
+      "templateId": "Emote:Dance",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": -1,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "EmotkaJazdaNaKucyku": {
+      "templateId": "Emote:RideThePony",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": -1,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "CampaignBadge_Gold": {
+      "templateId": "Badge:CampaignBadge_Gold",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": -1,
         "item_seen": true,
         "xp": 0,
         "favorite": false
