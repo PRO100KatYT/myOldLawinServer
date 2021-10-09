@@ -3094,7 +3094,7 @@
         "xp": 0,
         "favorite": false
       },
-      "quantity": 2730
+      "quantity": 2147483647
     },
     "295ca2c9-e177-4bf2-9907-a7a867e27bb8": {
       "templateId": "Quest:homebasequest_researchpurchase",
@@ -3450,7 +3450,7 @@
         "xp": 0,
         "favorite": false
       },
-      "quantity": 1000
+      "quantity": 2147483647
     },
     "CzystaKroplaDeszczu2": {
       "templateId": "AccountResource:Reagent_C_T02",
@@ -3461,7 +3461,7 @@
         "xp": 0,
         "favorite": false
       },
-      "quantity": 1000
+      "quantity": 2147483647
     },
     "CzystaKroplaDeszczu3": {
       "templateId": "AccountResource:Reagent_C_T03",
@@ -3472,7 +3472,7 @@
         "xp": 0,
         "favorite": false
       },
-      "quantity": 1000
+      "quantity": 2147483647
     },
     "CzystaKroplaDeszczu4": {
       "templateId": "AccountResource:Reagent_C_T04",
@@ -3483,7 +3483,7 @@
         "xp": 0,
         "favorite": false
       },
-      "quantity": 1000
+      "quantity": 2147483647
     },
     "ProjektyBroni": {
       "templateId": "AccountResource:Reagent_Weapons",
@@ -3494,7 +3494,7 @@
         "xp": 0,
         "favorite": false
       },
-      "quantity": 1000
+      "quantity": 2147483647
     },
     "5e3f0933-ff56-4ce3-a693-0251fc37a296": {
       "templateId": "Quest:heroquest_constructorleadership",
@@ -4432,7 +4432,7 @@
         "xp": 0,
         "favorite": false
       },
-      "quantity": 396488
+      "quantity": 2147483647
     },
     "66aae8ae-9385-4ad4-8ef5-6f4101eda97d": {
       "templateId": "Token:homebasepoints",
@@ -4826,7 +4826,7 @@
         "xp": 0,
         "favorite": false
       },
-      "quantity": 100000
+      "quantity": 2147483647
     },
     "82c46baf-9e03-4314-a2fd-3c461ffc1a0e": {
       "templateId": "Quest:monthrewardquest_getrewards",
@@ -4882,7 +4882,7 @@
         "xp": 0,
         "favorite": false
       },
-      "quantity": 15
+      "quantity": 2147483647
     },
     "5036da7c-c2be-4974-9895-4127ecb2ae23": {
       "templateId": "HomebaseNode:t1_main_fabc7c290",
@@ -5095,7 +5095,7 @@
         "xp": 0,
         "favorite": false
       },
-      "quantity": 100000
+      "quantity": 2147483647
     },
     "8e1169bc-b242-4d8f-9707-a01aef0e1847": {
       "templateId": "AccountResource:personnelxp",
@@ -5106,7 +5106,7 @@
         "xp": 0,
         "favorite": false
       },
-      "quantity": 3590
+      "quantity": 2147483647
     },
     "f3bda5ee-3521-40b8-b5d9-4262726458b5": {
       "templateId": "Quest:achievement_buildstructures",
