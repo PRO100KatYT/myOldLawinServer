@@ -3010,10 +3010,10 @@
       "quantity": 1
     },
     "OutpostTwine": {
-      "templateId": "PersonalVehicle:Outpost:OutpostCore_PvE_04",
+      "templateId": "Outpost:OutpostCore_PvE_04",
       "attributes": {
         "max_level_bonus": 0,
-        "level": 1,
+        "level": 10,
         "item_seen": true,
         "xp": 0,
         "favorite": false
