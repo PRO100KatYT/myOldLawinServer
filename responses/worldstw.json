@@ -32852,10 +32852,10 @@
                   "rowName":"None"
                },
                "tileIndex":0,
-               "availableUntil":"2018-07-08T10:24:15.000Z"
+               "availableUntil":"2022-02-05T23:12:19.785Z"
             }
          ],
-         "nextRefresh":"2018-07-08T10:24:15.000Z"
+         "nextRefresh":"2022-02-05T23:12:19.785Z"
       },
       {
          "theaterId":"67EDCFE942260C290B369BA7AA70A0D5",
@@ -32894,10 +32894,10 @@
                   "rowName":"Theater_Hard_Zone4"
                },
                "tileIndex":0,
-               "availableUntil":"2018-07-08T08:34:49.000Z"
+               "availableUntil":"2022-02-05T23:12:19.785Z"
             }
          ],
-         "nextRefresh":"2018-07-08T08:34:49.000Z"
+         "nextRefresh":"2022-02-05T23:12:19.785Z"
       },
       {
          "theaterId":"8633333E41A86F67F78EAEAF25BF4735",
@@ -32927,10 +32927,10 @@
                   "rowName":"Theater_Tutorial_Zone1"
                },
                "tileIndex":0,
-               "availableUntil":"2018-07-08T08:45:15.000Z"
+               "availableUntil":"2022-02-05T23:12:19.785Z"
             }
          ],
-         "nextRefresh":"2018-07-08T08:45:15.000Z"
+         "nextRefresh":"2022-02-05T23:12:19.785Z"
       }
    ],
    "missionAlerts":[
@@ -32943,7 +32943,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"cecb3329-c6be-4625-979f-ce0468d6fd04",
                "tileIndex":30,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:6",
@@ -32974,7 +32974,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"6bdd3ea4-c5f7-4784-aa19-0b2b44404f87",
                "tileIndex":16,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:4",
@@ -33005,7 +33005,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"5076da66-819c-43f4-848f-83497e7933a8",
                "tileIndex":86,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:3",
@@ -33036,7 +33036,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"5385190a-4ca2-416e-b20e-4cc9957a318c",
                "tileIndex":21,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:5",
@@ -33067,7 +33067,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"32fd40ad-e166-4bf7-919e-99057a8d9945",
                "tileIndex":18,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:4",
@@ -33104,7 +33104,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"6d3b73ed-4216-4214-95a1-f5552795c03b",
                "tileIndex":20,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:4",
@@ -33135,7 +33135,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"5dee5d63-29eb-4cee-8658-3bbff9aae97b",
                "tileIndex":37,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:3",
@@ -33166,7 +33166,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"7fcf4e03-2b71-4590-9928-7648028807b4",
                "tileIndex":24,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:5",
@@ -33192,7 +33192,7 @@
                }
             }
          ],
-         "nextRefresh":"2018-07-08T14:24:15.000Z"
+         "nextRefresh":"2022-02-05T23:12:19.785Z"
       },
       {
          "theaterId":"D477605B4FA48648107B649CE97FCF27",
@@ -33203,7 +33203,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"d48c98c4-00a5-4d87-a57e-b5b5ff8294dc",
                "tileIndex":154,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_ElementalZone_Fire",
@@ -33238,7 +33238,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"aa151b56-7e2b-4a97-bed7-0832ff809974",
                "tileIndex":145,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_ElementalZone_Fire",
@@ -33273,7 +33273,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"8323bbb8-a141-4222-827c-0b1eca200dc6",
                "tileIndex":149,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_ElementalZone_Nature",
@@ -33308,7 +33308,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"ed328b56-4f6f-4fc6-b125-ecbe8b863801",
                "tileIndex":44,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_ElementalZone_Nature",
@@ -33343,7 +33343,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"093a34d0-16c2-4b2b-b798-7895b8e00ed5",
                "tileIndex":166,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_ElementalZone_Water",
@@ -33378,7 +33378,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"59885f18-87ad-4ab6-82a4-07dcc927cf05",
                "tileIndex":9,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_ElementalZone_Water",
@@ -33413,7 +33413,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"feda4e66-1de6-414b-b43c-d8f69a929990",
                "tileIndex":24,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:8",
@@ -33444,7 +33444,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"62066f43-5ce8-42e8-9626-f98f140ae32c",
                "tileIndex":143,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:8",
@@ -33475,7 +33475,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"a77f3b53-7db4-4139-a213-81ddc95f05eb",
                "tileIndex":153,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:9",
@@ -33506,7 +33506,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"67d159f2-a887-4724-9710-efab5602e07e",
                "tileIndex":31,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:9",
@@ -33537,7 +33537,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"83655a09-b8e6-49cc-85e7-6c30645a6ff8",
                "tileIndex":36,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:10",
@@ -33568,7 +33568,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"2d076042-f220-4ddc-8951-5fb7d5b53f7d",
                "tileIndex":7,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:6",
@@ -33599,7 +33599,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"1c0fc646-6e6b-43dd-9763-b0207bbea119",
                "tileIndex":34,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:6",
@@ -33636,7 +33636,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"8d22abe0-7de9-489c-9968-787de79e432a",
                "tileIndex":139,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:7",
@@ -33667,7 +33667,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"db761ef6-d883-4bfe-84b8-2a5972b2913e",
                "tileIndex":80,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:6",
@@ -33698,7 +33698,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"28cccbbc-4aef-4c46-852d-837da2de59a3",
                "tileIndex":33,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:9",
@@ -33729,7 +33729,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"cbc7350d-fd23-4a5f-9c07-34da87b68980",
                "tileIndex":15,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:7",
@@ -33760,7 +33760,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"76c626dd-20f4-4fb2-a0fa-ae553bf630a0",
                "tileIndex":60,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:10",
@@ -33791,7 +33791,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"8e771513-f03d-49b8-b9d4-ec37e133738e",
                "tileIndex":39,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:8",
@@ -33822,7 +33822,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"4a850368-ddf6-4b77-b290-a9d9f64cfc0e",
                "tileIndex":18,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:10",
@@ -33853,7 +33853,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"97bc302f-e14b-4437-b9c1-76df9c8bc57a",
                "tileIndex":45,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:10",
@@ -33884,7 +33884,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"fb29f8e3-1f19-4ee2-84b1-25500e4f7f90",
                "tileIndex":16,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:7",
@@ -33919,7 +33919,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"bb1dbf1b-20c0-48d4-bdc0-f2dcf6abd7b2",
                "tileIndex":26,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:7",
@@ -33954,7 +33954,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"4affd82d-1cfe-4a02-99f3-d8846d31ce98",
                "tileIndex":140,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:7",
@@ -33989,7 +33989,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"16f20285-8225-4ab3-a349-4bde5831c936",
                "tileIndex":0,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:6",
@@ -34024,7 +34024,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"8a64642e-7c3e-4ed1-87c9-520b42975e6d",
                "tileIndex":161,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:10",
@@ -34059,7 +34059,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"272542b8-2e8e-4695-ac09-9e319f9d464c",
                "tileIndex":29,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:9",
@@ -34094,7 +34094,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"51c6f263-4431-4d95-baa6-9efe3c95d392",
                "tileIndex":42,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:10",
@@ -34129,7 +34129,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"43fc5c2d-7add-4a59-8920-c0fcbecc0a10",
                "tileIndex":155,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:10",
@@ -34164,7 +34164,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"5e397938-ebad-4137-b767-cdbd6dafcef3",
                "tileIndex":134,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:7",
@@ -34199,7 +34199,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"6d43704b-9472-460f-96a4-61fa299f3723",
                "tileIndex":159,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:9",
@@ -34229,7 +34229,7 @@
                }
             }
          ],
-         "nextRefresh":"2018-07-08T14:24:15.000Z"
+         "nextRefresh":"2022-02-05T23:12:19.785Z"
       },
       {
          "theaterId":"E6ECBD064B153234656CB4BDE6743870",
@@ -34240,7 +34240,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"d6bfc76b-f5e1-4d5c-9b3f-4bd1586c19fd",
                "tileIndex":115,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_ElementalZone_Fire",
@@ -34275,7 +34275,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"b3160428-7da9-4f14-8eea-ddd2b550f1bb",
                "tileIndex":45,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_ElementalZone_Fire",
@@ -34310,7 +34310,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"8f9c7201-fb53-4379-acbf-ad23af794450",
                "tileIndex":101,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_ElementalZone_Nature",
@@ -34345,7 +34345,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"cd90ece4-6102-407f-9a59-ef4bd7372828",
                "tileIndex":107,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_ElementalZone_Nature",
@@ -34380,7 +34380,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"94a9d7e2-d35f-458c-8583-045f27be8632",
                "tileIndex":43,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_ElementalZone_Water",
@@ -34415,7 +34415,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"f2f98b1a-dee2-4b71-a39f-89f78bffb227",
                "tileIndex":19,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_ElementalZone_Water",
@@ -34450,7 +34450,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"112c764c-23f9-4156-ab24-19b81bb5a644",
                "tileIndex":21,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:15",
@@ -34481,7 +34481,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"0a7b327f-afc0-4b64-854e-33e93e5aae01",
                "tileIndex":18,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:15",
@@ -34518,7 +34518,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"fe086f23-1e4b-4bda-9151-6ee5bc58b454",
                "tileIndex":61,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:12",
@@ -34549,7 +34549,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"cb02302e-ecbd-408a-8924-4d3c4a9c2146",
                "tileIndex":24,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:14",
@@ -34580,7 +34580,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"ade561d7-99a9-48f8-ae14-193e2d687d3a",
                "tileIndex":60,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:12",
@@ -34611,7 +34611,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"38a083ed-5112-4375-8c47-babdab2f7222",
                "tileIndex":40,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:13",
@@ -34642,7 +34642,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"cd0c95ed-ab64-4f1e-91ee-7a4110857d51",
                "tileIndex":116,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:13",
@@ -34673,7 +34673,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"0dbc562d-1665-4013-a82d-ff5a0ae865cd",
                "tileIndex":92,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:14",
@@ -34704,7 +34704,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"f605f8c0-c28a-435f-99eb-71243f95f067",
                "tileIndex":1,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:11",
@@ -34735,7 +34735,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"49a947a6-f7c8-41f2-ae86-e69f2511f64d",
                "tileIndex":44,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:11",
@@ -34766,7 +34766,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"bd301f21-354b-4a15-a7d7-3e2c5cc2dba8",
                "tileIndex":67,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:15",
@@ -34797,7 +34797,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"a2778a97-749d-4d41-a304-f7eaa21640c8",
                "tileIndex":105,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:13",
@@ -34828,7 +34828,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"b87d0340-4e4b-449d-96a8-2de4bcc69cc8",
                "tileIndex":4,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:15",
@@ -34859,7 +34859,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"47bb8a6d-91f1-4d50-8401-74bbd3aa5ec3",
                "tileIndex":20,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:15",
@@ -34890,7 +34890,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"bab73d65-31e4-4725-877e-076cee803b76",
                "tileIndex":72,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:15",
@@ -34921,7 +34921,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"71526075-57c4-4f03-a6d0-c477a71e2922",
                "tileIndex":22,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:15",
@@ -34960,7 +34960,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"c8178fca-edef-42d1-8f35-d1e9468e3fd1",
                "tileIndex":13,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:11",
@@ -34999,7 +34999,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"bc04fa0f-3342-4428-ab5c-0fd7bcc2def8",
                "tileIndex":98,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:14",
@@ -35038,7 +35038,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"77d69e7d-ef07-4663-90b4-b737a88e70cf",
                "tileIndex":93,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:14",
@@ -35077,7 +35077,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"ca6acae1-4715-45a8-9624-082c5e60ec62",
                "tileIndex":30,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:14",
@@ -35116,7 +35116,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"fb014f8a-b86b-4923-abff-cf48a9c38245",
                "tileIndex":26,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:13",
@@ -35155,7 +35155,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"05679ee3-e352-42cc-8a8c-9b4577314ff0",
                "tileIndex":14,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:11",
@@ -35194,7 +35194,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"c387a86f-7797-4b86-93c1-58caaaafe4ab",
                "tileIndex":97,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:14",
@@ -35233,7 +35233,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"0632491f-3573-4b58-9c93-7078fd498fba",
                "tileIndex":103,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:13",
@@ -35272,7 +35272,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"808cca3c-54b1-43cc-a84d-c7c9a372943a",
                "tileIndex":96,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:14",
@@ -35306,7 +35306,7 @@
                }
             }
          ],
-         "nextRefresh":"2018-07-08T14:24:15.000Z"
+         "nextRefresh":"2022-02-05T23:12:19.785Z"
       },
       {
          "theaterId":"D9A801C5444D1C74D1B7DAB5C7C12C5B",
@@ -35317,7 +35317,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"7db70252-ccb9-4b1d-a2bc-150c2048f6b8",
                "tileIndex":86,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_ElementalZone_Fire",
@@ -35352,7 +35352,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"acf68ef7-e7e2-4c49-87de-f8302da96d89",
                "tileIndex":77,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_ElementalZone_Fire",
@@ -35387,7 +35387,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"b0038093-dbdb-4581-be0c-c622ed42168f",
                "tileIndex":70,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_ElementalZone_Nature",
@@ -35422,7 +35422,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"9c2c20d3-aded-475f-8dfb-d784e0bca165",
                "tileIndex":44,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_ElementalZone_Nature",
@@ -35457,7 +35457,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"258a1a73-5f23-46ca-b185-92ec607cc22c",
                "tileIndex":51,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_ElementalZone_Water",
@@ -35492,7 +35492,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"6c1d55f7-e265-4fe8-bf09-49a202f72358",
                "tileIndex":42,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_ElementalZone_Water",
@@ -35527,7 +35527,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"7d7b9dc2-d374-480e-bac7-e04ac2f813fe",
                "tileIndex":1,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:19",
@@ -35558,7 +35558,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"bec460ea-5b03-4319-a395-3c0a2e9e0392",
                "tileIndex":67,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:17",
@@ -35589,7 +35589,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"dc2fd72c-13bb-4a67-a6f5-cb654efd793e",
                "tileIndex":30,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:19",
@@ -35626,7 +35626,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"5cb80365-298f-422c-8b09-2241c838217c",
                "tileIndex":41,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:17",
@@ -35657,7 +35657,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"cf7983c7-cef5-4b1b-854a-bceafe59b938",
                "tileIndex":36,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:19",
@@ -35688,7 +35688,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"27773d7d-e900-4152-8c71-816a8bbe621c",
                "tileIndex":64,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:17",
@@ -35719,7 +35719,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"87f569de-bfca-411f-ac4e-5f8133634bc9",
                "tileIndex":17,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:16",
@@ -35756,7 +35756,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"7febc5ed-7c6a-4cd6-a8f7-f6a3823a5125",
                "tileIndex":50,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:18",
@@ -35787,7 +35787,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"52869518-732a-4f4a-a119-9641a1b0b8cc",
                "tileIndex":7,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:18",
@@ -35818,7 +35818,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"093b6f03-81bd-4c7e-898d-9a8deed46745",
                "tileIndex":16,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:16",
@@ -35849,7 +35849,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"5ffebdfa-f49a-44d5-a021-611a9a8cb17c",
                "tileIndex":32,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:19",
@@ -35880,7 +35880,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"65dad399-92ad-4538-8938-581692eab3af",
                "tileIndex":53,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:16",
@@ -35911,7 +35911,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"2d123905-0472-4afa-a1c1-41a4ceac02cf",
                "tileIndex":73,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:18",
@@ -35942,7 +35942,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"5745129d-d5f8-41f5-b2c2-cb7d9ffaed27",
                "tileIndex":39,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:20",
@@ -35973,7 +35973,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"a806078a-a046-4cac-b8bb-4e42ec342c54",
                "tileIndex":43,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_MiniBoss:18",
@@ -36004,7 +36004,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"aabb94f3-4c0d-4fb0-8eb8-fba722c252b3",
                "tileIndex":29,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:19",
@@ -36047,7 +36047,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"2d86b274-95b4-4bc7-a16f-bae31172b0a8",
                "tileIndex":76,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:18",
@@ -36090,7 +36090,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"b21502ca-1043-4138-93a9-f873052fd213",
                "tileIndex":27,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:20",
@@ -36133,7 +36133,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"0c0984bc-e9b3-4e9a-a7ed-ccc3e829cb51",
                "tileIndex":81,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:19",
@@ -36176,7 +36176,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"8e5b3827-3475-409e-b18d-8e56036dfcf6",
                "tileIndex":63,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:17",
@@ -36219,7 +36219,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"971bef4e-0d0e-44db-b6ed-62583662294f",
                "tileIndex":4,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:19",
@@ -36262,7 +36262,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"320aa39b-a978-4c3e-8874-f21d16cca533",
                "tileIndex":54,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:16",
@@ -36305,7 +36305,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"c2fdb1ce-660c-45b4-9ac1-a3e851352759",
                "tileIndex":31,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:19",
@@ -36348,7 +36348,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"022a39c8-9052-4405-883e-a8cf62d8142d",
                "tileIndex":14,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:17",
@@ -36391,7 +36391,7 @@
                "spreadDataName":"None",
                "missionAlertGuid":"8b3cdeca-3644-4a10-97f0-08ac6fe0a4b0",
                "tileIndex":34,
-               "availableUntil":"2018-07-08T14:24:15.000Z",
+               "availableUntil":"2022-02-05T23:12:19.785Z",
                "totalSpreadRefreshes":0,
                "missionAlertRewards":{
                   "tierGroupName":"MissionAlert_StormLow:19",
@@ -36429,28 +36429,28 @@
                }
             }
          ],
-         "nextRefresh":"2018-07-08T14:24:15.000Z"
+         "nextRefresh":"2022-02-05T23:12:19.785Z"
       },
       {
          "theaterId":"032A5E154DDB914B517E59869F8D109A",
          "availableMissionAlerts":[
             
          ],
-         "nextRefresh":"2018-07-08T09:24:15.000Z"
+         "nextRefresh":"2022-02-05T23:12:19.785Z"
       },
       {
          "theaterId":"67EDCFE942260C290B369BA7AA70A0D5",
          "availableMissionAlerts":[
             
          ],
-         "nextRefresh":"2018-07-08T09:24:15.000Z"
+         "nextRefresh":"2022-02-05T23:12:19.785Z"
       },
       {
          "theaterId":"8633333E41A86F67F78EAEAF25BF4735",
          "availableMissionAlerts":[
             
          ],
-         "nextRefresh":"2018-07-08T08:45:30.000Z"
+         "nextRefresh":"2022-02-05T23:12:19.785Z"
       }
    ]
 }
