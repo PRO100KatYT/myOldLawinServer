@@ -2,7 +2,7 @@
     "_title": "Fortnite Game",
     "_activeDate": "2017-08-30T03:20:48.050Z",
     "lastModified": "2019-11-01T17:33:35.346Z",
-    "_locale": "en-US",
+    "_locale": "pl-PL",
     "athenamessage": {
       "_title": "athenamessage",
       "overrideablemessage": {
@@ -16,7 +16,7 @@
       },
       "_activeDate": "2017-08-30T03:08:31.687Z",
       "lastModified": "2017-11-10T15:38:47.250Z",
-      "_locale": "en-US"
+      "_locale": "pl-PL"
     },
     "subgameselectdata": {
       "saveTheWorldUnowned": {
@@ -58,7 +58,7 @@
       },
       "_activeDate": "2017-10-11T18:37:23.145Z",
       "lastModified": "2019-05-06T12:59:15.974Z",
-      "_locale": "en-US"
+      "_locale": "pl-PL"
     },
     "savetheworldnews": {
       "news": {
@@ -98,41 +98,7 @@
       "alwaysShow": false,
       "_activeDate": "2018-08-06T18:25:46.770Z",
       "lastModified": "2019-10-30T20:17:48.789Z",
-      "_locale": "en-US"
-    },
-    "subgameinfo": {
-      "battleroyale": {
-        "image": "https://progameguides.com/wp-content/uploads/2018/12/fortnite-outfit-fishstick.jpg",
-        "color": "1164c1",
-        "_type": "Subgame Info",
-        "description": "microtransactions galore",
-        "subgame": "battleroyale",
-        "standardMessageLine2": "",
-        "title": "Cash Cow",
-        "standardMessageLine1": ""
-      },
-      "savetheworld": {
-        "image": "https://progameguides.com/wp-content/uploads/2018/12/fortnite-outfit-fishstick.jpg",
-        "color": "7615E9FF",
-        "specialMessage": "",
-        "_type": "Subgame Info",
-        "description": "Uncooperative PvE storm-fighting adventure! Only the finest premium experience delivered by Epic.\n\nfor the love of fuck, epic, please continue developing this game",
-        "subgame": "savetheworld",
-        "title": "The Premium Experience"
-      },
-      "_title": "SubgameInfo",
-      "_noIndex": false,
-      "_activeDate": "2019-05-02T16:48:47.429Z",
-      "lastModified": "2019-10-29T12:44:06.577Z",
-      "_locale": "en-US"
-    },
-    "lobby": {
-      "backgroundimage": "https://cdn2.unrealengine.com/Fortnite%2Ffortnite-game%2Flobby%2FT_Lobby_SeasonX-2048x1024-24e02780ed533da8001016f4e6fb14dd15e2f860.png",
-      "stage": "seasonx",
-      "_title": "lobby",
-      "_activeDate": "2019-05-31T21:24:39.892Z",
-      "lastModified": "2019-07-31T21:24:17.119Z",
-      "_locale": "en-US"
+      "_locale": "pl-PL"
     },
     "emergencynotice": {
       "news": {
@@ -149,7 +115,7 @@
           {
             "hidden": false,
             "_type": "CommonUI Simple Message Base",
-            "subgame": "savetheworld",
+            "subgame": "stw",
             "title": "Ratowanie Świata by PRO100Kąt rs",
             "body": "Wciśnij Zaczynamy, aby wczytać się do gry.",
             "spotlight": true
@@ -175,7 +141,7 @@
       "alwaysShow": false,
       "_activeDate": "2018-08-06T19:00:26.217Z",
       "lastModified": "2019-10-29T22:32:52.686Z",
-      "_locale": "en-US"
+      "_locale": "pl-PL"
     },
     "battleroyalenews": {
       "news": {
@@ -224,7 +190,7 @@
       "alwaysShow": false,
       "_activeDate": "2018-08-17T16:00:00.000Z",
       "lastModified": "2019-10-31T20:29:39.334Z",
-      "_locale": "en-US"
+      "_locale": "pl-PL"
     },
     "dynamicbackgrounds": {
       "backgrounds": {
@@ -246,7 +212,7 @@
       "_noIndex": false,
       "_activeDate": "2019-08-21T15:59:59.342Z",
       "lastModified": "2019-10-29T13:07:27.936Z",
-      "_locale": "en-US"
+      "_locale": "pl-PL"
     },
     "_suggestedPrefetch": []
   }
