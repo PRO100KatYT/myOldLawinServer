@@ -28,7 +28,62 @@
             "itemSource":""
          },
          "quantity":1
-      }
+      },
+    "OutpostZero": {
+      "templateId": "Outpost:OutpostCore_PvE_00",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 10,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "OutpostStone": {
+      "templateId": "Outpost:OutpostCore_PvE_01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 10,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "OutpostDesko": {
+      "templateId": "Outpost:OutpostCore_PvE_02",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 10,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "OutpostDolina": {
+      "templateId": "Outpost:OutpostCore_PvE_03",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 10,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "OutpostTwine": {
+      "templateId": "Outpost:OutpostCore_PvE_04",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 10,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    }
    },
    "stats":{
       "attributes":{
