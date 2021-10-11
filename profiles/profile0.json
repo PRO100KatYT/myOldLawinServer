@@ -2922,6 +2922,54 @@
       },
       "quantity": 1
     },
+    "BohaterTestZolnierz": {
+      "templateId": "Hero:HID_Commando_Cinematic_TEST_R_T03",
+      "attributes": {
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterTestBudowniczy": {
+      "templateId": "Hero:HID_Constructor_Cinematic_TEST_R_T03",
+      "attributes": {
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "BohaterTestNinja": {
+      "templateId": "Hero:HID_Ninja_Cinematic_TEST_R_T03",
+      "attributes": {
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "favorite": false
+      },
+      "quantity": 1
+    }
+    "BohaterTestRubieznik": {
+      "templateId": "Hero:HID_Outlander_Cinematic_TEST_R_T03",
+      "attributes": {
+        "level": 30,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "favorite": false
+      },
+      "quantity": 1
+    },
     "QuestRakietaKamienny": {
       "templateId": "Quest:StonewoodQuest_LaunchRocket_D5",
       "attributes": {
