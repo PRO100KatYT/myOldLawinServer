@@ -11831,7 +11831,6 @@
         "managerSynergy": "Homebase.Manager.IsTrainer",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Medicine_EMTSquad"
       },
       "quantity": 1
     },
@@ -11850,7 +11849,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Medicine_EMTSquad",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -11870,7 +11868,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Medicine_EMTSquad",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -11890,7 +11887,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Medicine_EMTSquad",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -11910,7 +11906,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Medicine_EMTSquad",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -11930,7 +11925,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Medicine_EMTSquad",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -11950,7 +11944,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Medicine_EMTSquad",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -11970,7 +11963,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Medicine_EMTSquad",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -11991,7 +11983,6 @@
         "managerSynergy": "Homebase.Manager.IsTrainer",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Arms_FireTeamAlpha"
       },
       "quantity": 1
     },
@@ -12010,7 +12001,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Arms_FireTeamAlpha",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12030,7 +12020,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Arms_FireTeamAlpha",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12050,7 +12039,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Arms_FireTeamAlpha",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12070,7 +12058,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Arms_FireTeamAlpha",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12090,7 +12077,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Arms_FireTeamAlpha",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12110,7 +12096,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Arms_FireTeamAlpha",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12130,7 +12115,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Arms_FireTeamAlpha",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12151,7 +12135,6 @@
         "managerSynergy": "Homebase.Manager.IsTrainer",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Scavenging_Gadgeteers"
       },
       "quantity": 1
     },
@@ -12170,7 +12153,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Scavenging_Gadgeteers",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12190,7 +12172,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Scavenging_Gadgeteers",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12210,7 +12191,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Scavenging_Gadgeteers",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12230,7 +12210,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Scavenging_Gadgeteers",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12250,7 +12229,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Scavenging_Gadgeteers",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12270,7 +12248,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Scavenging_Gadgeteers",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12290,7 +12267,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Scavenging_Gadgeteers",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12311,7 +12287,6 @@
         "managerSynergy": "Homebase.Manager.IsTrainer",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Synthesis_CorpsofEngineering"
       },
       "quantity": 1
     },
@@ -12330,7 +12305,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Synthesis_CorpsofEngineering",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12350,7 +12324,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Synthesis_CorpsofEngineering",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12370,7 +12343,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Synthesis_CorpsofEngineering",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12390,7 +12362,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Synthesis_CorpsofEngineering",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12410,7 +12381,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Synthesis_CorpsofEngineering",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12430,7 +12400,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Synthesis_CorpsofEngineering",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12450,7 +12419,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Synthesis_CorpsofEngineering",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12471,7 +12439,6 @@
         "managerSynergy": "Homebase.Manager.IsTrainer",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Medicine_TrainingTeam"
       },
       "quantity": 1
     },
@@ -12490,7 +12457,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Medicine_TrainingTeam",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12510,7 +12476,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Medicine_TrainingTeam",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12530,7 +12495,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Medicine_TrainingTeam",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12550,7 +12514,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Medicine_TrainingTeam",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12570,7 +12533,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Medicine_TrainingTeam",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12590,7 +12552,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Medicine_TrainingTeam",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12610,7 +12571,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Medicine_TrainingTeam",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12631,7 +12591,6 @@
         "managerSynergy": "Homebase.Manager.IsTrainer",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Arms_CloseAssaultSquad"
       },
       "quantity": 1
     },
@@ -12650,7 +12609,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Arms_CloseAssaultSquad",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12670,7 +12628,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Arms_CloseAssaultSquad",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12690,7 +12647,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Arms_CloseAssaultSquad",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12710,7 +12666,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Arms_CloseAssaultSquad",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12730,7 +12685,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Arms_CloseAssaultSquad",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12750,7 +12704,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Arms_CloseAssaultSquad",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12770,7 +12723,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Arms_CloseAssaultSquad",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12791,7 +12743,6 @@
         "managerSynergy": "Homebase.Manager.IsTrainer",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Scavenging_ScoutingParty"
       },
       "quantity": 1
     },
@@ -12810,7 +12761,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Scavenging_ScoutingParty",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12830,7 +12780,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Scavenging_ScoutingParty",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12850,7 +12799,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Scavenging_ScoutingParty",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12870,7 +12818,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Scavenging_ScoutingParty",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12890,7 +12837,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Scavenging_ScoutingParty",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12910,7 +12856,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Scavenging_ScoutingParty",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12930,7 +12875,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Scavenging_ScoutingParty",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12951,7 +12895,6 @@
         "managerSynergy": "Homebase.Manager.IsTrainer",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Synthesis_TheThinkTank"
       },
       "quantity": 1
     },
@@ -12970,7 +12913,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Synthesis_TheThinkTank",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -12990,7 +12932,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Synthesis_TheThinkTank",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -13010,7 +12951,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Synthesis_TheThinkTank",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -13030,7 +12970,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Synthesis_TheThinkTank",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -13050,7 +12989,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Synthesis_TheThinkTank",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -13070,7 +13008,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Synthesis_TheThinkTank",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
@@ -13090,7 +13027,6 @@
         "slotted_building_id": "",
         "building_slot_used": -1,
         "favorite": false,
-        "_id": "Squad_Attribute_Synthesis_TheThinkTank",
         "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
       },
       "quantity": 1
