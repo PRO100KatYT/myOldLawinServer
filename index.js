@@ -791,6 +791,11 @@ express.get("/fortnite/api/calendar/v1/timeline", async (req, res) => {
 							"eventType": `EventFlag.${seasondata.lobby}`,
 							"activeUntil": "2021-09-10T13:08:20Z",
 							"activeSince": "2020-01-01T13:00:00.000Z"
+						  },
+						  {
+							"eventType": "EventFlag.Horde",
+							"activeUntil": "9999-01-01T14:00:00.000Z",
+							"activeSince": "2020-01-01T13:00:00.000Z"
 						  }
 						],
 						"state": {
