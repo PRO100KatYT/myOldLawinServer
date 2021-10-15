@@ -5211,6 +5211,50 @@
       },
       "quantity": 27690
     },
+    "TokenHordobicie1": {
+      "templateId": "Token:HordePointsTier1",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "TokenHordobicie2": {
+      "templateId": "Token:HordePointsTier2",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "TokenHordobicie3": {
+      "templateId": "Token:HordePointsTier3",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "TokenHordobicie4": {
+      "templateId": "Token:HordePointsTier4",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
     "42517541-1c5f-46ae-9537-1d7dc08acb3b": {
       "templateId": "AccountResource:schematicxp",
       "attributes": {
