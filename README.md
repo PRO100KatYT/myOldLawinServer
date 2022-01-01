@@ -1,2 +1,2 @@
-![LawinServer](https://i.imgur.com/wrXceO6.png)
+![LawinServer](https://i.imgur.com/fpysHlE.png)
 LawinServer is a Fortnite Private server
