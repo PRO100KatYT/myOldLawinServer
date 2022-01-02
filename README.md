@@ -24,7 +24,7 @@
   - Collection Book slotting and unslotting
   - Claiming Daily Rewards
   - Claiming Quest and Collection Book Rewards
-  - Modifying Save the World quickbars in Backpack
+  - Modifying quickbars in Backpack
   - Activating XP Boosts
   - Events in Frontend up to Season X
   - Buying Skill Tree perks
