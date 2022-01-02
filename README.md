@@ -3,15 +3,11 @@
 
   ### LawinServer is a private server that supports all Fortnite versions!
   
+</div>
+  
   <br>
   
   ## Features:
   
-  <div align=left>
-  
   - Sus
   - Saseq
-  
-  </div>  
-  
-</div>
