@@ -1,7 +1,7 @@
-<div align=center>
+<div align=center>  
   <img src="https://i.imgur.com/fpysHlE.png" alt="LawinServer">
 
-  ### LawinServer is a private server that supports all Fortnite versions!
+  # This is a very old and messy LawinServer fork on which I was discovering stuff, taking my first steps in programming, and learning how Fortnite backends work. After Lawin returned to the community, I started contributing to the main LawinServer repository instead.
   
 </div>
 <br>
